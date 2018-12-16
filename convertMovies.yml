@@ -1,0 +1,1668 @@
+Movies:
+  "42nd Street (1933)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "42ND_STREET"
+        source_name: "title00.mkv"
+  "A Million Ways to Die in the West (2014)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "A_MILLION_WAYS_TO_DIE_IN_THE_WES"
+        source_name: "title06.mkv"
+  "A View to a Kill (1985)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "A View to a Kill.mp4"
+  "Adam Sandler- 100- Fresh (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "ADAM SANDLER 100% FRESH.mp4"
+  "An American in Paris (1951)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "AN_AMERICAN_IN_PARIS_DISC1"
+        source_name: "AN_AMERICAN_IN_PARIS_DISC1_t00.mkv"
+  "An American Tail- Fievel Goes West (1991)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "An American Tail_ Fievel Goes West.mp4"
+  "Annie (1982)":
+    "Feature":
+      "30th_Anniversary_BD":
+        edition: "30th_Anniversary_BD"
+        source_dir: "Annie"
+        source_name: "Annie_t01.mkv"
+  "American Graffiti (1973)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "GRAFFITI"
+        source_name: "title00.mkv"
+  "Atlantis- The Lost Empire (2001)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Atlantis_The_Lost_Empire,_Atlantis_Milo's_Return"
+        source_name: "Atlantis_The_Lost_Empire,_Atlantis_Milo's_Return_t18.mkv"
+  "Atlantis- Milo-s Return (2003)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Atlantis_The_Lost_Empire,_Atlantis_Milo's_Return"
+        source_name: "Atlantis_The_Lost_Empire,_Atlantis_Milo's_Return_t15.mkv"
+  "Austin Powers- International Man of Mystery (1997)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "AP_MAN_OF_MYSTERY_BD01"
+        source_name: "title00.mkv"
+  "Austin Powers- The Spy Who Shagged Me (1999)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "AP_SPY_WHO_SHAGGED_BD01"
+        source_name: "title00.mkv"
+  "Austin Powers in Goldmember (2002)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Austin_Powers_In_Goldmember"
+        source_name: "Austin_Powers_In_Goldmember_t00.mkv"
+  "Back to the Future (1985)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Back_to_the_Future"
+        source_name: "Back_to_the_Future_t00.mkv"
+  "Back to the Future Part II (1989)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Back_to_the_Future_Part_II"
+        source_name: "Back_to_the_Future_Part_II_t00.mkv"
+  "Back to the Future Part III (1990)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Back_to_the_Future_Part_III"
+        source_name: "Back_to_the_Future_Part_III_t00.mkv"
+    "Bonus":
+      "TODO":
+        type: "deleted"
+        source_dir: "Back_to_the_Future_Bonus_Disc"
+        source_name: "Back_to_the_Future_Bonus_Disc_t00.mkv"
+  "Battle of Britain- The Real Story (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Battle of Britain_ The Real Story.mp4"
+  "Batman Begins (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "BATMAN_BEGINS"
+        source_name: "BATMAN_BEGINS_t00.mkv"
+  "Batman v Superman- Dawn of Justice (2016)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Batman_v_Superman_Dawn_of_Justice"
+        source_name: "Batman_v_Superman_Dawn_of_Justice_t01.mkv"
+  "Beauty and the Beast (2017)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Beauty_And_The_Beast_(Live_Action)"
+        source_name: "Beauty_And_The_Beast_(Live_Action)_t00.mkv"
+  "Becoming Bond (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Becoming Bond.mp4"
+  "Black Panther (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Black Panther.mp4"
+  "Blazing Saddles (1974)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "BLAZING_SADDLES"
+        source_name: "BLAZING_SADDLES_t00.mkv"
+  "Bleach (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Bleach.mp4"
+  "Blue Collar Comedy Tour- One for the Road (2006)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "BLUE_COLLAR_COMEDY_TOUR_3_FS_US"
+        source_name: "title00.mkv"
+  "Bolt (2008)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Bolt.mp4"
+  "Brave (2012)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "BRAVE"
+        source_name: "title00.mkv"
+  "Bridesmaids (2011)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "BRIDESMAIDS"
+        source_name: "title00.mkv"
+  "Brother Bear 2 (2006)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Brother Bear 2.mp4"
+  "Bruce Almighty (2003)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "BRUCE_ALMIGHTY"
+        source_name: "title00.mkv"
+  "Cabaret (1972)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "CABARET_4X3_FF_NA"
+        source_name: "title00.mkv"
+  "Camelot (1967)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "CAMELOT_1967"
+        source_name: "title00.mkv"
+  "Captain America The First Avenger (2011)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "CAPTAIN_AMERICA"
+        source_name: "title00.mkv"
+  "Captain Underpants_ The First Epic Movie (2017)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Captain_Underpants_The_First_Epic_Movie"
+        source_name: "Captain_Underpants_The_First_Epic_Movie_t00.mkv"
+  "Catwoman (2004)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Catwoman.mp4"
+  "Coco (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Coco.mp4"
+  "Constantine (2005)":
+    "Feature":
+      "DVD Fullscreen":
+        edition: "DVD Fullscreen"
+        source_dir: "CONSTANTINE"
+        source_name: "CONSTANTINE_t00.mkv"
+  "Charlie and the Chocolate Factory (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "CHARLIE_AND_THE_CHOCOLATE_FACTORY"
+        source_name: "CHARLIE_AND_THE_CHOCOLATE_FACTORY_t00.mkv"
+  "Chicago (2002)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "CHICAGOSED1"
+        source_name: "title00.mkv"
+  "Clear and Present Danger (1994)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Clear_and_Present_Danger"
+        source_name: "Clear_and_Present_Danger_t00.mkv"
+  "D-Day 6-6-1944 (2004)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "D-Day.mp4"
+  "Deadpool (2016)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Deadpool"
+        source_name: "Deadpool_t01.mkv"
+  "Deadpool 2 (2018)":
+    "Feature":
+      "BD_Super_Duper_Cut":
+        edition: "BD_Super_Duper_Cut"
+        source_dir: "Deadpool_2_ext"
+        source_name: "Deadpool_2_t00.mkv"
+      "BD":
+        edition: "BD"
+        source_dir: "Deadpool_2"
+        source_name: "Deadpool_2_t00.mkv"
+  "Despicable Me (2010)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Despicable_Me"
+        source_name: "Despicable_Me_t01.mkv"
+  "Despicable Me 2 (2013)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "DESPICABLE_ME_2"
+        source_name: "title01.mkv"
+  "Despicable Me 3 (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Despicable Me 3.mp4"
+  "Doctor Strange (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Doctor Strange.mp4"
+  "Dodgeball- A True Underdog Story (2004)":
+    "Feature":
+      "UNRATED_BD":
+        edition: "UNRATED_BD"
+        source_dir: "DODGEBALL_UNRATED"
+        source_name: "DODGEBALL_UNRATED_t00.mkv"
+  "Doom (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Doom.mp4"
+  "Double Jeopardy (1999)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "DOUBJEOP"
+        source_name: "title00.mkv"
+  "Dr. No (1962)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Dr. No.mp4"
+  "Enemy at the Gates (2001)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "ENEMYATTHEGATES"
+        source_name: "title00.mkv"
+  "Eragon (2006)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "ERAGON_WS"
+        source_name: "title00.mkv"
+  "Evan Almighty (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "EVAN_ALMIGHTY"
+        source_name: "title07.mkv"
+  "Fantastic Beasts and Where to Find Them (2016)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "FANTASTIC_BEASTS"
+        source_name: "title00.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "FANTASTIC_BEASTS_BONUS"
+        source_name: "title00.mkv"
+  "FernGully- The Last Rainforest (1992)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "FERGULLY_16X9_1"
+        source_name: "title00.mkv"
+    "Bonus":
+      "DVD_FS":
+        type: "deleted"
+        source_dir: "FERNGULLY_4X3_1"
+        source_name: "title00.mkv"
+  "Fiddler on the Roof (1971)":
+    "Feature":
+      "40th_Anniversary_Edition_BD":
+        edition: "40th_Anniversary_Edition_BD"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t02.mkv"
+    "Bonus":
+      "Storyboard to Film Comparison":
+        type: "behindthescenes"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t00.mkv"
+      "Norman Jewison_ how I ended up directing Fiddler on the Roof":
+        type: "interview"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t03.mkv"
+      "On Screen":
+        type: "trailer"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t04.mkv"
+      "A Fidddler on the Roof":
+        type: "trailer"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t05.mkv"
+      "Tevye_s Dream Sequence Storyboard":
+        type: "behindthescenes"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t06.mkv"
+      "Proposal for Tzeitel Storyboard":
+        type: "behindthescenes"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t07.mkv"
+      "Matchmaker song Storyboard":
+        type: "behindthescenes"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t08.mkv"
+      "Set In Reality_ Production Design":
+        type: "interview"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t09.mkv"
+      "Tevye_s Daughters":
+        type: "interview"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t10.mkv"
+      "Any Day Now":
+        type: "deleted"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t11.mkv"
+      "Songs of Fillder on the Roof":
+        type: "interview"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t12.mkv"
+      "John Williams_ Creating a Musical Tradition":
+        type: "interview"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t13.mkv"
+      "Tevye_s Dream Scene in Color":
+        type: "behindthescenes"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t14.mkv"
+      "Norman Jewison_ Looks back on success in Japan":
+        type: "interview"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t15.mkv"
+      "Norman Jewison_ Filmmaker":
+        type: "interview"
+        source_dir: "Fiddler_on_the_Roof"
+        source_name: "Fiddler_on_the_Roof_t16.mkv"
+  "Flyboys (2006)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "FLYBOYS_WS"
+        source_name: "title00.mkv"
+  "Friday After Next (2002)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "FRIDAY_AFTER_NEXT"
+        source_name: "title00.mkv"
+    "Bonus":
+      "DVD_FS":
+        type: "deleted"
+        source_dir: "FRIDAY_AFTER_NEXT_FF"
+        source_name: "title00.mkv"
+  "From Russia with Love (1963)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "From Russia With Love.mp4"
+  "Frosty-s Winter Wonderland (1976)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "FROSTYS_WINTER_WONDERLAND_DE"
+        source_name: "title00.mkv"
+  "Frozen (2013)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "FROZEN"
+        source_name: "title00.mkv"
+  "Ghostbusters (1984)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Ghostbusters.mp4"
+  "Ghostbusters II (1989)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Ghostbusters 2.mp4"
+  "Goldfinger (1964)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Goldfinger.mp4"
+  "Good Morning- Vietnam (1987)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Good_Morning_Vietnam"
+        source_name: "Good_Morning_Vietnam_t01.mkv"
+  "Guardians of the Galaxy Vol- 2 (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Guardians of the Galaxy Vol. 2.mp4"
+  "Hairspray (1988)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "HAIRSPRAY"
+        source_name: "title00.mkv"
+  "Hancock (2008)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Hancock_Hitch"
+        source_name: "Hancock_Hitch_t00.mkv"
+  "Harry Potter and the Sorcerer-s Stone (2001)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "HARRY_POTTER"
+        source_name: "title00.mkv"
+  "Harry Potter and the Chamber of Secrets (2002)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "HARRY_POTTER_2"
+        source_name: "title01.mkv"
+  "Harry Potter and the Prisoner of Azkaban (2004)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "HARRYPOTTER3"
+        source_name: "title01.mkv"
+  "Harry Potter and the Goblet of Fire (2005)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "HP4"
+        source_name: "title00.mkv"
+  "Harry Potter and the Order of the Phoenix (2007)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "HP5_PHOENIX"
+        source_name: "title00.mkv"
+  "Harry Potter and the Half-Blood Prince (2009)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "Harry_Potter_and_the_Half-Blood_Prince"
+        source_name: "Harry_Potter_and_the_Half-Blood_Prince_t01.mkv"
+  "Harry Potter and the Deathly Hallows- Part 1 (2010)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "Harry_Potter_and_the_Deathly_Hallows_Part_1"
+        source_name: "Harry_Potter_and_the_Deathly_Hallows_Part_1_t01.mkv"
+  "Harry Potter and the Deathly Hallows- Part 2 (2011)":
+    "Feature":
+      "BD_set":
+        edition: "BD_set"
+        source_dir: "Harry_Potter_and_the_Deathly_Hallows_Part_2"
+        source_name: "Harry_Potter_and_the_Deathly_Hallows_Part_2_t00.mkv"
+  "Hercules (1997)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Hercules.mp4"
+  "High Crimes (2002)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title00.mkv"
+    "Bonus":
+      "A conversation with author joe finder":
+        type: "interview"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title01.mkv"
+      "Arrest Scene":
+        type: "behindthescenes"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title02.mkv"
+      "A Different Kind of Justice":
+        type: "featurette"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title03.mkv"
+      "Liar Liar":
+        type: "featurette"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title04.mkv"
+      "Car Crash Sequence":
+        type: "behindthescenes"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title05.mkv"
+      "Ashley Judd and Morgan Freeman chemistry":
+        type: "behindthescenes"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title06.mkv"
+      "All That_s":
+        type: "trailer"
+        source_dir: "HIGH_CRIMES"
+        source_name: "title07.mkv"
+  "Hiroshima (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Hiroshima_ BBC History of World War II.mp4"
+  "Hitch (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Hancock_Hitch"
+        source_name: "Hancock_Hitch_t01.mkv"
+  "Hitler-s Steel Beast (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Hitler's Steel Beast.mp4"
+  "Hollywood Homicide (2003)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Hollywood_Homicide"
+        source_name: "Hollywood_Homicide_t00.mkv"
+  "How to Train Your Dragon (2010)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "How_to_Train_Your_Dragon"
+        source_name: "How_to_Train_Your_Dragon_t00.mkv"
+  "How to Train Your Dragon 2 (2014)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "HOW_TO_TRAIN_YOUR_DRAGON_2"
+        source_name: "title00.mkv"
+  "I Am Legend (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "I_AM_LEGEND"
+        source_name: "I_AM_LEGEND_t00.mkv"
+  "I, Robot (2004)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "I_ROBOT_4X3"
+        source_name: "title00.mkv"
+  "Idiocracy (2006)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "IDIOCRACY_SIDEA"
+        source_name: "title00.mkv"
+  "Independence Day (1996)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "ID4_DAT"
+        source_name: "title00.mkv"
+  "Indiana Jones and the Kingdom of the Crystal Skull (2008)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "INDIANA_JONES_4_AC"
+        source_name: "title00.mkv"
+  "Jeff Dunham- Relative Disaster (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Jeff Dunham_ Relative Disaster.mp4"
+  "Jeff Dunham- Spark of Insanity (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Jeff_Dunham_Spark_of_Insanity"
+        source_name: "Jeff_Dunham_Spark_of_Insanity_t00.mkv"
+  "Jeff Foxworthy - Larry the Cable Guy- We've Been Thinking (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Jeff Foxworthy and Larry the Cable Guy_ We’ve Been Thinking....mp4"
+  "Kick-Ass (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Kick-Ass.mp4"
+  "Kill Bill- Vol. 1 (2003)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "KILLBILL_VOL1"
+        source_name: "title00.mkv"
+  "Kiss the Girls (1997)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "KISGRL69"
+        source_name: "title00.mkv"
+  "Kung Fu Panda (2008)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Kung Fu Panda.mp4"
+  "Latin History for Morons- John Leguizamo-s Road to Broadway (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "John Leguizamo's Latin History for Morons.mp4"
+  "Lara Croft- Tomb Raider (2001)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lara Croft_ Tomb Raider.mp4"
+  "Lethal Weapon (1987)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Lethal_Weapon"
+        source_name: "title00.mkv"
+  "Lethal Weapon 2 (1989)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Lethal_Weapon_2"
+        source_name: "Lethal_Weapon_2_t03.mkv"
+  "Lethal Weapon 3 (1992)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Lethal_Weapon_3"
+        source_name: "Lethal_Weapon_3_t01.mkv"
+  "Lethal Weapon 4 (1998)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Lethal_Weapon_4"
+        source_name: "Lethal_Weapon_4_t03.mkv"
+  "Leap! (2016)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Leap!"
+        source_name: "Leap!_t02.mkv"
+  "Left Behind- The Movie (2000)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "LEFT_BEHIND"
+        source_name: "title02.mkv"
+  "Left Behind II- Tribulation Force (2002)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "LB2_TF"
+        source_name: "title00.mkv"
+  "Left Behind III- World at War (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "LEFT_BEHIND_III_WORLD_AT_WAR"
+        source_name: "title00.mkv"
+  "Les Misérables_ 10th Anniversary Concert at the Royal Albert Hall (1995)":
+    "Feature":
+      "10th_anniversary_concert_DVD":
+        edition: "10th_anniversary_concert_DVD"
+        source_dir: "LES_MISERABLES"
+        source_name: "title00.mkv"
+    "Bonus":
+      "COPPER season 1":
+        type: "trailer"
+        source_dir: "LES_MISERABLES"
+        source_name: "title01.mkv"
+      "RIPPER STREET":
+        type: "trailer"
+        source_dir: "LES_MISERABLES"
+        source_name: "title02.mkv"
+      "The Creative Process":
+        type: "interview"
+        source_dir: "LES_MISERABLES_DISC_2"
+        source_name: "title00.mkv"
+      "Stage by Stage":
+        type: "interview"
+        source_dir: "LES_MISERABLES_DISC_2"
+        source_name: "title01.mkv"
+  "Licence to Kill (1989)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "License to Kill.mp4"
+  "Lilo - Stitch (2002)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lilo & Stitch.mp4"
+  "Lilo - Stitch 2- Stitch Has a Glitch (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lilo & Stitch 2_ Stitch Has A Glitch.mp4"
+  "Little Shop of Horrors (1986)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "LITTLE_SHOP_OF_HORRORS"
+        source_name: "title00.mkv"
+  "Live and Let Die (1973)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Live and Let Die.mp4"
+  "Lord of War (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "LORD_OF_WAR"
+        source_name: "title00.mkv"
+  "Lost in Space (1998)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lost in Space.mp4"
+  "Mars Attacks! (1996)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Mars_Attacks!"
+        source_name: "Mars_Attacks!_t00.mkv"
+  "Megamind (2010)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Megamind_SE"
+        source_name: "Megamind_SE_t00.mkv"
+  "Men in Black (1997)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Men_In_Black"
+        source_name: "Men_In_Black_t00.mkv"
+  "Moana (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Moana.mp4"
+  "Monsters, Inc. (2001)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "MONSTERS_INC"
+        source_name: "title00.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "MONSTERS_INC_BONUS"
+        source_name: "title00.mkv"
+  "Monty Python and the Holy Grail (1975)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Monty_Python_and_the_Holy_Grail_(Special_Edition)"
+        source_name: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_t00.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_(Bonus)"
+        source_name: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_(Bonus)_t00.mkv"
+  "Mulan (1998)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Mulan.mp4"
+  "Never Say Never Again (1983)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Never Say Never Again.mp4"
+  "Nick and Norah's Infinite Playlist (2008)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Nick_and_Norahs_Infinite_Playlist"
+        source_name: "Nick_and_Norahs_Infinite_Playlist_t00.mkv"
+  "O Brother- Where Art Thou? (2000)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "DIME_NTSC"
+        source_name: "title00.mkv"
+  "Octopussy (1983)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Octopussy.mp4"
+  "Outlaw King (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Outlaw King.mp4"
+  "Overboard (1987)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Overboard"
+        source_name: "Overboard_t00.mkv"
+  "Pans Labyrinth (2006)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Pan's_Labyrinth"
+        source_name: "Pan's_Labyrinth_t00.mkv"
+  "Patriot Games (1992)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Patriot_Games"
+        source_name: "Patriot_Games_t00.mkv"
+  "Puss in Boots (2011)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Puss_In_Boots"
+        source_name: "Puss_In_Boots_t00.mkv"
+  "Rent (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "RENT"
+        source_name: "RENT_t00.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "RENT_BONUS_DISC"
+        source_name: "RENT_BONUS_DISC_t00.mkv"
+  "Resident Evil (2002)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Resident_Evil"
+        source_name: "Resident_Evil_t00.mkv"
+  "Resident Evil- Apocalypse (2004)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Resident_Evil_Apocalypse"
+        source_name: "title00.mkv"
+  "Resident Evil- Extinction (2007)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Resident_Evil_Extinction"
+        source_name: "Resident_Evil_Extinction_t00.mkv"
+  "Resident Evil- Afterlife (2010)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Resident_Evil_Afterlife"
+        source_name: "Resident_Evil_Afterlife_t00.mkv"
+  "Resident Evil- Retribution (2012)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Resident_Evil_Retribution"
+        source_name: "Resident_Evil_Retribution_t01.mkv"
+  "Resident Evil- Degeneration (2008)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Resident_Evil_Degeneration"
+        source_name: "Resident_Evil_Degeneration_t00.mkv"
+  "Robin Hood- Men in Tights (1993)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Robin_Hood_Men_In_Tights"
+        source_name: "Robin_Hood_Men_In_Tights_t00.mkv"
+  "Robin Hood- Prince of Thieves (1991)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Robin Hood_ Prince of Thieves.mp4"
+  "Romeo + Juliet (1996)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "ROMEO_JULIET"
+        source_name: "title00.mkv"
+  "Rush Hour 2 (2001)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "RUSH_HOUR2"
+        source_name: "title00.mkv"
+  "Schindler-s List (1993)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SCHINDLERS_LIST"
+        source_name: "title00.mkv"
+  "Scott Pilgrim vs. the World (2010)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SCOTT_PILGRIM"
+        source_name: "title02.mkv"
+  "Serenity (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SERENITY"
+        source_name: "title00.mkv"
+  "Seven Brides for Seven Brothers (1954)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SEVEN_BRIDES_FOR_SEVEN_BROTHER"
+        source_name: "title00.mkv"
+  "Show Boat (1951)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SHOWBOAT"
+        source_name: "title00.mkv"
+  "Shrek (2001)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Shrek"
+        source_name: "Shrek_t00.mkv"
+  "Shrek 2 (2004)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Shrek_2"
+        source_name: "Shrek_2_t00.mkv"
+  "Shrek the Third (2007)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Shrek_the_Third"
+        source_name: "Shrek_the_Third_t00.mkv"
+  "Shrek Forever After (2010)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Shrek_Forever_After_SE"
+        source_name: "Shrek_Forever_After_SE_t00.mkv"
+  "Sin City (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SIN_CITY"
+        source_name: "title03.mkv"
+  "Singin- in the Rain (1952)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SINGIN'_IN_THE_RAIN"
+        source_name: "SINGIN'_IN_THE_RAIN_t00.mkv"
+  "Sky High (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SKHONNW1"
+        source_name: "title00.mkv"
+  "Spaceballs (1987)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Spaceballs"
+        source_name: "Spaceballs_t00.mkv"
+  "Stargate (1994)":
+    "Feature":
+      "BD_15Aniversry":
+        edition: "BD_15Aniversry"
+        source_dir: "Stargate_15th_Anniversary_Edition"
+        source_name: "Stargate_15th_Anniversary_Edition_t02.mkv"
+  "Stargate- The Ark of Truth (2008)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "STARGATE_ARK_OF_THE_TRUTH"
+        source_name: "title00.mkv"
+  "Stargate- Continuum (2008)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "STARGATE_CONTINUUM"
+        source_name: "title01.mkv"
+  "Star Trek- The Motion Picture (1979)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Star_Trek_The_Motion_Picture"
+        source_name: "Star_Trek_The_Motion_Picture_t00.mkv"
+  "Star Trek II- The Wrath of Khan (1982)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Star_Trek_II_The_Wrath_of_Khan"
+        source_name: "Star_Trek_II_The_Wrath_of_Khan_t02.mkv"
+  "Star Trek III- The Search for Spock (1984)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Star_Trek_III_The_Search_for_Spock"
+        source_name: "Star_Trek_III_The_Search_for_Spock_t00.mkv"
+  "Star Trek IV- The Voyage Home (1986)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Star_Trek_IV_The_Voyage_Home"
+        source_name: "Star_Trek_IV_The_Voyage_Home_t00.mkv"
+  "Star Trek V- The Final Frontier (1989)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Star_Trek_V_The_Final_Frontier"
+        source_name: "Star_Trek_V_The_Final_Frontier_t00.mkv"
+  "Star Trek VI- The Undiscovered Country (1991)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Star_Trek_VI_The_Undiscovered_Country"
+        source_name: "Star_Trek_VI_The_Undiscovered_Country_t00.mkv"
+  "Star Trek- Nemesis (2002)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "STNEMESIS"
+        source_name: "title00.mkv"
+  "Star Trek: The Journey to the Silver Screen (2016)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Star_Trek_50th_Anniversary_Bonus_Disc"
+        source_name: "Star_Trek_50th_Anniversary_Bonus_Disc_t01.mkv"
+  "Star Wars- Episode II - Attack of the Clones (2002)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "ATTACK_OF_THE_CLONES_F1"
+        source_name: "title00.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "ATTACK_OF_THE_CLONES_D2"
+        source_name: "title00.mkv"
+  "Star Wars- Episode VI - Return of the Jedi (1983)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "RETURN_OF_THE_JEDI"
+        source_name: "title00.mkv"
+  "Stardust (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "STARDUST_PS_AC"
+        source_name: "title00.mkv"
+  "Superman- Doomsday (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "SUPERMAN_DOOMSDAY"
+        source_name: "SUPERMAN_DOOMSDAY_t00.mkv"
+  "Super Troopers (2001)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Super_Troopers"
+        source_name: "Super_Troopers_t00.mkv"
+  "Tangled (2010)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "TANGLED"
+        source_name: "title00.mkv"
+  "That-s Entertainment! (1974)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "THATS_ENTERTAINMENT"
+        source_name: "THATS_ENTERTAINMENT_t00.mkv"
+  "The Avengers (2012)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "MARVELS_THE_AVENGERS"
+        source_name: "title00.mkv"
+  "The Book of Life (2014)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_Book_of_Life"
+        source_name: "The_Book_of_Life_t03.mkv"
+  "The Boondock Saints (1999)":
+    "Feature":
+      "DVD DISC1":
+        edition: "DVD DISC1"
+        source_dir: "BOONDOCK_SAINTS_DISC1"
+        source_name: "title00.mkv"
+    "Bonus":
+      "Alt":
+        type: "deleted"
+        source_dir: "BOONDOCK_SAINTS_D1"
+        source_name: "title00.mkv"
+      "t00":
+        type: "deleted"
+        source_dir: "BOONDOCK_SAINTS_D2"
+        source_name: "title00.mkv"
+  "The Boss Baby (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Boss Baby.mp4"
+  "The Broadway Melody (1929)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "THE_BROADWAY_MELODY_OF_1929"
+        source_name: "THE_BROADWAY_MELODY_OF_1929_t00.mkv"
+  "The Chronicles of Narnia- The Lion, the Witch and the Wardrobe (2005)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "LSE0NNW1_700E"
+        source_name: "title00.mkv"
+    "Bonus":
+      "s00":
+        type: "deleted"
+        source_dir: "LSE0NNS1"
+        source_name: "title00.mkv"
+  "The Emperor-s New Groove (2000)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Emperor's New Groove.mp4"
+  "The First World War from Above (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The First World War From Above.mp4"
+  "The Golden Compass (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Golden Compass.mp4"
+  "The Great Debaters (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "THE_GREAT_DEBATERS"
+        source_name: "title03.mkv"
+  "The Great Ziegfeld (1936)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "THE_GREAT_ZIEGFELD"
+        source_name: "THE_GREAT_ZIEGFELD_t00.mkv"
+  "The Hitchhiker-s Guide to the Galaxy (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Hitchhiker's Guide to the Galaxy.mp4"
+  "The Hobbit- An Unexpected Journey (2012)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_Hobbit_An_Unexpected_Journey"
+        source_name: "The_Hobbit_An_Unexpected_Journey_t01.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "The_Hobbit_An_Unexpected_Journey_Bonus_Disc"
+        source_name: "The_Hobbit_An_Unexpected_Journey_Bonus_Disc_t00.mkv"
+  "The Hobbit- The Desolation of Smaug (2013)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_Hobbit_The_Desolation_of_Smaug"
+        source_name: "The_Hobbit_The_Desolation_of_Smaug_t01.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "The_Hobbit_The_Desolation_of_Smaug_Bonus_Disc"
+        source_name: "The_Hobbit_The_Desolation_of_Smaug_Bonus_Disc_t00.mkv"
+  "The Hobbit- The Battle of the Five Armies (2014)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_Hobbit_The_Battle_of_the_Five_Armies"
+        source_name: "The_Hobbit_The_Battle_of_the_Five_Armies_t01.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "The_Hobbit_The_Battle_of_the_Five_Armies_Bonus_Disc"
+        source_name: "The_Hobbit_The_Battle_of_the_Five_Armies_Bonus_Disc_t00.mkv"
+      "d00":
+        type: "deleted"
+        source_dir: "HOBBIT_BATTLE_OF_FIVE_ARMIES"
+        source_name: "title00.mkv"
+  "The Hunt for Red October (1990)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_Hunt_For_Red_October"
+        source_name: "The_Hunt_For_Red_October_t00.mkv"
+  "The Iron Giant (1999)":
+    "Feature":
+      "DVD Special Edition":
+        edition: "DVD Special Edition"
+        source_dir: "IRON_GIANT_SPECIAL_EDITION"
+        source_name: "IRON_GIANT_SPECIAL_EDITION_t00.mkv"
+  "The Jazz Singer (1927)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "JAZZ_SINGER_80TH_ANNIVERSARY_DISC_1"
+        source_name: "JAZZ_SINGER_80TH_ANNIVERSARY_DISC_1_t00.mkv"
+  "The King and I (1956)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t00.mkv"
+    "Bonus":
+      "Anna and the King TV Pilot 1":
+        type: "short"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t01.mkv"
+      "Movietone News_ Charity Premieres of The King and I Musical Milestone":
+        type: "featurette"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t02.mkv"
+      "Still Gallery 1":
+        type: "behindthescenes"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t03.mkv"
+      "Rodger and Hammerstein_s":
+        type: "short"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t04.mkv"
+      "Origins of The King and I":
+        type: "interview"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t05.mkv"
+      "Casting Deborah Kerr and Yul Brynner":
+        type: "interview"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t06.mkv"
+      "Dealing with Hollywood":
+        type: "interview"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t07.mkv"
+      "Casting supporting roles":
+        type: "interview"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t08.mkv"
+      "The Royal Archives":
+        type: "behindthescenes"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t09.mkv"
+      "Anna and the King TV Pilot 2":
+        type: "short"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t10.mkv"
+      "What Anna did not say to the King":
+        type: "short"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t11.mkv"
+      "Restoring The King and I":
+        type: "interview"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t12.mkv"
+      "Movietone News_ Awards":
+        type: "featurette"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t13.mkv"
+      "UN Envoys watch":
+        type: "featurette"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t14.mkv"
+      "Presents":
+        type: "trailer"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t15.mkv"
+      "Anna and the King TV Pilot 3":
+        type: "short"
+        source_dir: "The_King_and_I"
+        source_name: "The_King_and_I_t16.mkv"
+  "The League of Extraordinary Gentlemen (2003)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "LXG_43"
+        source_name: "title00.mkv"
+  "The LEGO Batman Movie (2017)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_LEGO_Batman_Movie"
+        source_name: "The_LEGO_Batman_Movie_t00.mkv"
+  "The Lord of the Rings- The Fellowship of the Ring (2001)":
+    "Feature":
+      "TheatricalBD":
+        edition: "TheatricalBD"
+        source_dir: "THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING"
+        source_name: "THE_LORD_OF_THE_RINGS_THE_FELLOWSHIP_OF_THE_RING_t00.mkv"
+  "The Lord of the Rings- The Two Towers (2002)":
+    "Feature":
+      "TheatricalBD":
+        edition: "TheatricalBD"
+        source_dir: "THE_LORD_OF_THE_RINGS_THE_TWO_TOWERS"
+        source_name: "THE_LORD_OF_THE_RINGS_THE_TWO_TOWERS_t00.mkv"
+  "The Lord of the Rings- The Return of the King (2003)":
+    "Feature":
+      "TheatricalBD":
+        edition: "TheatricalBD"
+        source_dir: "THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING"
+        source_name: "THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_t00.mkv"
+  "The Man with the Golden Gun (1974)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Man With the Golden Gun.mp4"
+  "The Medallion (2003)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "The_Medallion"
+        source_name: "The_Medallion_t00.mkv"
+  "The Music Man (1962)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "MUSIC_MAN_16X9LB_DUAL_LAYER"
+        source_name: "title00.mkv"
+  "The NeverEnding Story (1984)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The NeverEnding Story.mp4"
+  "The Orphanage (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "The_Orphanage"
+        source_name: "The_Orphanage_t04.mkv"
+  "The Phantom of the Opera (2004)":
+    "Feature":
+      "DVD_WS":
+        edition: "DVD_WS"
+        source_dir: "PHANTOM_OF_THE_OPERA_DISC_1"
+        source_name: "PHANTOM_OF_THE_OPERA_DISC_1_t00.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "PHANTOM_OF_THE_OPERA_DISC_2"
+        source_name: "PHANTOM_OF_THE_OPERA_DISC_2_t00.mkv"
+  "The Sound of Music (1965)":
+    "Feature":
+      "50th_Anniversary_BD":
+        edition: "50th_Anniversary_BD"
+        source_dir: "The_Sound_of_Music"
+        source_name: "The_Sound_of_Music_t00.mkv"
+    "Bonus":
+      "Puppet Wedding":
+        type: "short"
+        source_dir: "The_Sound_of_Music"
+        source_name: "The_Sound_of_Music_t01.mkv"
+      "Load Screen":
+        type: "trailer"
+        source_dir: "The_Sound_of_Music_Bonus"
+        source_name: "The_Sound_of_Music_t00.mkv"
+      "The Sound of a City_ Julie Andrews Returns to Salzburg":
+        type: "interview"
+        source_dir: "The_Sound_of_Music_Bonus"
+        source_name: "The_Sound_of_Music_t01.mkv"
+      "t02":
+        type: "interview"
+        source_dir: "The_Sound_of_Music"
+        source_name: "The_Sound_of_Music_t02.mkv"
+      "b02":
+        type: "interview"
+        source_dir: "The_Sound_of_Music_Bonus"
+        source_name: "The_Sound_of_Music_t02.mkv"
+      "b03":
+        type: "interview"
+        source_dir: "The_Sound_of_Music_Bonus"
+        source_name: "The_Sound_of_Music_t03.mkv"
+  "The Sum of All Fears (2002)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "The_Sum_of_All_Fears"
+        source_name: "The_Sum_of_All_Fears_t00.mkv"
+  "The Three Musketeers (1993)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "3_Musketeers"
+        source_name: "3_Musketeers_t00.mkv"
+  "The Three Stooges":
+    "Feature":
+      "TODO":
+        edition: "TODO"
+        source_dir: "TODO"
+        source_name: "TODO.mkv"
+    "Bonus":
+      "t00":
+        type: "deleted"
+        source_dir: "TODO"
+        source_name: "TODO.mkv"
+  "The Wizard of Oz (1939)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "WIZARD_OF_OZ_70TH_ANNIVERSARY"
+        source_name: "title00.mkv"
+  "Thunderball (1965)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Thunderball.mp4"
+  "TMNT (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "TMNT"
+        source_name: "TMNT_t00.mkv"
+  "Toy Story 3 (2010)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "TOY_STORY_3"
+        source_name: "title00.mkv"
+  "Transformers (2007)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "TRANSFORMERS_VANILLA"
+        source_name: "title00.mkv"
+  "Troy (2004)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "TROY_DISC_1"
+        source_name: "TROY_DISC_1_t00.mkv"
+  "Underworld (2003)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "Underworld_(2003)"
+        source_name: "Underworld_(2003)_t00.mkv"
+  "Underworld- Evolution (2006)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "UNDERWORLD_EVOLUTION"
+        source_name: "title00.mkv"
+  "Victor Victoria (1982)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "VICTOR_VICTORIA"
+        source_name: "VICTOR_VICTORIA_t00.mkv"
+  "Viva Las Vegas (1964)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "VIVA_LAS_VEGAS"
+        source_name: "VIVA_LAS_VEGAS_t00.mkv"
+  "We Are Marshall (2006)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "WE_ARE_MARSHALL"
+        source_name: "WE_ARE_MARSHALL_t00.mkv"
+  "West Side Story (1961)":
+    "Feature":
+      "50th_Anniversary_Edition_BD":
+        edition: "50th_Anniversary_Edition_BD"
+        source_dir: "West_Side_Story"
+        source_name: "West_Side_Story_t10.mkv"
+    "Bonus":
+      "b00":
+        type: "deleted"
+        source_dir: "West_Side_Story_-_Disc_2"
+        source_name: "West_Side_Story_-_Disc_2_t00.mkv"
+  "Willy Wonka & the Chocolate Factory (1971)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "WILLY_WONKA_AND_THE_CHOCOLATE_FACTORY"
+        source_name: "WILLY_WONKA_AND_THE_CHOCOLATE_FACTORY_t00.mkv"
+  "Wonder Woman (2017)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Wonder_Woman"
+        source_name: "Wonder_Woman_t01.mkv"
+  "Yankee Doodle Dandy (1942)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "YANKEE_DOODLE_DANDY"
+        source_name: "YANKEE_DOODLE_DANDY_t00.mkv"
+  "You Only Live Twice (1967)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "You Only Live Twice.mp4"
+  "Your Highness (2011)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "YOUR"
+        source_name: "title00.mkv"
+
+
+
+
+Template:
+  "TODO":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "TODO"
+        source_name: "TODO"
+  "TODO":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "TODO"
+        source_name: "TODO"
+    "Bonus":
+      "TODO":
+        type: "TODO"
+        source_dir: "TODO"
+        source_name: "title00.mkv"
+  "TODO":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "TODO"
+  "TODO":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "TODO"
