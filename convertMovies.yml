@@ -17,6 +17,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "A View to a Kill.mp4"
+  "A Wrinkle in Time (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "A Wrinkle in Time.mp4"
   "Adam Sandler- 100- Fresh (2018)":
     "Feature":
       "PlayOn":
@@ -456,6 +462,18 @@ Movies:
         edition: "DVD"
         source_dir: "FROZEN"
         source_name: "title00.mkv"
+  "The Gamers- Dorkness Rising (2008)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "The Gamers_ Dorkness Rising.mp4"
+  "The Gamers- Hands of Fate (2013)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "The Gamers_ Hands of Fate (Extended Edition).mp4"
   "Ghostbusters (1984)":
     "Feature":
       "PlayOn":
@@ -920,6 +938,36 @@ Movies:
         edition: "BD"
         source_dir: "Patriot_Games"
         source_name: "Patriot_Games_t00.mkv"
+  "Pirates of the Caribbean- At World's End (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Pirates of the Caribbean_ At World's End.mp4"
+  "Pirates of the Caribbean- Dead Men Tell No Tales (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Pirates of the Caribbean_ Dead Men Tell No Tales.mp4"
+  "Pirates of the Caribbean- The Curse of the Black Pearl (2003)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Pirates of the Caribbean_ The Curse of the Black Pearl.mp4"
+  "Pocahontas (1995)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Pocahontas.mp4"
+  "Pooh-s Grand Adventure- The Search for Christopher Robin (1997)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Pooh's Grand Adventure_ The Search for Christopher Robin.mp4"
   "Puss in Boots (2011)":
     "Feature":
       "BD":
@@ -985,6 +1033,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Robin Hood_ Prince of Thieves.mp4"
+  "Rogue One- A Star Wars Story (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Rogue One_ A Star Wars Story.mp4"
   "Romeo + Juliet (1996)":
     "Feature":
       "DVD":
@@ -1009,6 +1063,12 @@ Movies:
         edition: "DVD"
         source_dir: "SCOTT_PILGRIM"
         source_name: "title02.mkv"
+  "Secret of the Wings (2012)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Secret of the Wings.mp4"
   "Serenity (2005)":
     "Feature":
       "DVD":
@@ -1069,6 +1129,12 @@ Movies:
         edition: "DVD"
         source_dir: "SKHONNW1"
         source_name: "title00.mkv"
+  "Soylent Green (1973)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Soylent Green.mp4"
   "Spaceballs (1987)":
     "Feature":
       "DVD":
@@ -1164,6 +1230,12 @@ Movies:
         edition: "DVD"
         source_dir: "STARDUST_PS_AC"
         source_name: "title00.mkv"
+  "Starship Troopers (1997)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Starship Troopers.mp4"
   "Superman- Doomsday (2007)":
     "Feature":
       "DVD":
@@ -1176,6 +1248,12 @@ Movies:
         edition: "BD"
         source_dir: "Super_Troopers"
         source_name: "Super_Troopers_t00.mkv"
+  "Sweeney Todd- The Demon Barber of Fleet Street (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Sweeney Todd_ The Demon Barber of Fleet Street.mp4"
   "Tangled (2010)":
     "Feature":
       "DVD":
@@ -1531,6 +1609,12 @@ Movies:
         edition: "DVD"
         source_dir: "WIZARD_OF_OZ_70TH_ANNIVERSARY"
         source_name: "title00.mkv"
+  "Thor- Ragnarok (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Thor_ Ragnarok.mp4"
   "Thunderball (1965)":
     "Feature":
       "PlayOn":
@@ -1573,6 +1657,12 @@ Movies:
         edition: "DVD"
         source_dir: "UNDERWORLD_EVOLUTION"
         source_name: "title00.mkv"
+  "V for Vendetta (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "V for Vendetta.mp4"
   "Victor Victoria (1982)":
     "Feature":
       "DVD":
@@ -1585,12 +1675,24 @@ Movies:
         edition: "DVD"
         source_dir: "VIVA_LAS_VEGAS"
         source_name: "VIVA_LAS_VEGAS_t00.mkv"
+  "Van Helsing (2004)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Van Helsing.mp4"
   "We Are Marshall (2006)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "WE_ARE_MARSHALL"
         source_name: "WE_ARE_MARSHALL_t00.mkv"
+  "Weird Science (1985)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Weird Science.mp4"
   "West Side Story (1961)":
     "Feature":
       "50th_Anniversary_Edition_BD":
@@ -1602,6 +1704,12 @@ Movies:
         type: "deleted"
         source_dir: "West_Side_Story_-_Disc_2"
         source_name: "West_Side_Story_-_Disc_2_t00.mkv"
+  "Westworld (1973)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Westworld.mp4"
   "Willy Wonka & the Chocolate Factory (1971)":
     "Feature":
       "DVD":
@@ -1665,4 +1773,10 @@ Template:
       "PlayOn":
         edition: "PlayOn"
         source_dir: "Hulu"
+        source_name: "TODO"
+  "TODO":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
         source_name: "TODO"
