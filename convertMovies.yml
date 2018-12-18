@@ -290,6 +290,18 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Despicable Me 3.mp4"
+  "Diamonds Are Forever (1971)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Diamonds Are Forever.mp4"
+  "Die Another Day (2002)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Die Another Day.mp4"
   "Doctor Strange (2016)":
     "Feature":
       "PlayOn":
@@ -433,6 +445,12 @@ Movies:
         edition: "DVD"
         source_dir: "FLYBOYS_WS"
         source_name: "title00.mkv"
+  "For Your Eyes Only (1981)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "For Your Eyes Only.mp4"
   "Friday After Next (2002)":
     "Feature":
       "DVD":
@@ -486,6 +504,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Ghostbusters 2.mp4"
+  "GoldenEye (1995)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "GoldenEye.mp4"
   "Goldfinger (1964)":
     "Feature":
       "PlayOn":
@@ -884,6 +908,12 @@ Movies:
         type: "deleted"
         source_dir: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_(Bonus)"
         source_name: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_(Bonus)_t00.mkv"
+  "Moonraker (1979)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Moonraker.mp4"
   "Mulan (1998)":
     "Feature":
       "PlayOn":
@@ -914,6 +944,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Octopussy.mp4"
+  "On Her Majesty-s Secret Service (1969)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "On Her Majesty's Secret Service.mp4"
   "Outlaw King (2018)":
     "Feature":
       "PlayOn":
@@ -1490,6 +1526,12 @@ Movies:
         edition: "BD"
         source_dir: "The_LEGO_Batman_Movie"
         source_name: "The_LEGO_Batman_Movie_t00.mkv"
+  "The Living Daylights (1987)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Living Daylights.mp4"
   "The Lord of the Rings- The Fellowship of the Ring (2001)":
     "Feature":
       "TheatricalBD":
@@ -1580,6 +1622,12 @@ Movies:
         type: "interview"
         source_dir: "The_Sound_of_Music_Bonus"
         source_name: "The_Sound_of_Music_t03.mkv"
+  "The Spy Who Loved Me (1977)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Spy Who Loved Me.mp4"
   "The Sum of All Fears (2002)":
     "Feature":
       "BD":
@@ -1609,6 +1657,12 @@ Movies:
         edition: "DVD"
         source_dir: "WIZARD_OF_OZ_70TH_ANNIVERSARY"
         source_name: "title00.mkv"
+  "The World Is Not Enough (1999)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The World Is Not Enough.mp4"
   "Thor- Ragnarok (2017)":
     "Feature":
       "PlayOn":
@@ -1627,6 +1681,12 @@ Movies:
         edition: "DVD"
         source_dir: "TMNT"
         source_name: "TMNT_t00.mkv"
+  "Tomorrow Never Dies (1997)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Tomorrow Never Dies.mp4"
   "Toy Story 3 (2010)":
     "Feature":
       "DVD":
