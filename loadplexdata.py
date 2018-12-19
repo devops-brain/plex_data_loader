@@ -56,9 +56,9 @@ class Plex_Lib_Manager(object):
 
         if "TV" in self.conversion_dict.keys():
             # print( self.conversion_dict['TV'])
-            for show in self.conversion_dict['TV'].keys():
-                for season in self.conversion_dict['TV'][show].keys():
-                    for episode in self.conversion_dict['TV'][show][season].keys():
+            for show in self.conversion_dict['TV'].keys().sort():
+                for season in self.conversion_dict['TV'][show].keys().sort():
+                    for episode in self.conversion_dict['TV'][show][season].keys().sort():
                         episode_dict = self.conversion_dict['TV'][show][season][episode]
                         episode_name = "{} - S{}E{} - {}.mkv".format(show, season, episode, episode_dict["title"])
                         source = os.path.join(self.input_path, episode_dict["source_dir"], episode_dict["source_name"])
@@ -79,7 +79,7 @@ class Plex_Lib_Manager(object):
 
         if "Movies" in self.conversion_dict.keys():
             # print( self.conversion_dict['Movies'])
-            for movie in self.conversion_dict['Movies'].keys():
+            for movie in self.conversion_dict['Movies'].keys().sort():
                 dest_dir = os.path.join(self.output_path, movie)
                 ##self.mkdir_p(dest_dir)
 
