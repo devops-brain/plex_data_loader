@@ -47,13 +47,30 @@ class Plex_Lib_Manager(object):
                 raise e
         # print( self.conversion_dict)
 
+    def DVR_TV_copy(self):
+        """
+        copies the directories with only listed exceptions.  not 100% safe...
+        :return:
+        """
+        if "DVR_Shows" in self.conversion_dict.keys():
+            print( self.conversion_dict['DVR_Shows'])
+            ## TODO:  list directory
+            for root, subFolders, files in os.walk(self.input_path):
+                for filename in set(files):
+                    filePath = os.path.join(root, filename)
+                    print( "filename={}  root={} subFolders={} filePath={}".format(filename, root, subFolders, filePath))
+
+            for exception in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
+                print( self.conversion_dict['DVR_Shows']['exceptions'][exception])
+                ## TODO:  remove each exception from the directory_list
+                ## TODO:  copy file to matching directory structure
+
+
     def safe_load(self):
         """
         Safely Loads files, no overwriting.
         :return:
         """
-        ## TODO:  ???  make writable tree the output dir?   only in force mode?  in not safe mode?
-
         if "TV" in self.conversion_dict.keys():
             # print( self.conversion_dict['TV'])
             for show in sorted(self.conversion_dict['TV'].keys()):
@@ -257,6 +274,9 @@ def parse_arguments():
     parser.add_argument('-v', '--verbose',
                         action="store_true",
                         help='changes logging to debug for this run of the command')
+    parser.add_argument('--dvr',
+                        action="store_true",
+                        help='copies structure from a compatible DVR largely as-is, using only an exemption table to filter')
     parser.add_argument('-i', '--inputpath',
                         type=str,
                         help="""TODO""")
@@ -292,6 +312,8 @@ def main():
 
     plexlib = Plex_Lib_Manager(args.inputpath, args.outputpath, args.conversionrules)
     plexlib.safe_load()
+    if args.dvr:
+        plexlib.DVR_TV_copy()
 
 
 main()

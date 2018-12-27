@@ -974,14 +974,94 @@ TV:
   Star Trek- The Animated Series:
     "01":
       "01":
-        title: "TODO"
-        source_dir: "TODO"
-        source_name: "title00.mkv"
+        title: "Beyond the Farthest Star"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t04.mkv"
+      "02":
+        title: "Yesteryear"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t03.mkv"
+      "03":
+        title: "One of Our Planets Is Missing"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t02.mkv"
+      "04":
+        title: "The Lorelei Signal"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t06.mkv"
+      "05":
+        title: "More Tribbles- More Troubles"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t05.mkv"
+      "06":
+        title: "The Survivor"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t01.mkv"
+      "07":
+        title: "The Infinite Vulcan"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t00.mkv"
+      "08":
+        title: "The Magicks of Megas-Tu"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_1"
+        source_name: "Star_Trek_The_Animated_Series_Disc_1_t07.mkv"
+      "09":
+        title: "Once Upon a Planet"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_2"
+        source_name: "Star_Trek_The_Animated_Series_Disc_2_t05.mkv"
+      "10":
+        title: "Mudd-s Passion"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_2"
+        source_name: "Star_Trek_The_Animated_Series_Disc_2_t04.mkv"
+      "11":
+        title: "The Terratin Incident"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_2"
+        source_name: "Star_Trek_The_Animated_Series_Disc_2_t03.mkv"
+      "12":
+        title: "The Time Trap"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_2"
+        source_name: "Star_Trek_The_Animated_Series_Disc_2_t02.mkv"
+      "13":
+        title: "The Ambergris Element"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_2"
+        source_name: "Star_Trek_The_Animated_Series_Disc_2_t01.mkv"
+      "14":
+        title: "The Slaver Weapon"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_2"
+        source_name: "Star_Trek_The_Animated_Series_Disc_2_t00.mkv"
+      "15":
+        title: "The Eye of the Beholder"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_2"
+        source_name: "Star_Trek_The_Animated_Series_Disc_2_t07.mkv"
+      "16":
+        title: "The Jihad"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_3"
+        source_name: "Star_Trek_The_Animated_Series_Disc_3_t00.mkv"
     "02":
       "01":
-        title: "TODO"
-        source_dir: "TODO"
-        source_name: "title00.mkv"
+        title: "The Pirates of Orion"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_3"
+        source_name: "Star_Trek_The_Animated_Series_Disc_3_t02.mkv"
+      "02":
+        title: "Bem"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_3"
+        source_name: "Star_Trek_The_Animated_Series_Disc_3_t01.mkv"
+      "03":
+        title: "The Practical Joker"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_3"
+        source_name: "Star_Trek_The_Animated_Series_Disc_3_t09.mkv"
+      "04":
+        title: "Albatross"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_3"
+        source_name: "Star_Trek_The_Animated_Series_Disc_3_t08.mkv"
+      "05":
+        title: "How Sharper Than a Serpent-s Tooth"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_3"
+        source_name: "Star_Trek_The_Animated_Series_Disc_3_t07.mkv"
+      "06":
+        title: "The Counter-Clock Incident"
+        source_dir: "Star_Trek_The_Animated_Series_Disc_3"
+        source_name: "Star_Trek_The_Animated_Series_Disc_3_t04.mkv"
   Stargate SG-1:
     "01":
       "01":
@@ -3192,6 +3272,12 @@ TV:
         title: "The Long Distance Dissonance"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
         source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t12.mkv"
+
+DVR_Shows:
+  "exceptions":
+    "01": "Netflix"
+    "02": "Hulu"
+    "03": "Amazon Prime Video"
 
 
 Templates:

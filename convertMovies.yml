@@ -1308,6 +1308,12 @@ Movies:
         edition: "DVD"
         source_dir: "MARVELS_THE_AVENGERS"
         source_name: "title00.mkv"
+  "The Big Easy (1986)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "EASY"
+        source_name: "title00.mkv"
   "The Book of Life (2014)":
     "Feature":
       "BD":
