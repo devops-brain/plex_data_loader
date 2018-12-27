@@ -50,6 +50,64 @@ TV:
         title: "Unknown"
         source_dir: "DJG2_DISC6_SCN"
         source_name: "title00.mkv"
+  Firefly:
+    "01":
+      "01":
+        title: "Serenity"
+        source_dir: "FIREFLY_D1"
+        source_name: "title00.mkv"
+      "02":
+        title: "The Train Job"
+        source_dir: "FIREFLY_D1"
+        source_name: "title01.mkv"
+      "03":
+        title: "Bushwhacked"
+        source_dir: "FIREFLY_D1"
+        source_name: "title02.mkv"
+      "04":
+        title: "Shindig"
+        source_dir: "FIREFLY_D2"
+        source_name: "title00.mkv"
+      "05":
+        title: "Safe"
+        source_dir: "FIREFLY_D2"
+        source_name: "title01.mkv"
+      "06":
+        title: "Our Mrs. Reynolds"
+        source_dir: "FIREFLY_D2"
+        source_name: "title02.mkv"
+      "07":
+        title: "Jaynestown"
+        source_dir: "FIREFLY_D2"
+        source_name: "title03.mkv"
+      "08":
+        title: "Out of Gas"
+        source_dir: "FIREFLY_D3"
+        source_name: "title00.mkv"
+      "09":
+        title: "Ariel"
+        source_dir: "FIREFLY_D3"
+        source_name: "title01.mkv"
+      "10":
+        title: "War Stories"
+        source_dir: "FIREFLY_D3"
+        source_name: "title02.mkv"
+      "11":
+        title: "Trash"
+        source_dir: "FIREFLY_D3"
+        source_name: "title03.mkv"
+      "12":
+        title: "The Message"
+        source_dir: "FIREFLY_D4"
+        source_name: "title00.mkv"
+      "13":
+        title: "Heart of Gold"
+        source_dir: "FIREFLY_D4"
+        source_name: "title01.mkv"
+      "14":
+        title: "Objects in Space"
+        source_dir: "FIREFLY_D4"
+        source_name: "title02.mkv"
   Luke Cage:
     "01":
       "01":
@@ -3134,3 +3192,12 @@ TV:
         title: "The Long Distance Dissonance"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
         source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t12.mkv"
+
+
+Templates:
+  SeriesName:
+    "01":
+      "01":
+        title: "TODO"
+        source_dir: "TODO"
+        source_name: "title00.mkv"
