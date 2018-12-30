@@ -53,18 +53,24 @@ class Plex_Lib_Manager(object):
         :return:
         """
         if "DVR_Shows" in self.conversion_dict.keys():
-            print( self.conversion_dict['DVR_Shows'])
-            ## TODO:  list directory
-            for root, subFolders, files in os.walk(self.input_path):
-                for filename in set(files):
-                    filePath = os.path.join(root, filename)
-                    print( "filename={}  root={} subFolders={} filePath={}".format(filename, root, subFolders, filePath))
-
-            for exception in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
-                print( self.conversion_dict['DVR_Shows']['exceptions'][exception])
-                ## TODO:  remove each exception from the directory_list
-                ## TODO:  copy file to matching directory structure
-
+            #print( self.conversion_dict['DVR_Shows'])
+            for show_name in os.listdir():
+                print( show_name)
+                copy_me = True
+                for exception in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
+                    #print( self.conversion_dict['DVR_Shows']['exceptions'][exception])
+                    if exception in show_name:
+                        copy_me = False
+                        print (exception, show_name)
+                if copy_me:
+                    for root, subFolders, files in os.walk( os.path.join( self.input_path, show_name)):
+                        for filename in set(files):
+                            filePath = os.path.join(root, filename)
+                            print( filePath)
+                            dest_dir = os.path.join( self.output_path, root.lstrip(self.input_path))
+                            print( dest_dir)
+                            print( filename)
+                            #self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
 
     def safe_load(self):
         """
@@ -80,42 +86,42 @@ class Plex_Lib_Manager(object):
                         episode_name = "{} - S{}E{} - {}.mkv".format(show, season, episode, episode_dict["title"])
                         source = os.path.join(self.input_path, episode_dict["source_dir"], episode_dict["source_name"])
                         dest_dir = os.path.join(self.output_path, show, "Season {}".format(season))
-                        dest_fullpath = os.path.join(dest_dir, episode_name)
+                        #dest_fullpath = os.path.join(dest_dir, episode_name)
+                        self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=episode_name)
                         # print("Copy \"{}\" to \"{}\"".format(source, dest_fullpath))
 
-                        if os.path.exists(source):
-                            if not os.path.exists(dest_fullpath):
-                                print("Copy \"{}\" to \"{}\"".format(source, dest_fullpath))
-                                self.mkdir_p(dest_dir)
-                                shutil.copy2(source, dest_fullpath)
-                            else:
-                                #print("{} Exists Already!".format(dest_fullpath))
-                                source="done"
-                        else:
-                            print("{}\" does not exist!".format(source))
+                        #if os.path.exists(source):
+                        #    if not os.path.exists(dest_fullpath):
+                        #        print("Copy \"{}\" to \"{}\"".format(source, dest_fullpath))
+                        #        self.mkdir_p(dest_dir)
+                        #        shutil.copy2(source, dest_fullpath)
+                        #    else:
+                        #        #print("{} Exists Already!".format(dest_fullpath))
+                        #        source="done"
+                        #else:
+                        #    print("{}\" does not exist!".format(source))
 
         if "Movies" in self.conversion_dict.keys():
             # print( self.conversion_dict['Movies'])
             for movie in sorted(self.conversion_dict['Movies'].keys()):
                 dest_dir = os.path.join(self.output_path, movie)
-                ##self.mkdir_p(dest_dir)
 
                 for edition in self.conversion_dict['Movies'][movie]["Feature"].keys():
                     edition_dict = self.conversion_dict['Movies'][movie]["Feature"][edition]
-                    dest_rename = "{} - {}.mkv".format(movie, edition_dict["edition"])
+                    dest_name = "{} - {}.mkv".format(movie, edition_dict["edition"])
                     source = os.path.join(self.input_path, edition_dict["source_dir"], edition_dict["source_name"])
-                    self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_rename=dest_rename)
+                    self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
                 if "Bonus" in self.conversion_dict['Movies'][movie].keys():
                   for bonus in self.conversion_dict['Movies'][movie]["Bonus"].keys():
                     bonus_dict = self.conversion_dict['Movies'][movie]["Bonus"][bonus]
-                    dest_rename = "{}-{}.mkv".format(bonus, bonus_dict["type"])
+                    dest_name = "{}-{}.mkv".format(bonus, bonus_dict["type"])
                     source = os.path.join(self.input_path, bonus_dict["source_dir"], bonus_dict["source_name"])
-                    self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_rename=dest_rename)
+                    self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
                 ## TODO:  upload any .mkv files in listed directories as bonus content, to avoid needing to generate per file entries
 
-    def copy_file(self, source_fullpath, dest_dir, dest_rename):
+    def copy_file(self, source_fullpath, dest_dir, dest_name):
         """
         This function copies the the requested file, printing out the results
         :param source_full:
@@ -123,7 +129,7 @@ class Plex_Lib_Manager(object):
         :param dest_name:
         :return:
         """
-        dest_fullpath = os.path.join(dest_dir, dest_rename)
+        dest_fullpath = os.path.join(dest_dir, dest_name)
         if os.path.exists(source_fullpath):
             if not os.path.exists(dest_fullpath):
                 print("Copy \"{}\" to \"{}\"".format(source_fullpath, dest_fullpath))
