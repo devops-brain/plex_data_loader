@@ -1117,6 +1117,12 @@ Movies:
         edition: "DVD"
         source_dir: "SEVEN_BRIDES_FOR_SEVEN_BROTHER"
         source_name: "title00.mkv"
+  "Shaun of the Dead (2004)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Shaun of the Dead.mp4"
   "Show Boat (1951)":
     "Feature":
       "DVD":
