@@ -55,14 +55,13 @@ class Plex_Lib_Manager(object):
         if "DVR_Shows" in self.conversion_dict.keys():
             #print( self.conversion_dict['DVR_Shows'])
             for show_name in os.listdir(self.input_path):
-                print( show_name)
-                copy_me = True
-                for exception in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
-                    #print( self.conversion_dict['DVR_Shows']['exceptions'][exception])
-                    if exception in show_name:
-                        copy_me = False
-                        print (exception, show_name)
-                if copy_me:
+                #print( show_name)
+                try:
+                    for e in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
+                        print( self.conversion_dict['DVR_Shows']['exceptions'][e])
+                        if self.conversion_dict['DVR_Shows']['exceptions'][e] in show_name:
+                            #print (e, show_name)
+                            raise NameError(show_name)
                     for root, subFolders, files in os.walk( os.path.join( self.input_path, show_name)):
                         for filename in set(files):
                             filePath = os.path.join(root, filename)
@@ -71,6 +70,9 @@ class Plex_Lib_Manager(object):
                             print( dest_dir)
                             print( filename)
                             #self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
+                except NameError as e:
+                    print( '{} is being skipped'.format(e))
+
 
     def safe_load(self):
         """
