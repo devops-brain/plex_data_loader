@@ -66,7 +66,7 @@ class Plex_Lib_Manager(object):
                         for filename in set(files):
                             filePath = os.path.join(root, filename)
                             #print( filePath)
-                            dest_dir = os.path.join( self.output_path, root.lstrip(self.input_path))
+                            dest_dir = root.replace( self.input_path, self.output_path)
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
                 except NameError as e:
                     print( '{} is being skipped'.format(e))
