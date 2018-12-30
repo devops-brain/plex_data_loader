@@ -54,7 +54,7 @@ class Plex_Lib_Manager(object):
         """
         if "DVR_Shows" in self.conversion_dict.keys():
             #print( self.conversion_dict['DVR_Shows'])
-            for show_name in os.listdir(self.input_path).sort():
+            for show_name in sorted(os.listdir(self.input_path)):
                 #print( show_name)
                 try:
                     for e in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
