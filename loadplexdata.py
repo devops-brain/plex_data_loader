@@ -54,22 +54,20 @@ class Plex_Lib_Manager(object):
         """
         if "DVR_Shows" in self.conversion_dict.keys():
             #print( self.conversion_dict['DVR_Shows'])
-            for show_name in os.listdir(self.input_path):
+            for show_name in os.listdir(self.input_path).sort():
                 #print( show_name)
                 try:
                     for e in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
-                        print( self.conversion_dict['DVR_Shows']['exceptions'][e])
+                        #print( self.conversion_dict['DVR_Shows']['exceptions'][e])
                         if self.conversion_dict['DVR_Shows']['exceptions'][e] in show_name:
                             #print (e, show_name)
                             raise NameError(show_name)
                     for root, subFolders, files in os.walk( os.path.join( self.input_path, show_name)):
                         for filename in set(files):
                             filePath = os.path.join(root, filename)
-                            print( filePath)
+                            #print( filePath)
                             dest_dir = os.path.join( self.output_path, root.lstrip(self.input_path))
-                            print( dest_dir)
-                            print( filename)
-                            #self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
+                            self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
                 except NameError as e:
                     print( '{} is being skipped'.format(e))
 
