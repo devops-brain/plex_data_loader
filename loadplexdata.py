@@ -88,18 +88,6 @@ class Plex_Lib_Manager(object):
                         dest_dir = os.path.join(self.output_path, show, "Season {}".format(season))
                         #dest_fullpath = os.path.join(dest_dir, episode_name)
                         self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=episode_name)
-                        # print("Copy \"{}\" to \"{}\"".format(source, dest_fullpath))
-
-                        #if os.path.exists(source):
-                        #    if not os.path.exists(dest_fullpath):
-                        #        print("Copy \"{}\" to \"{}\"".format(source, dest_fullpath))
-                        #        self.mkdir_p(dest_dir)
-                        #        shutil.copy2(source, dest_fullpath)
-                        #    else:
-                        #        #print("{} Exists Already!".format(dest_fullpath))
-                        #        source="done"
-                        #else:
-                        #    print("{}\" does not exist!".format(source))
 
         if "Movies" in self.conversion_dict.keys():
             # print( self.conversion_dict['Movies'])
