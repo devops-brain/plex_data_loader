@@ -5,6 +5,12 @@ Movies:
         edition: "DVD"
         source_dir: "42ND_STREET"
         source_name: "title00.mkv"
+  "9 to 5 (1980)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "9 to 5.mp4"
   "A Million Ways to Die in the West (2014)":
     "Feature":
       "DVD":
@@ -689,12 +695,24 @@ Movies:
         edition: "DVD"
         source_dir: "ID4_DAT"
         source_name: "title00.mkv"
+  "Indiana Jones and the Last Crusade (1989)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Indiana Jones and the Last Crusade.mp4"
   "Indiana Jones and the Kingdom of the Crystal Skull (2008)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "INDIANA_JONES_4_AC"
         source_name: "title00.mkv"
+  "Iron Man 2 (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Iron Man 2.mp4"
   "Jeff Dunham- Relative Disaster (2017)":
     "Feature":
       "PlayOn":
