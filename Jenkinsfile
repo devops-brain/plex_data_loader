@@ -17,7 +17,7 @@ pipeline {
         stage('PlayOn Movies') {
             steps {
                 echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-                sh 'python3 ./loadplexdata.py -i /srv/masters/Koi_Pond/PlayOn -o /srv/plexmedia/DVR/Movies/ -c ./convertMovies.yml'
+                sh 'python3 ./loadplexdata.py -i /srv/masters/DVR/PlayOn -o /srv/plexmedia/DVR/Movies/ -c ./convertMovies.yml'
             }
         }
         stage('PlayOn TV') {
