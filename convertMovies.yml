@@ -695,6 +695,18 @@ Movies:
         edition: "DVD"
         source_dir: "ID4_DAT"
         source_name: "title00.mkv"
+  "Raiders of the Lost Ark (1981)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Indiana Jones and the Raiders of the Lost Ark.mp4"
+  "Indiana Jones and the Temple of Doom (1984)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Indiana Jones and the Temple of Doom.mp4"
   "Indiana Jones and the Last Crusade (1989)":
     "Feature":
       "PlayOn":
@@ -1332,6 +1344,12 @@ Movies:
         edition: "DVD"
         source_dir: "MARVELS_THE_AVENGERS"
         source_name: "title00.mkv"
+  "Avengers- Infinity War (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Avengers_ Infinity War.mp4"
   "The Big Easy (1986)":
     "Feature":
       "DVD":
