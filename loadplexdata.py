@@ -62,17 +62,12 @@ class Plex_Lib_Manager(object):
                         if self.conversion_dict['DVR_Shows']['exceptions'][e] in show_name:
                             #print (e, show_name)
                             raise NameError(show_name)
-                    for root, subFolders, files in os.walk( os.path.join( self.input_path, show_name)):
-                        for filename in set(files):
+                    for root, subFolders, files in sorted(os.walk(os.path.join(self.input_path, show_name))):
+                        for filename in sorted(set(files)):
                             filePath = os.path.join(root, filename)
                             #print( filePath)
                             dest_dir = root.replace( self.input_path, self.output_path)
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
-                    print( "sorting test")
-                    for root, subFolders, files in sorted(os.walk(os.path.join(self.input_path, show_name))):
-                        for filename in sorted(set(files)):
-                            filePath = os.path.join(root, filename)
-                            print( filePath, filename)
                 except NameError as e:
                     print( '{} is being skipped'.format(e))
 
