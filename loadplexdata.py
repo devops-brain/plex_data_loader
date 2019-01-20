@@ -70,7 +70,7 @@ class Plex_Lib_Manager(object):
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
                     print( "sorting test")
                     for root, subFolders, files in sorted(os.walk(os.path.join(self.input_path, show_name))):
-                        for filename in set(files):
+                        for filename in sorted(set(files)):
                             filePath = os.path.join(root, filename)
                             print( filePath, filename)
                 except NameError as e:
