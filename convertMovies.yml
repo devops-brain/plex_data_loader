@@ -612,6 +612,12 @@ Movies:
         edition: "BD_set"
         source_dir: "Harry_Potter_and_the_Deathly_Hallows_Part_2"
         source_name: "Harry_Potter_and_the_Deathly_Hallows_Part_2_t00.mkv"
+  "He-s Out There (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "He's Out There.mp4"
   "Hercules (1997)":
     "Feature":
       "PlayOn":
@@ -1088,6 +1094,12 @@ Movies:
         edition: "BD"
         source_dir: "Puss_In_Boots"
         source_name: "Puss_In_Boots_t00.mkv"
+  "ReMastered- Massacre at the Stadium (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "ReMastered_ Massacre at the Stadium.mp4"
   "Rent (2005)":
     "Feature":
       "DVD":
@@ -1634,6 +1646,12 @@ Movies:
         type: "short"
         source_dir: "The_King_and_I"
         source_name: "The_King_and_I_t16.mkv"
+  "The Last Laugh (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Last Laugh.mp4"
   "The League of Extraordinary Gentlemen (2003)":
     "Feature":
       "DVD":
