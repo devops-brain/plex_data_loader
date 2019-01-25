@@ -47,6 +47,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "An American Tail_ Fievel Goes West.mp4"
+  "Another Time (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Another Time.mp4"
   "Annie (1982)":
     "Feature":
       "30th_Anniversary_BD":
@@ -463,6 +469,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "For Your Eyes Only.mp4"
+  "Forever My Girl (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Forever My Girl.mp4"
   "Friday After Next (2002)":
     "Feature":
       "DVD":
@@ -498,6 +510,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Fullmetal Alchemist (2017)"
+  "Fyre Fraud (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "FYRE FRAUD.mp4"
   "The Gamers- Dorkness Rising (2008)":
     "Feature":
       "PlayOn":
@@ -743,6 +761,12 @@ Movies:
         edition: "DVD"
         source_dir: "INDIANA_JONES_4_AC"
         source_name: "title00.mkv"
+  "Invisible Essence- The Little Prince (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Invisible Essence_ The Little Prince.mp4"
   "Iron Man 2 (2010)":
     "Feature":
       "PlayOn":
@@ -1741,6 +1765,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "The Seven Deadly Sins the Movie_ Prisoners of the Sky.mp4"
+  "The Snapper":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Snapper.mp4"
   "The Sound of Music (1965)":
     "Feature":
       "50th_Anniversary_BD":
@@ -1855,6 +1885,12 @@ Movies:
         edition: "DVD"
         source_dir: "TRANSFORMERS_VANILLA"
         source_name: "title00.mkv"
+  "Trevor Noah- Son of Patricia (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Trevor Noah_ Son of Patricia.mp4"
   "Troy (2004)":
     "Feature":
       "DVD":
@@ -1897,6 +1933,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Van Helsing.mp4"
+  "Walking with the Enemy (2013)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Walking With the Enemy.mp4"
   "We Are Marshall (2006)":
     "Feature":
       "DVD":
