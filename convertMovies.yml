@@ -29,6 +29,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "A Wrinkle in Time.mp4"
+  "Abducted in Plain Sight (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Abducted in Plain Sight.mp4"
   "Adam Sandler- 100- Fresh (2018)":
     "Feature":
       "PlayOn":
@@ -274,6 +280,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "D-Day.mp4"
+  "Deadly Switch (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Deadly Switch.mp4"
   "Deadpool (2016)":
     "Feature":
       "BD":
@@ -771,7 +783,7 @@ Movies:
     "Feature":
       "PlayOn":
         edition: "PlayOn"
-        source_dir: "Hulu"
+        source_dir: "Amazon Prime Video"
         source_name: "Iron Man 2.mp4"
   "Jeff Dunham- Relative Disaster (2017)":
     "Feature":
@@ -1195,6 +1207,12 @@ Movies:
         edition: "DVD"
         source_dir: "ROMEO_JULIET"
         source_name: "title00.mkv"
+  "Root Cause (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Root Cause.mp4"
   "Rush Hour 2 (2001)":
     "Feature":
       "DVD":
@@ -1939,6 +1957,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Walking With the Enemy.mp4"
+  "Watchmen (2009)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Watchmen.mp4"
   "We Are Marshall (2006)":
     "Feature":
       "DVD":
@@ -1992,6 +2016,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "You Only Live Twice.mp4"
+  "You- Me and Dupree (2006)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "You, Me and Dupree.mp4"
   "Your Highness (2011)":
     "Feature":
       "DVD":
