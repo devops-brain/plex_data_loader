@@ -1,4 +1,10 @@
 Movies:
+  "3 Srikandi (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "3 Heroines.mp4"
   "42nd Street (1933)":
     "Feature":
       "DVD":
@@ -41,6 +47,30 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "ADAM SANDLER 100% FRESH.mp4"
+  "All of You (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "All of You.mp4"
+  "Alt-Right- Age of Rage (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Alt-Right_ Age of Rage.mp4"
+  "American Gangster (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "American Gangster.mp4"
+  "American Graffiti (1973)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "GRAFFITI"
+        source_name: "title00.mkv"
   "An American in Paris (1951)":
     "Feature":
       "DVD":
@@ -53,6 +83,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "An American Tail_ Fievel Goes West.mp4"
+  "Ánimas (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Animas.mp4"
   "Another Time (2018)":
     "Feature":
       "PlayOn":
@@ -65,12 +101,6 @@ Movies:
         edition: "30th_Anniversary_BD"
         source_dir: "Annie"
         source_name: "Annie_t01.mkv"
-  "American Graffiti (1973)":
-    "Feature":
-      "DVD":
-        edition: "DVD"
-        source_dir: "GRAFFITI"
-        source_name: "title00.mkv"
   "Atlantis- The Lost Empire (2001)":
     "Feature":
       "BD":
@@ -238,12 +268,24 @@ Movies:
         edition: "BD"
         source_dir: "Captain_Underpants_The_First_Epic_Movie"
         source_name: "Captain_Underpants_The_First_Epic_Movie_t00.mkv"
+  "Catwalk- Tales from the Cat Show Circuit (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Catwalk_ Tales from the Cat Show Circuit.mp4"
   "Catwoman (2004)":
     "Feature":
       "PlayOn":
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Catwoman.mp4"
+  "Close (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Close.mp4"
   "Coco (2017)":
     "Feature":
       "PlayOn":
@@ -356,6 +398,12 @@ Movies:
         edition: "DVD"
         source_dir: "DOUBJEOP"
         source_name: "title00.mkv"
+  "Driven to Dance (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Driven to Dance.mp4"
   "Dr. No (1962)":
     "Feature":
       "PlayOn":
@@ -576,6 +624,12 @@ Movies:
         edition: "BD"
         source_dir: "Good_Morning_Vietnam"
         source_name: "Good_Morning_Vietnam_t01.mkv"
+  "Goyo- The Boy General (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Goyo_ The Boy General.mp4"
   "Guardians of the Galaxy Vol- 2 (2017)":
     "Feature":
       "PlayOn":
@@ -725,6 +779,12 @@ Movies:
         edition: "DVD"
         source_dir: "HOW_TO_TRAIN_YOUR_DRAGON_2"
         source_name: "title00.mkv"
+  "I Am Elizabeth Smart (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "I Am Elizabeth Smart.mp4"
   "I Am Legend (2007)":
     "Feature":
       "DVD":
@@ -779,6 +839,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Invisible Essence_ The Little Prince.mp4"
+  "Io (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "IO.mp4"
   "Iron Man 2 (2010)":
     "Feature":
       "PlayOn":
@@ -803,6 +869,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Jeff Foxworthy and Larry the Cable Guy_ We’ve Been Thinking....mp4"
+  "Just Love (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Just Love.mp4"
   "Kick-Ass (2010)":
     "Feature":
       "PlayOn":
@@ -827,6 +899,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Kung Fu Panda.mp4"
+  "Lady-Like (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Lady-Like.mp4"
   "Latin History for Morons- John Leguizamo-s Road to Broadway (2018)":
     "Feature":
       "PlayOn":
@@ -970,6 +1048,12 @@ Movies:
         edition: "DVD"
         source_dir: "Men_In_Black"
         source_name: "Men_In_Black_t00.mkv"
+  "My Masterpiece (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Mi Obra Maestra.mp4"
   "Moana (2016)":
     "Feature":
       "PlayOn":
@@ -1022,6 +1106,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Mulan.mp4"
+  "Nang Nak (1999)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Nang Nak.mp4"
   "Naruto Shippuden the Movie- Blood Prison (2011)":
     "Feature":
       "PlayOn":
@@ -1040,6 +1130,12 @@ Movies:
         edition: "DVD"
         source_dir: "Nick_and_Norahs_Infinite_Playlist"
         source_name: "Nick_and_Norahs_Infinite_Playlist_t00.mkv"
+  "O (2001)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "O.mp4"
   "O Brother- Where Art Thou? (2000)":
     "Feature":
       "DVD":
@@ -1052,12 +1148,24 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Octopussy.mp4"
+  "Ser Tão Velho Cerrado (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Old Lord Savanna.mp4"
   "On Her Majesty-s Secret Service (1969)":
     "Feature":
       "PlayOn":
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "On Her Majesty's Secret Service.mp4"
+  "Only Mine (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Only Mine.mp4"
   "Outlaw King (2018)":
     "Feature":
       "PlayOn":
@@ -1076,6 +1184,18 @@ Movies:
         edition: "DVD"
         source_dir: "Pan's_Labyrinth"
         source_name: "Pan's_Labyrinth_t00.mkv"
+  "Pari (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Pari.mp4"
+  "Pàtria (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Patria.mp4"
   "Patriot Games (1992)":
     "Feature":
       "BD":
@@ -1219,6 +1339,18 @@ Movies:
         edition: "DVD"
         source_dir: "RUSH_HOUR2"
         source_name: "title00.mkv"
+  "Sam Kinison- Live in Vegas":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Sam Kinison_ Live in Vegas.mp4"
+  "Sam Kinison- The Scream Continues (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Sam Kinison_ The Scream Continues.mp4"
   "Samson (2018)":
     "Feature":
       "PlayOn":
@@ -1243,6 +1375,18 @@ Movies:
         edition: "DVD"
         source_dir: "SCOTT_PILGRIM"
         source_name: "title02.mkv"
+  "Sebastian Maniscalco- Stay Hungry (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Sebastian Maniscalco_ Stay Hungry.mp4"
+  "Secrets in the Hot Spring (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Secrets in the Hot Spring.mp4"
   "Secret of the Wings (2012)":
     "Feature":
       "PlayOn":
@@ -1315,6 +1459,18 @@ Movies:
         edition: "DVD"
         source_dir: "SKHONNW1"
         source_name: "title00.mkv"
+  "Soekarno (2013)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Soekarno.mp4"
+  "Soni (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Soni.mp4"
   "Soylent Green (1973)":
     "Feature":
       "PlayOn":
@@ -1520,6 +1676,12 @@ Movies:
         type: "deleted"
         source_dir: "LSE0NNS1"
         source_name: "title00.mkv"
+  "The Doll (2016)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Doll.mp4"
   "The Emperor-s New Groove (2000)":
     "Feature":
       "PlayOn":
@@ -1599,6 +1761,12 @@ Movies:
         edition: "BD"
         source_dir: "The_Hunt_For_Red_October"
         source_name: "The_Hunt_For_Red_October_t00.mkv"
+  "Incredibles 2 (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Incredibles 2.mp4"
   "The Indian in the Cupboard (1995)":
     "Feature":
       "PlayOn":
@@ -1766,6 +1934,12 @@ Movies:
         edition: "DVD"
         source_dir: "The_Orphanage"
         source_name: "The_Orphanage_t04.mkv"
+  "The Pagan King (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Pagan King.mp4"
   "The Phantom of the Opera (2004)":
     "Feature":
       "DVD_WS":
@@ -1849,6 +2023,12 @@ Movies:
         type: "deleted"
         source_dir: "TODO"
         source_name: "TODO.mkv"
+  "The Virgin Suicides (1999)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Virgin Suicides.mp4"
   "The Waterboy (1998)":
     "Feature":
       "PlayOn":
