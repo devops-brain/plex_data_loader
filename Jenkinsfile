@@ -6,7 +6,7 @@ pipeline {
       parallel {
         stage('Roger_Roger MakeMKV Movies') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -15,7 +15,7 @@ pipeline {
         }
         stage('Rose_Garden MakeMKV Movies') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -24,7 +24,7 @@ pipeline {
         }
         stage('Donna_Collection MakeMKV Movies') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -33,7 +33,7 @@ pipeline {
         }
         stage('Dragons_Den MakeMKV Movies') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -42,7 +42,7 @@ pipeline {
         }
         stage('Koi_Pond MakeMKV Movies') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -51,7 +51,7 @@ pipeline {
         }
         stage('Dragons_Den MakeMKV TV') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -60,7 +60,7 @@ pipeline {
         }
         stage('Koi_Pond MakeMKV TV') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -69,7 +69,7 @@ pipeline {
         }
         stage('PlayOn Movies') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -78,7 +78,7 @@ pipeline {
         }
         stage('PlayOn Reformatted TV') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
@@ -87,7 +87,7 @@ pipeline {
         }
         stage('PlayOn Format-Filtered TV') {
           agent {
-            label plex-shares
+            label "plex-shares"
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
