@@ -154,6 +154,12 @@ Movies:
         type: "deleted"
         source_dir: "Back_to_the_Future_Bonus_Disc"
         source_name: "Back_to_the_Future_Bonus_Disc_t00.mkv"
+  "Bad Santa (2003)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Bad Santa.mp4"
   "Battle of Britain- The Real Story (2010)":
     "Feature":
       "PlayOn":
@@ -220,6 +226,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Bolt.mp4"
+  "Born on the Fourth of July (1989)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Born on the Fourth of July.mp4"
   "Brave (2012)":
     "Feature":
       "DVD":
@@ -250,12 +262,30 @@ Movies:
         edition: "DVD"
         source_dir: "CABARET_4X3_FF_NA"
         source_name: "title00.mkv"
+  "Caddyshack (1980)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Caddyshack.mp4"
+  "Caddyshack II (1988)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Caddyshack II.mp4"
   "Camelot (1967)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "CAMELOT_1967"
         source_name: "title00.mkv"
+  "Capote (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Capote.mp4"
   "Captain America The First Avenger (2011)":
     "Feature":
       "DVD":
@@ -304,18 +334,36 @@ Movies:
         edition: "DVD"
         source_dir: "CHARLIE_AND_THE_CHOCOLATE_FACTORY"
         source_name: "CHARLIE_AND_THE_CHOCOLATE_FACTORY_t00.mkv"
+  "Chaos (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Chaos.mp4"
   "Chicago (2002)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "CHICAGOSED1"
         source_name: "title00.mkv"
+  "Chasing Liberty (2004)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Chasing Liberty.mp4"
   "Clear and Present Danger (1994)":
     "Feature":
       "BD":
         edition: "BD"
         source_dir: "Clear_and_Present_Danger"
         source_name: "Clear_and_Present_Danger_t00.mkv"
+  "Cruise (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Cruise.mp4"
   "D-Day 6-6-1944 (2004)":
     "Feature":
       "PlayOn":
@@ -344,6 +392,18 @@ Movies:
         edition: "BD"
         source_dir: "Deadpool_2"
         source_name: "Deadpool_2_t00.mkv"
+  "Deep Blue Sea (1999)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Deep Blue Sea.mp4"
+  "Delta Farce (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Delta Farce.mp4"
   "Despicable Me (2010)":
     "Feature":
       "BD":
@@ -416,12 +476,24 @@ Movies:
         edition: "DVD"
         source_dir: "ENEMYATTHEGATES"
         source_name: "title00.mkv"
+  "Equilibrium (2002)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Equilibrium.mp4"
   "Eragon (2006)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "ERAGON_WS"
         source_name: "title00.mkv"
+  "Escape from Alcatraz (1979)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Escape from Alcatraz.mp4"
   "Evan Almighty (2007)":
     "Feature":
       "DVD":
@@ -517,6 +589,18 @@ Movies:
         type: "interview"
         source_dir: "Fiddler_on_the_Roof"
         source_name: "Fiddler_on_the_Roof_t16.mkv"
+  "Field of Dreams (1989)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Field of Dreams.mp4"
+  "Flesh+Blood (1985)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Flesh + Blood.mp4"
   "Flyboys (2006)":
     "Feature":
       "DVD":
@@ -546,6 +630,12 @@ Movies:
         type: "deleted"
         source_dir: "FRIDAY_AFTER_NEXT_FF"
         source_name: "title00.mkv"
+  "Freedomland (2006)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Freedomland.mp4"
   "From Russia with Love (1963)":
     "Feature":
       "PlayOn":
@@ -702,6 +792,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "He's Out There.mp4"
+  "Hellboy II- The Golden Army (2008)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Hellboy II_ The Golden Army.mp4"
   "Hercules (1997)":
     "Feature":
       "PlayOn":
@@ -743,6 +839,12 @@ Movies:
         type: "trailer"
         source_dir: "HIGH_CRIMES"
         source_name: "title07.mkv"
+  "High Society (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "High Society.mp4"
   "Hiroshima (2005)":
     "Feature":
       "PlayOn":
@@ -767,6 +869,12 @@ Movies:
         edition: "DVD"
         source_dir: "Hollywood_Homicide"
         source_name: "Hollywood_Homicide_t00.mkv"
+  "How to Deal (2003)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "How to Deal.mp4"
   "How to Train Your Dragon (2010)":
     "Feature":
       "BD":
@@ -1030,6 +1138,18 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Lost in Space.mp4"
+  "Love- Gilda (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Love, Gilda.mp4"
+  "Marathon Man (1976)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Marathon Man.mp4"
   "Mars Attacks! (1996)":
     "Feature":
       "BD":
@@ -1048,6 +1168,12 @@ Movies:
         edition: "DVD"
         source_dir: "Men_In_Black"
         source_name: "Men_In_Black_t00.mkv"
+  "Mississippi Burning (1988)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Mississippi Burning.mp4"
   "My Masterpiece (2018)":
     "Feature":
       "PlayOn":
@@ -1094,6 +1220,18 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Moonraker.mp4"
+  "Mortal Kombat (1995)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Mortal Kombat.mp4"
+  "Mortal Kombat- Annihilation (1997)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Mortal Kombat_ Annihilation.mp4"
   "Mowgli- Legend of the Jungle (2018)":
     "Feature":
       "PlayOn":
@@ -1106,6 +1244,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Mulan.mp4"
+  "Mystic Pizza (1988)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Mystic Pizza.mp4"
   "Nang Nak (1999)":
     "Feature":
       "PlayOn":
@@ -1124,6 +1268,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Never Say Never Again.mp4"
+  "Next Day Air (2009)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Next Day Air.mp4"
   "Nick and Norah's Infinite Playlist (2008)":
     "Feature":
       "DVD":
@@ -1208,6 +1358,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Peter Rabbit.mp4"
+  "Pick of the Litter (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Pick of the Litter.mp4"
   "Pirates of the Caribbean- At World's End (2007)":
     "Feature":
       "PlayOn":
@@ -1477,6 +1633,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Amazon Prime Video"
         source_name: "Soylent Green.mp4"
+  "Space Jam (1996)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Space Jam.mp4"
   "Spaceballs (1987)":
     "Feature":
       "DVD":
@@ -1602,6 +1764,12 @@ Movies:
         edition: "DVD"
         source_dir: "TANGLED"
         source_name: "title00.mkv"
+  "Terminator 2- Judgment Day (1991)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Terminator 2_ Judgment Day.mp4"
   "That-s Entertainment! (1974)":
     "Feature":
       "DVD":
@@ -1647,6 +1815,12 @@ Movies:
         type: "deleted"
         source_dir: "BOONDOCK_SAINTS_D2"
         source_name: "title00.mkv"
+  "The Bourne Ultimatum (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Bourne Ultimatum.mp4"
   "The Boss Baby (2017)":
     "Feature":
       "PlayOn":
@@ -1694,6 +1868,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "The First World War From Above.mp4"
+  "The Gentleman Driver (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Gentleman Driver.mp4"
   "The Golden Compass (2007)":
     "Feature":
       "PlayOn":
@@ -1898,6 +2078,18 @@ Movies:
         edition: "TheatricalBD"
         source_dir: "THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING"
         source_name: "THE_LORD_OF_THE_RINGS_THE_RETURN_OF_THE_KING_t00.mkv"
+  "The Madness of King George (1994)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Madness of King George.mp4"
+  "The Man in the Iron Mask (1998)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Man in the Iron Mask.mp4"
   "The Man with the Golden Gun (1974)":
     "Feature":
       "PlayOn":
@@ -1940,6 +2132,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "The Pagan King.mp4"
+  "The Portrait of a Lady (1996)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Portrait of a Lady.mp4"
   "The Phantom of the Opera (2004)":
     "Feature":
       "DVD_WS":
@@ -1951,6 +2149,18 @@ Movies:
         type: "deleted"
         source_dir: "PHANTOM_OF_THE_OPERA_DISC_2"
         source_name: "PHANTOM_OF_THE_OPERA_DISC_2_t00.mkv"
+  "The Reckoning- Hollywood's Worst Kept Secret (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Reckoning.mp4"
+  "The Secret Garden (1993)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Secret Garden.mp4"
   "The Seven Deadly Sins the Movie- Prisoners of the Sky (2018)":
     "Feature":
       "PlayOn":
@@ -2006,6 +2216,12 @@ Movies:
         edition: "BD"
         source_dir: "The_Sum_of_All_Fears"
         source_name: "The_Sum_of_All_Fears_t00.mkv"
+  "The Thomas Crown Affair (1968)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "The Thomas Crown Affair.mp4"
   "The Three Musketeers (1993)":
     "Feature":
       "DVD":
@@ -2065,6 +2281,12 @@ Movies:
         edition: "DVD"
         source_dir: "TMNT"
         source_name: "TMNT_t00.mkv"
+  "Tomcats (2001)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Tomcats.mp4"
   "Tomorrow Never Dies (1997)":
     "Feature":
       "PlayOn":
@@ -2107,6 +2329,12 @@ Movies:
         edition: "DVD"
         source_dir: "UNDERWORLD_EVOLUTION"
         source_name: "title00.mkv"
+  "Up Among the Stars (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Up Among the Stars.mp4"
   "V for Vendetta (2005)":
     "Feature":
       "PlayOn":
@@ -2143,18 +2371,42 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Watchmen.mp4"
+  "Wayne-s World (1992)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Wayne's World.mp4"
+  "Wayne-s World 2 (1993)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Wayne's World 2.mp4"
   "We Are Marshall (2006)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "WE_ARE_MARSHALL"
         source_name: "WE_ARE_MARSHALL_t00.mkv"
+  "Wedding Crashers (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Wedding Crashers.mp4"
   "Weird Science (1985)":
     "Feature":
       "PlayOn":
         edition: "PlayOn"
         source_dir: "Amazon Prime Video"
         source_name: "Weird Science.mp4"
+  "Dracula 2000 (2000)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Wes Craven Presents_ Dracula 2000.mp4"
   "West Side Story (1961)":
     "Feature":
       "50th_Anniversary_Edition_BD":
@@ -2172,6 +2424,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Amazon Prime Video"
         source_name: "Westworld.mp4"
+  "While You Were Sleeping (1995)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "While You Were Sleeping.mp4"
   "Willy Wonka & the Chocolate Factory (1971)":
     "Feature":
       "DVD":
