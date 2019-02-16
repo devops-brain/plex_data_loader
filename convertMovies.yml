@@ -154,6 +154,12 @@ Movies:
         type: "deleted"
         source_dir: "Back_to_the_Future_Bonus_Disc"
         source_name: "Back_to_the_Future_Bonus_Disc_t00.mkv"
+  "Bad Reputation (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Bad Reputation (2018).mp4"
   "Bad Santa (2003)":
     "Feature":
       "PlayOn":
@@ -298,6 +304,12 @@ Movies:
         edition: "BD"
         source_dir: "Captain_Underpants_The_First_Epic_Movie"
         source_name: "Captain_Underpants_The_First_Epic_Movie_t00.mkv"
+  "Cats - Dogs- The Revenge of Kitty Galore (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Cats & Dogs_ The Revenge of Kitty Galore.mp4"
   "Catwalk- Tales from the Cat Show Circuit (2018)":
     "Feature":
       "PlayOn":
@@ -446,6 +458,12 @@ Movies:
         edition: "UNRATED_BD"
         source_dir: "DODGEBALL_UNRATED"
         source_name: "DODGEBALL_UNRATED_t00.mkv"
+  "Dog Days (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Dog Days.mp4"
   "Doom (2005)":
     "Feature":
       "PlayOn":
@@ -500,6 +518,12 @@ Movies:
         edition: "DVD"
         source_dir: "EVAN_ALMIGHTY"
         source_name: "title07.mkv"
+  "Experimenter (2015)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Hulu"
+        source_name: "Experimenter.mp4"
   "Fantastic Beasts and Where to Find Them (2016)":
     "Feature":
       "DVD":
@@ -696,6 +720,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Gnome Alone.mp4"
+  "God Bless the Broken Road (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "God Bless the Broken Road.mp4"
   "GoldenEye (1995)":
     "Feature":
       "PlayOn":
@@ -941,6 +971,12 @@ Movies:
         edition: "DVD"
         source_dir: "INDIANA_JONES_4_AC"
         source_name: "title00.mkv"
+  "Into the Blue (2005)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Into the Blue.mp4"
   "Invisible Essence- The Little Prince (2018)":
     "Feature":
       "PlayOn":
@@ -1025,6 +1061,18 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Lara Croft_ Tomb Raider.mp4"
+  "LEGO Marvel Super Heroes- Black Panther - Trouble in Wakanda (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "LEGO Marvel Super Heroes_ Black Panther - Trouble in Wakanda.mp4"
+  "LEGO Marvel Super Heroes - Guardians of the Galaxy- The Thanos Threat (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "LEGO Marvel Super Heroes - Guardians of the Galaxy_ The Thanos Threat.mp4"
   "Lethal Weapon (1987)":
     "Feature":
       "BD":
@@ -1280,6 +1328,12 @@ Movies:
         edition: "DVD"
         source_dir: "Nick_and_Norahs_Infinite_Playlist"
         source_name: "Nick_and_Norahs_Infinite_Playlist_t00.mkv"
+  "Ninja Assassin (2009)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Ninja Assassin.mp4"
   "O (2001)":
     "Feature":
       "PlayOn":
@@ -2173,6 +2227,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "The Snapper.mp4"
+  "The Soloist (2009)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "The Soloist.mp4"
   "The Sound of Music (1965)":
     "Feature":
       "50th_Anniversary_BD":
@@ -2347,6 +2407,12 @@ Movies:
         edition: "DVD"
         source_dir: "VICTOR_VICTORIA"
         source_name: "VICTOR_VICTORIA_t00.mkv"
+  "Viking Destiny (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Viking Destiny.mp4"
   "Viva Las Vegas (1964)":
     "Feature":
       "DVD":
