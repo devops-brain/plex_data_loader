@@ -123,7 +123,7 @@ class Plex_Lib_Manager(object):
                 print("Copy \"{}\" to \"{}\"".format(source_fullpath, dest_fullpath))
                 self.mkdir_p(dest_dir)
                 # shutil.copy2(source_fullpath, dest_fullpath)
-                os.symlink(source=source_fullpath, link_name=dest_fullpath)
+                os.symlink(source_fullpath, dest_fullpath)
             else:
                 #print("{} Exists Already!".format(dest_fullpath))
                 source_fullpath="Done"
