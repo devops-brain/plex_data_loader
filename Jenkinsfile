@@ -11,7 +11,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_Movies/ -c ./convertMovies.yml'
+            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_Movies/ -c ./convertMovies.yml'
           }
         }
         stage('PlayOn Reformatted TV') {
@@ -21,7 +21,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_TV/ -c ./convertTV.yml'
+            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
           }
         }
         stage('PlayOn Format-Filtered TV') {
@@ -31,7 +31,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_TV/ -c ./convertTV.yml'
+            sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
           }
         }
         stage('Roger-Roger MakeMKV Movies') {
@@ -41,7 +41,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'collection=Roger-Roger; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_Movies/ -c ./convertMovies.yml'
+            sh 'collection=Roger-Roger; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
         stage('Rose-Garden MakeMKV Movies') {
@@ -51,7 +51,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'collection=Rose-Garden; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_Movies/ -c ./convertMovies.yml'
+            sh 'collection=Rose-Garden; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
         stage('Donna-Collection MakeMKV Movies') {
@@ -61,7 +61,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'collection=Donna-Collection; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_Movies/ -c ./convertMovies.yml'
+            sh 'collection=Donna-Collection; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
         stage('Dragons-Den MakeMKV Movies') {
@@ -71,7 +71,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'collection=Dragons-Den; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_Movies/ -c ./convertMovies.yml'
+            sh 'collection=Dragons-Den; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
         stage('Dragons-Den MakeMKV TV') {
@@ -81,7 +81,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'collection=Dragons-Den; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_TV/ -c ./convertTV.yml'
+            sh 'collection=Dragons-Den; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_TV/ -c ./convertTV.yml'
           }
         }
         stage('Koi-Pond MakeMKV Movies') {
@@ -91,7 +91,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'collection=Koi-Pond; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_Movies/ -c ./convertMovies.yml'
+            sh 'collection=Koi-Pond; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
         stage('Koi-Pond MakeMKV TV') {
@@ -101,7 +101,7 @@ pipeline {
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
-            sh 'collection=Koi-Pond; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_TV/ -c ./convertTV.yml'
+            sh 'collection=Koi-Pond; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_TV/ -c ./convertTV.yml'
           }
         }
       }
