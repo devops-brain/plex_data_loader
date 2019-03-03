@@ -4,6 +4,36 @@ pipeline {
   stages {
     stage('Upload content'){
       parallel {
+        stage('PlayOn Movies') {
+          agent {
+            label "plex-shares"
+          }
+          steps {
+            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
+            sh 'ls /srv/*/*'
+            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_Movies/ -c ./convertMovies.yml'
+          }
+        }
+        stage('PlayOn Reformatted TV') {
+          agent {
+            label "plex-shares"
+          }
+          steps {
+            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
+            sh 'ls /srv/*/*'
+            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_TV/ -c ./convertTV.yml'
+          }
+        }
+        stage('PlayOn Format-Filtered TV') {
+          agent {
+            label "plex-shares"
+          }
+          steps {
+            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
+            sh 'ls /srv/*/*'
+            sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_TV/ -c ./convertTV.yml'
+          }
+        }
         stage('Roger-Roger MakeMKV Movies') {
           agent {
             label "plex-shares"
@@ -52,36 +82,6 @@ pipeline {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
             sh 'ls /srv/*/*'
             sh 'collection=Dragons-Den; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_${collection}_TV/ -c ./convertTV.yml'
-          }
-        }
-        stage('PlayOn Movies') {
-          agent {
-            label "plex-shares"
-          }
-          steps {
-            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
-            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_Movies/ -c ./convertMovies.yml'
-          }
-        }
-        stage('PlayOn Reformatted TV') {
-          agent {
-            label "plex-shares"
-          }
-          steps {
-            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
-            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_TV/ -c ./convertTV.yml'
-          }
-        }
-        stage('PlayOn Format-Filtered TV') {
-          agent {
-            label "plex-shares"
-          }
-          steps {
-            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
-            sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_DVR_TV/ -c ./convertTV.yml'
           }
         }
         stage('Koi-Pond MakeMKV Movies') {
