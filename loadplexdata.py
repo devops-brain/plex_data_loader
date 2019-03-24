@@ -128,7 +128,8 @@ class Plex_Lib_Manager(object):
                 #print("{} Exists Already!".format(dest_fullpath))
                 source_fullpath="Done"
         else:
-            print("{}\" does not exist!".format(source_fullpath))
+            #print("{}\" does not exist!".format(source_fullpath))
+            return True
 
     def mkdir_p(self, path):
         try:
