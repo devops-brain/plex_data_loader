@@ -482,6 +482,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Driven to Dance.mp4"
+  "Dr. Horrible-s Sing-Along Blog":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "DR_HORRIBLES_SINGALONG_BLOG"
+        source_name: "title_t02.mkv"
   "Dr. No (1962)":
     "Feature":
       "PlayOn":
