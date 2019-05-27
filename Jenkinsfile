@@ -10,7 +10,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_Movies/ -c ./convertMovies.yml'
           }
         }
@@ -20,7 +19,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
           }
         }
@@ -30,7 +28,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
           }
         }
@@ -40,7 +37,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'collection=Roger-Roger; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
@@ -50,7 +46,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'collection=Rose-Garden; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
@@ -60,7 +55,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'collection=Donna-Collection; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
@@ -70,7 +64,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'collection=Dragons-Den; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
@@ -80,7 +73,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'collection=Dragons-Den; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_TV/ -c ./convertTV.yml'
           }
         }
@@ -90,7 +82,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'collection=Koi-Pond; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml'
           }
         }
@@ -100,7 +91,6 @@ pipeline {
           }
           steps {
             echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'ls /srv/*/*'
             sh 'collection=Koi-Pond; python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_TV/ -c ./convertTV.yml'
           }
         }
