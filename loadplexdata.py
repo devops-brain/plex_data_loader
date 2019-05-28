@@ -68,13 +68,11 @@ class Plex_Lib_Manager(object):
                             filePath = os.path.join(root, filename)
                             #print( filePath)
                             dest_dir = root.replace( self.input_path, self.output_path)
-                            ## TODO:  filter out " Season ##" postfixes to titles
-                            print( dest_dir )
-                            print( str( dest_dir).split( '/')[-2] )
-                            print( str( dest_dir).split( '/')[-2][:-10] )
+                            #print( dest_dir )
+                            # filter out " Season ##" postfixes to titles
                             if " Season " in str( dest_dir).split( '/')[-2]:
                                 dest_dir = dest_dir.replace(str( dest_dir).split( '/')[-2], str( dest_dir).split( '/')[-2][:-10])
-                            print( dest_dir )
+                            #print( dest_dir )
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
                 except NameError as e:
                     print( '{} is being skipped'.format(e))
