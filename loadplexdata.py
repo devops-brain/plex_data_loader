@@ -48,7 +48,7 @@ class Plex_Lib_Manager(object):
                 raise e
         # print( self.conversion_dict)
 
-    def DVR_TV_copy(self):
+    def detect_missing_dictionary_entries(self):
         """
         copies the directories with only listed exceptions.  not 100% safe...
         :return:
@@ -77,6 +77,34 @@ class Plex_Lib_Manager(object):
                 except NameError as e:
                     print( '{} is being skipped'.format(e))
 
+    def DVR_TV_copy(self):
+        """
+        copies the directories with only listed exceptions.  not 100% safe...
+        :return:
+        """
+        if "DVR_Shows" in self.conversion_dict.keys():
+            #print( self.conversion_dict['DVR_Shows'])
+            for show_name in sorted(os.listdir(self.input_path)):
+                #print( show_name)
+                try:
+                    for e in sorted(self.conversion_dict['DVR_Shows']['exceptions'].keys()):
+                        #print( self.conversion_dict['DVR_Shows']['exceptions'][e])
+                        if self.conversion_dict['DVR_Shows']['exceptions'][e] in show_name:
+                            #print (e, show_name)
+                            raise NameError(show_name)
+                    for root, subFolders, files in sorted(os.walk(os.path.join(self.input_path, show_name))):
+                        for filename in sorted(set(files)):
+                            filePath = os.path.join(root, filename)
+                            #print( filePath)
+                            dest_dir = root.replace( self.input_path, self.output_path)
+                            #print( dest_dir )
+                            # filter out " Season ##" postfixes to titles
+                            if " Season " in str( dest_dir).split( '/')[-2]:
+                                dest_dir = dest_dir.replace(str( dest_dir).split( '/')[-2], str( dest_dir).split( '/')[-2][:-10])
+                            #print( dest_dir )
+                            self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
+                except NameError as e:
+                    print( '{} is being skipped'.format(e))
 
     def safe_load(self):
         """
@@ -126,7 +154,7 @@ class Plex_Lib_Manager(object):
         dest_fullpath = os.path.join(dest_dir, dest_name)
         if os.path.exists(source_fullpath):
             if not os.path.exists(dest_fullpath):
-                print("Copy \"{}\" to \"{}\"".format(source_fullpath, dest_fullpath))
+                print("Link \"{}\" to \"{}\"".format(source_fullpath, dest_fullpath))
                 self.mkdir_p(dest_dir)
                 # shutil.copy2(source_fullpath, dest_fullpath)
                 os.symlink(source_fullpath, dest_fullpath)
@@ -279,6 +307,9 @@ def parse_arguments():
     parser.add_argument('--dvr',
                         action="store_true",
                         help='copies structure from a compatible DVR largely as-is, using only an exemption table to filter')
+    parser.add_argument('--report',
+                        action="store_true",
+                        help='report on files that do not have conversion rules')
     parser.add_argument('-i', '--inputpath',
                         type=str,
                         help="""TODO""")
@@ -313,9 +344,12 @@ def main():
                                                                       sys.version_info.serial))
 
     plexlib = Plex_Lib_Manager(args.inputpath, args.outputpath, args.conversionrules)
-    plexlib.safe_load()
     if args.dvr:
         plexlib.DVR_TV_copy()
+    elif args.report:
+        plexlib.detect_missing_dictionary_entries()
+    else:
+        plexlib.safe_load()
 
 
 main()

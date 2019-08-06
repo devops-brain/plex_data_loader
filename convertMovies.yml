@@ -89,6 +89,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Animas.mp4"
+  "Antitrust (2001)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Anti-Trust.mp4"
   "Another Time (2018)":
     "Feature":
       "PlayOn":
@@ -154,6 +160,12 @@ Movies:
         type: "deleted"
         source_dir: "Back_to_the_Future_Bonus_Disc"
         source_name: "Back_to_the_Future_Bonus_Disc_t00.mkv"
+  "The Bad News Bears (1976)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Bad News Bears (2004).mp4"
   "Bad Reputation (2018)":
     "Feature":
       "PlayOn":
@@ -358,6 +370,12 @@ Movies:
         edition: "DVD"
         source_dir: "CHICAGOSED1"
         source_name: "title00.mkv"
+  "Chitty Chitty Bang Bang (1968)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Chitty Chitty Bang Bang.mp4"
   "Chasing Liberty (2004)":
     "Feature":
       "PlayOn":
@@ -494,6 +512,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Dr. No.mp4"
+  "Elvira- Mistress of the Dark (1988)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Elvira_ Mistress of the Dark.mp4"
   "Enemy at the Gates (2001)":
     "Feature":
       "DVD":
@@ -923,6 +947,12 @@ Movies:
         edition: "DVD"
         source_dir: "HOW_TO_TRAIN_YOUR_DRAGON_2"
         source_name: "title00.mkv"
+  "I Am Dragon (2015)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "I Am Dragon.mp4"
   "I Am Elizabeth Smart (2017)":
     "Feature":
       "PlayOn":
@@ -977,6 +1007,12 @@ Movies:
         edition: "DVD"
         source_dir: "INDIANA_JONES_4_AC"
         source_name: "title00.mkv"
+  "Interview with the Vampire- The Vampire Chronicles (1994)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Interview With the Vampire_ The Vampire Chronicles.mp4"
   "Into the Blue (2005)":
     "Feature":
       "PlayOn":
@@ -995,6 +1031,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "IO.mp4"
+  "Iron Eagle II (1988)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Iron Eagle II.mp4"
   "Iron Man 2 (2010)":
     "Feature":
       "PlayOn":
@@ -1198,6 +1240,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Love, Gilda.mp4"
+  "Major Payne (1995)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Major Payne.mp4"
   "Marathon Man (1976)":
     "Feature":
       "PlayOn":
@@ -1723,6 +1771,12 @@ Movies:
         edition: "DVD"
         source_dir: "STARGATE_CONTINUUM"
         source_name: "title01.mkv"
+  "Stargate Origins- Catherine (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Stargate Origins_ Catherine.mp4"
   "Star Trek- The Motion Picture (1979)":
     "Feature":
       "BD":
@@ -1824,6 +1878,18 @@ Movies:
         edition: "DVD"
         source_dir: "TANGLED"
         source_name: "title00.mkv"
+  "Teenage Mutant Ninja Turtles (1990)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Teenage Mutant Ninja Turtles.mp4"
+  "Teenage Mutant Ninja Turtles II- The Secret of the Ooze (1991)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Teenage Mutant Ninja Turtles 2.mp4"
   "Terminator 2- Judgment Day (1991)":
     "Feature":
       "PlayOn":
@@ -1836,6 +1902,12 @@ Movies:
         edition: "DVD"
         source_dir: "THATS_ENTERTAINMENT"
         source_name: "THATS_ENTERTAINMENT_t00.mkv"
+  "The Addams Family (1991)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "The Addams Family.mp4"
   "The Avengers (2012)":
     "Feature":
       "DVD":
@@ -1910,6 +1982,12 @@ Movies:
         type: "deleted"
         source_dir: "LSE0NNS1"
         source_name: "title00.mkv"
+  "The Dark Crystal (1982)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "The Dark Crystal.mp4"
   "The Doll (2016)":
     "Feature":
       "PlayOn":
@@ -1928,6 +2006,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "The First World War From Above.mp4"
+  "The General's Daughter (1999)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "The General's Daughter.mp4"
   "The Gentleman Driver (2018)":
     "Feature":
       "PlayOn":
@@ -2096,6 +2180,12 @@ Movies:
         type: "short"
         source_dir: "The_King_and_I"
         source_name: "The_King_and_I_t16.mkv"
+  "The Last Airbender (2010)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "The Last Airbender.mp4"
   "The Last Laugh (2019)":
     "Feature":
       "PlayOn":
@@ -2437,6 +2527,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Walking With the Enemy.mp4"
+  "WarGames (1983)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "WarGames.mp4"
   "Watchmen (2009)":
     "Feature":
       "PlayOn":
@@ -2538,6 +2634,12 @@ Movies:
         edition: "DVD"
         source_dir: "YOUR"
         source_name: "title00.mkv"
+  "Zombieland (2009)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Zombieland.mp4"
 
 
 
