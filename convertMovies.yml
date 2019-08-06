@@ -17,6 +17,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "9 to 5.mp4"
+  "A Little Chaos (2014)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "A Little Chaos.mp4"
   "A Million Ways to Die in the West (2014)":
     "Feature":
       "DVD":
@@ -107,6 +113,18 @@ Movies:
         edition: "30th_Anniversary_BD"
         source_dir: "Annie"
         source_name: "Annie_t01.mkv"
+  "Ant-Man and the Wasp (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Ant-Man and the Wasp.mp4"
+  "As Good as It Gets (1997)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "As Good as It Gets.mp4"
   "Atlantis- The Lost Empire (2001)":
     "Feature":
       "BD":
@@ -137,6 +155,12 @@ Movies:
         edition: "BD"
         source_dir: "Austin_Powers_In_Goldmember"
         source_name: "Austin_Powers_In_Goldmember_t00.mkv"
+  "Aziz Ansari- Right Now (2019)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Aziz Ansari_ RIGHT NOW.mp4"
   "Back to the Future (1985)":
     "Feature":
       "BD":
@@ -208,18 +232,42 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Becoming Bond.mp4"
+  "Bee Movie (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Bee Movie.mp4"
+  "Billy Graham- An Extraordinary Journey (2018)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Billy Graham_ An Extraordinary Journey.mp4"
   "Black Panther (2018)":
     "Feature":
       "PlayOn":
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Black Panther.mp4"
+  "Black Sea (2014)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Black Sea.mp4"
   "Blazing Saddles (1974)":
     "Feature":
       "DVD":
         edition: "DVD"
         source_dir: "BLAZING_SADDLES"
         source_name: "BLAZING_SADDLES_t00.mkv"
+  "Bleach- Fade to Black- I Call Your Name (2008)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Bleach The Movie_ Fade to Black.mp4"
   "Bleach the Movie- Hell Verse (2010)":
     "Feature":
       "PlayOn":
@@ -262,6 +310,12 @@ Movies:
         edition: "DVD"
         source_dir: "BRIDESMAIDS"
         source_name: "title00.mkv"
+  "Bright (2017)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Netflix"
+        source_name: "Bright.mp4"
   "Brother Bear 2 (2006)":
     "Feature":
       "PlayOn":
