@@ -101,9 +101,9 @@ class Plex_Lib_Manager(object):
                             # filter out ' Season ##', ' ####' postfixes to titles
                             title = str( dest_dir).split( '/')[-2]
                             r = re.compile('[0-9]{4}')
-                            print( title)
-                            title = r.sub('', title)
-                            print( title)
+                            temp = r.sub('', title)
+                            if temp == title[:-( title.__len__() - 4 )]:
+                                title = temp
                             title = title.split('Season')[0].split('season')[0].rstrip(' ')
                             dest_dir = dest_dir.replace(str( dest_dir).split( '/')[-2], title)
                             #print( dest_dir )
