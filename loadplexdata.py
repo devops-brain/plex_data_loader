@@ -67,15 +67,17 @@ class Plex_Lib_Manager(object):
                         for filename in sorted(set(files)):
                             filePath = os.path.join(root, filename)
                             dest_dir = root.replace( self.input_path, self.output_path)
-                            # filter out ' Season ##', ' ####' postfixes to titles
+                            # filter out ' Season ##' postfixes to titles
                             title = str( dest_dir).split( '/')[-2]
-                            r = re.compile('[0-9]{4}')
-                            temp = r.sub('', title)
-                            print( temp)
-                            if temp in title:
-                                title = temp
                             title = title.split('Season')[0].split('season')[0].split('_ The Complete')[0].rstrip(' ')
                             dest_dir = dest_dir.replace(str( dest_dir).split( '/')[-2], title)
+                            # filter out ' ####' postfixes to titles
+                            title = str( dest_dir).split( '/')[-2]
+                            r = re.compile('[0-9]{4}')
+                            temp = str( r.sub('', title))
+                            if temp in title:
+                                if temp.__len__() is not title.__len__():
+                                    dest_dir = dest_dir.replace(title, temp.rstrip(' '))
                             #print( dest_dir )
                             #self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
                 except NameError as e:
@@ -100,15 +102,17 @@ class Plex_Lib_Manager(object):
                         for filename in sorted(set(files)):
                             filePath = os.path.join(root, filename)
                             dest_dir = root.replace( self.input_path, self.output_path)
-                            # filter out ' Season ##', ' ####' postfixes to titles
+                            # filter out ' Season ##' postfixes to titles
                             title = str( dest_dir).split( '/')[-2]
-                            r = re.compile('[0-9]{4}')
-                            temp = r.sub('', title)
-                            print( temp)
-                            if temp in title:
-                                title = temp
                             title = title.split('Season')[0].split('season')[0].split('_ The Complete')[0].rstrip(' ')
                             dest_dir = dest_dir.replace(str( dest_dir).split( '/')[-2], title)
+                            # filter out ' ####' postfixes to titles
+                            title = str( dest_dir).split( '/')[-2]
+                            r = re.compile('[0-9]{4}')
+                            temp = str( r.sub('', title))
+                            if temp in title:
+                                if temp.__len__() is not title.__len__():
+                                    dest_dir = dest_dir.replace(title, temp.rstrip(' '))
                             #print( dest_dir )
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
                 except NameError as e:
