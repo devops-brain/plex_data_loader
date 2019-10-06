@@ -102,7 +102,7 @@ class Plex_Lib_Manager(object):
                             temp = r.sub('', title)
                             if temp in title:
                                 title = temp
-                            title = title.split('Season')[0].split('season')[0].split('The Complete')[0].rstrip(' ')
+                            title = title.split('Season')[0].split('season')[0].split('_ The Complete')[0].rstrip(' ')
                             dest_dir = dest_dir.replace(str( dest_dir).split( '/')[-2], title)
                             #print( dest_dir )
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
