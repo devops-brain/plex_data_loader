@@ -95,16 +95,14 @@ class Plex_Lib_Manager(object):
                     for root, subFolders, files in sorted(os.walk(os.path.join(self.input_path, show_name))):
                         for filename in sorted(set(files)):
                             filePath = os.path.join(root, filename)
-                            #print( filePath)
                             dest_dir = root.replace( self.input_path, self.output_path)
-                            #print( dest_dir )
                             # filter out ' Season ##', ' ####' postfixes to titles
                             title = str( dest_dir).split( '/')[-2]
                             r = re.compile('[0-9]{4}')
                             temp = r.sub('', title)
-                            if temp == title[:-( title.__len__() - 4 )]:
+                            if temp in title:
                                 title = temp
-                            title = title.split('Season')[0].split('season')[0].rstrip(' ')
+                            title = title.split('Season')[0].split('season')[0].split('The Complete')[0].rstrip(' ')
                             dest_dir = dest_dir.replace(str( dest_dir).split( '/')[-2], title)
                             #print( dest_dir )
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
