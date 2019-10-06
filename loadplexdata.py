@@ -100,6 +100,7 @@ class Plex_Lib_Manager(object):
                             title = str( dest_dir).split( '/')[-2]
                             r = re.compile('[0-9]{4}')
                             temp = r.sub('', title)
+                            print( temp)
                             if temp in title:
                                 title = temp
                             title = title.split('Season')[0].split('season')[0].split('_ The Complete')[0].rstrip(' ')
