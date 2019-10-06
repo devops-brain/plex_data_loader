@@ -113,6 +113,7 @@ class Plex_Lib_Manager(object):
                             if temp in title:
                                 if temp.__len__() is not title.__len__():
                                     dest_dir = dest_dir.replace(title, temp.rstrip(' '))
+                                    filename = filename.replace(title, temp.rstrip(' '))
                             #print( dest_dir )
                             self.copy_file(source_fullpath=filePath, dest_dir=dest_dir, dest_name=filename)
                 except NameError as e:
