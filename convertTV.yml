@@ -4,110 +4,110 @@ TV:
       "01-E03":
         title: "Unknown"
         source_dir: "DCJ_DISC1_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "04-E06":
         title: "Unknown"
         source_dir: "DJG_DISC2_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "07-E09":
         title: "Unknown"
         source_dir: "DJG_DISC3_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10-E12":
         title: "Unknown"
         source_dir: "DJG_DISC4_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "13-E15":
         title: "Unknown"
         source_dir: "DJG_DISC5_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "16-E18":
         title: "TODO"
         source_dir: "DJG_DISC6_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
     "02":
       "01-E03":
         title: "Unknown"
         source_dir: "DJG2_DISC1_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "04-E06":
         title: "Unknown"
         source_dir: "DJG2_DISC2_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "07-E09":
         title: "Unknown"
         source_dir: "DJG2_DISC3_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10-E12":
         title: "Unknown"
         source_dir: "DJG2_DISC4_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "13-E15":
         title: "Unknown"
         source_dir: "DJG2_DISC5_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "16-E18":
         title: "Unknown"
         source_dir: "DJG2_DISC6_SCN"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
   Firefly:
     "01":
       "01":
         title: "Serenity"
         source_dir: "FIREFLY_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "The Train Job"
         source_dir: "FIREFLY_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Bushwhacked"
         source_dir: "FIREFLY_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Shindig"
         source_dir: "FIREFLY_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "05":
         title: "Safe"
         source_dir: "FIREFLY_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "06":
         title: "Our Mrs. Reynolds"
         source_dir: "FIREFLY_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "07":
         title: "Jaynestown"
         source_dir: "FIREFLY_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "08":
         title: "Out of Gas"
         source_dir: "FIREFLY_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "09":
         title: "Ariel"
         source_dir: "FIREFLY_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "10":
         title: "War Stories"
         source_dir: "FIREFLY_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "11":
         title: "Trash"
         source_dir: "FIREFLY_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "12":
         title: "The Message"
         source_dir: "FIREFLY_D4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "13":
         title: "Heart of Gold"
         source_dir: "FIREFLY_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "14":
         title: "Objects in Space"
         source_dir: "FIREFLY_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
   Luke Cage:
     "01":
       "01":
@@ -167,492 +167,492 @@ TV:
       "01":
         title: "Pilot"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Uncertainty Principle"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Vector"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Structural Corruption"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Prime Suspect"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Sabotage"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Counterfeit Reality"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Identity Crisis"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Sniper Zero"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Dirty Bomb"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Sacrifice"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Noisy Edge"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Man Hunt"
         source_dir: "NUMBERS_S1_D4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
     "02":
       "01":
         title: "Judgment Call"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Bettor or Worse"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Obsession"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "04":
         title: "Calculated Risk"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "05":
         title: "Assassin"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Soft Target"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Convergence"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "In Plain Sight"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "09":
         title: "Toxin"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Bones of Contention"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Scorched"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "12":
         title: "The OG"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "13":
         title: "Double Down"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Harvest"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "The Running Man"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Protest"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "17":
         title: "Mind Games"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "All-s Fair"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Dark Matter"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "20":
         title: "Guns and Roses"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "21":
         title: "Rampage"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "22":
         title: "Backscatter"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "23":
         title: "Undercurrents"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "24":
         title: "Hot Shot"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "03":
       "01":
         title: "Spree"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Two Daughters"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Provenance"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "The Mole"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Traffic"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Longshot"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Blackout"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Hardball"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Waste Not"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Brutus"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Killer Chat"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Nine Wives"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Finders Keepers"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Take Out"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "End of Watch"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Contenders"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "One Hour"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "Democracy"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Pandora-s Box"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "Burn Rate"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "21":
         title: "The Art of Reckoning"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "22":
         title: "Under Pressure"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "23":
         title: "Money for Nothing"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "24":
         title: "The Janus List"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "04":
       "01":
         title: "Trust Metric"
         source_dir: "NUMB3RS_S4_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Hollywood Homicide"
         source_dir: "NUMB3RS_S4_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Velocity"
         source_dir: "NUMB3RS_S4_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Thirteen"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "05":
         title: "Robin Hood"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "06":
         title: "In Security"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "07":
         title: "Primacy"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "08":
         title: "Tabu"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "09":
         title: "Graphic"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "10":
         title: "Chinese Box"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "11":
         title: "Breaking Point"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "12":
         title: "Power"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "13":
         title: "Black Swan"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "14":
         title: "Checkmate"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "15":
         title: "End Game"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "16":
         title: "Atomic No. 33"
         source_dir: "NUMB3RS_S4_D5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "17":
         title: "Pay to Play"
         source_dir: "NUMB3RS_S4_D5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "18":
         title: "When Worlds Collide"
         source_dir: "NUMB3RS_S4_D5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "05":
       "01":
         title: "High Exposure"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "The Decoy Effect"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Blowback"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Jack of All Trades"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Scan Man"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Magic Show"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Charlie Don't Surf"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Thirty-Six Hours"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Conspiracy Theory"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "10":
         title: "Frienemies"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "11":
         title: "Arrow of Time"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "12":
         title: "Jacked"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "13":
         title: "Trouble in Chinatown"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "14":
         title: "Sneakerhead"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "15":
         title: "Guilt Trip"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "16":
         title: "Cover Me"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "17":
         title: "First Law"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "18":
         title: "12-01 AM"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "19":
         title: "Animal Rites"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "20":
         title: "The Fifth Man"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "21":
         title: "Disturbed"
         source_dir: "NUMB3RS_S5_D6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "22":
         title: "Greatest Hits"
         source_dir: "NUMB3RS_S5_D6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "23":
         title: "Angels and Devils"
         source_dir: "NUMB3RS_S5_D6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "06":
       "01":
         title: "Hangman"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "02":
         title: "Friendly Fire"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "03":
         title: "7 Men Out"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "04":
         title: "Where Credit's Due"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "05":
         title: "Hydra"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "06":
         title: "Dreamland"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "07":
         title: "Shadow Markets"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "08":
         title: "Ultimatum"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "09":
         title: "Con Job"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "10":
         title: "Old Soldiers"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "11":
         title: "Scratch"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "12":
         title: "Arm in Arms"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "13":
         title: "Devil Girl"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "14":
         title: "And the Winner Is..."
         source_dir: "NUMB3RS_S6_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Growin- Up"
         source_dir: "NUMB3RS_S6_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Cause and Effect"
         source_dir: "NUMB3RS_S6_D4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
   Reba:
     "01":
       "01":
         title: "TODO"
         source_dir: "TODO"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
   Rocket City Rednecks:
     "02":
       "01":
         title: "TODO"
         source_dir: "TODO"
-        source_name: "title00.mkv"
+        source_name: "TODO.mkv"
   Star Trek:
     "01":
       "01":
@@ -1085,848 +1085,848 @@ TV:
       "04":
         title: "The Broca Divide"
         source_dir: "SG1_V2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "05":
         title: "The First Commandment"
         source_dir: "SG1_V2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "06":
         title: "Brief Candle"
         source_dir: "SG1_V2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "07":
         title: "Cold Lazarus"
         source_dir: "SG1_V2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "08":
         title: "Thors Hammer"
         source_dir: "SG1_V2"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "09":
         title: "The Torment Of Tantalus"
         source_dir: "SG1_V3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Bloodlines"
         source_dir: "SG1_V3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Fire And Water"
         source_dir: "SG1_V3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "The Nox"
         source_dir: "SG1_V3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Hathor"
         source_dir: "SG1_V3"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "14":
         title: "Cor-ai"
         source_dir: "SG1_V4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "15":
         title: "Singularity"
         source_dir: "SG1_V4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "16":
         title: "Enigma"
         source_dir: "SG1_V4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "17":
         title: "Tin Man"
         source_dir: "SG1_V4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "18":
         title: "Solitudes"
         source_dir: "SG1_V4"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "19":
         title: "There But For The Grace Of God"
         source_dir: "SG1_V5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "20":
         title: "Politics"
         source_dir: "SG1_V5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "21":
         title: "Within The Serpents Grasp Part 1"
         source_dir: "SG1_V5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
     "02":
       "01":
         title: "The Serpents Lair Part 2"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "In The Line Of Duty"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Prisoners"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "The Game Keeper"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Need"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Thors Chariot"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Message In A Bottle"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Family"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Secrets"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "10":
         title: "Bane"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "11":
         title: "The Tokra Part 1"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "12":
         title: "The Tokra Part 2"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "13":
         title: "Spirits"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "14":
         title: "Touchstone"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "15":
         title: "A Matter Of Time"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "16":
         title: "The Fifth Race"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "17":
         title: "Serpents Song"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "18":
         title: "Holiday"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "19":
         title: "One False Step"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "20":
         title: "Show And Tell"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "21":
         title: "1969"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "22":
         title: "Out Of Mind Part 1"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "03":
       "01":
         title: "Into The Fire Part 2"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Seth"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Fair Game"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Legacy"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Learning Curve"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Point Of View"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Deadman Switch"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Demons"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Rules Of Engagement"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "10":
         title: "Forever In A Day"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "11":
         title: "Past And Present"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "12":
         title: "Jolinars Memories Part 1"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "13":
         title: "The Devil You Know Part 2"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "14":
         title: "Foothold"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "15":
         title: "Pretense"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "16":
         title: "Urgo"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "17":
         title: "A Hundred Days"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "18":
         title: "Shades Of Grey"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "19":
         title: "New Ground"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "20":
         title: "Maternal Instinct"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "21":
         title: "Crystal Skull"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "22":
         title: "Nemesis Part 1"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
     "04":
       "01":
         title: "Small Victories Part 2"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "The Other Side"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Upgrades"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Crossroads"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Divide And Conquer"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Window Of Opportunity"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Watergate"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "The First Ones"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Scorched Earth"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Beneath The Surface"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Point Of No Return"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Tangent"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "The Curse"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "14":
         title: "Serpents Venom"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "15":
         title: "Chain Reaction"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "16":
         title: "2010"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "17":
         title: "Absolute Power"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "18":
         title: "The Light"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "19":
         title: "Prodigy"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "20":
         title: "Entity"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "21":
         title: "Double Jeopardy"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "22":
         title: "Exodus Part 1"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "05":
       "01":
         title: "Enemies Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Threshold"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Ascension"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "The Fifth Man"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Red Sky"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Rite Of Passage"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Beast Of Burden"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "The Tomb"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Between Two Fires"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "2001"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Desperate Measures"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Wormhole X-Treme"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Proving Ground"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "48 Hours"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Summit Part 1"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Last Stand Part 2"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Failsafe"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "18":
         title: "The Warrior"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "19":
         title: "Menace"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "20":
         title: "The Sentinel"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "21":
         title: "Meridian"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "22":
         title: "Revelations"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
     "06":
       "01":
         title: "Redemption Part 1"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Redemption Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Descent"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Frozen"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Nightwalkers"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Abyss"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Shadow Play"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "The Other Guys"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Allegiance"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Cure"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Prometheus"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Unnatural Selection"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Sight Unseen"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Smoke And Mirrors"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Paradise Lost"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Metamorphosis"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Disclosure"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "18":
         title: "Forsaken"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "19":
         title: "Changeling"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "20":
         title: "Memento"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "21":
         title: "Prophecy"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "22":
         title: "Full Circle"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
     "07":
       "01":
         title: "Fallen Part 1"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Homecoming Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Fragile Balance"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Orpheus"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Revisions"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Lifeboat"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Enemy Mine"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Space Race"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Avenger 2_0"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Birthright"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Evolution Part 1"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Evolution Part 2"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Grace"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Fallout"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Chimera"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Death Knell"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Heroes Part 1"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title04.mkv"
+        source_name: "title_t04.mkv"
       "18":
         title: "Heroes Part 2"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "19":
         title: "Resurrection"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "20":
         title: "Inauguration"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "21":
         title: "Lost City Parts 1 and 2"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "08":
       "01":
         title: "New Order Part 1"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "New Order Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Lockdown"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Zero Hour"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Icon"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Avatar"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Affinity"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Covenant"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Sacrifices"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "Endgame"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Gemini"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Prometheus Unbound"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Its Good To Be King"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Full Alert"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Citizen Joe"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Reckoning Part 1"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Reckoning Part 2"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "Threads"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Moebius Part 1"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "Moebius Part 2"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "09":
       "01":
         title: "Avalon Part 1"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Avalon Part 2"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Origin Part 3"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "The Ties That Bind"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "The Powers That Be"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Beachhead"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Ex Deus Machina"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Babylon"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Prototype"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "The Fourth Horseman Part 1"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "The Fourth Horseman Part 2"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Collateral Damage"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Ripple Effect"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Stronghold"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Ethon"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Off The Grid"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "The Scourge"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "Arthurs Mantle"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Crusade Part 1"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "Camelot Part 2"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "10":
       "01":
         title: "Flesh and Blood"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Morpheus"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "The Pegasus Project"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Insiders"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Uninvited"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "200"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Counterstrike"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Memento Mori"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Company of Thieves"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "The Quest, Part I"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "The Quest, Part II"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Line in the Sand"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "The Road Not Taken"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "The Shroud"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Bounty"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Bad Guys"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Talion"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "Family Ties"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Dominino"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "Unending"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
   Stargate- Atlantis:
     "01":
       "01":
@@ -2009,340 +2009,340 @@ TV:
       "01":
         title: "The Siege, Part 3"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "The Intruder"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Runner"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Duet"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Condemned"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Trinity"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Instinct"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "Conversion"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Aurora"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "The Lost Boys"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "The Hive"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Epiphany"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Critical Mass"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Grace Under Pressure"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "The Tower"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "The Long Goodbye"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Coup D-etat"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "Michael"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Inferno"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "Allies"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "03":
       "01":
         title: "No Man-s Land"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Misbegotten"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Irresistible"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Sateda"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Progeny"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "The Real World"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Common Ground"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "McKay and Mrs. Miller"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Phantoms"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "The Return, Part 1"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "The Return, Part 2"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Echoes"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Irresponsible"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Tao of Rodney"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "The Game"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "The Ark"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Sunday"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "Submersion"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Vengeance"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "First Strike"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "04":
       "01":
         title: "Adrift"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Lifeline"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Reunion"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "Doppelganger"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Travelers"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "Tabula Rasa"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Missing"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "The Seer"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Miller-s Crossing"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "This Mortal Coil"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "Be All My Sins Remember-d"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Spoils of War"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Quarantine"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "Harmony"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Outcast"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Trio"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Midway"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "The Kindred, Part 1"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "The Kindred, Part 2"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "The Last Man"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
     "05":
       "01":
         title: "Search and Rescue"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "The Seed"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Broken Ties"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "04":
         title: "The Daedalus Variations"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "05":
         title: "Ghost in the Machine"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "06":
         title: "The Shrine"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "07":
         title: "Whispers"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "08":
         title: "The Queen"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "09":
         title: "Tracker"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "10":
         title: "First Contact"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "11":
         title: "The Lost Tribe"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "12":
         title: "Outsiders"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "13":
         title: "Inquisition"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "14":
         title: "The Prodigal"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "15":
         title: "Remnants"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "16":
         title: "Brain Storm"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
       "17":
         title: "Infection"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "18":
         title: "Identity"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "19":
         title: "Vegas"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title02.mkv"
+        source_name: "title_t02.mkv"
       "20":
         title: "Enemy at the Gate"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title03.mkv"
+        source_name: "title_t03.mkv"
   Tin Man:
     "01":
       "01":
         title: "Into the Storm"
         source_dir: "TIN_MAN_DISC_1"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
       "02":
         title: "Search for the Emerald"
         source_dir: "TIN_MAN_DISC_1"
-        source_name: "title01.mkv"
+        source_name: "title_t01.mkv"
       "03":
         title: "Tin Man"
         source_dir: "TIN_MAN_DISC_2"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
   The Big Bang Theory:
     "01":
       "01":
@@ -3292,4 +3292,4 @@ Templates:
       "01":
         title: "TODO"
         source_dir: "TODO"
-        source_name: "title00.mkv"
+        source_name: "title_t00.mkv"
