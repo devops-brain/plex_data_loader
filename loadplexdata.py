@@ -147,8 +147,6 @@ class Plex_Lib_Manager(object):
                     dest_name = "{} - {}.mkv".format(movie, edition_dict["edition"])
                     source = os.path.join(self.input_path, edition_dict["source_dir"], edition_dict["source_name"])
                     # look up filename based on if supplied title in the name of a file in the supplied directory
-                    print( edition_dict["source_name"])
-                    print( os.path.join(self.input_path, edition_dict["source_dir"]))
                     try:
                         for f in os.listdir(os.path.join(self.input_path, edition_dict["source_dir"])):
                             if edition_dict["source_name"] in f:
@@ -162,6 +160,13 @@ class Plex_Lib_Manager(object):
                     bonus_dict = self.conversion_dict['Movies'][movie]["Bonus"][bonus]
                     dest_name = "{}-{}.mkv".format(bonus, bonus_dict["type"])
                     source = os.path.join(self.input_path, bonus_dict["source_dir"], bonus_dict["source_name"])
+                    # look up filename based on if supplied title in the name of a file in the supplied directory
+                    try:
+                        for f in os.listdir(os.path.join(self.input_path, bonus_dict["source_dir"])):
+                            if bonus_dict["source_name"] in f:
+                                source = os.path.join(self.input_path, bonus_dict["source_dir"], f)
+                    except:
+                        print(os.path.join(self.input_path, bonus_dict["source_dir"]))
                     self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
                 ## TODO:  upload any .mkv files in listed directories as bonus content, to avoid needing to generate per file entries
