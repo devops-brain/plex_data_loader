@@ -148,12 +148,13 @@ class Plex_Lib_Manager(object):
                     source = os.path.join(self.input_path, edition_dict["source_dir"], edition_dict["source_name"])
                     # look up filename based on if supplied title in the name of a file in the supplied directory
                     print( edition_dict["source_name"])
-                    print( edition_dict["source_dir"])
                     print( os.path.join(self.input_path, edition_dict["source_dir"]))
-                    print( os.listdir(os.path.join(self.input_path, edition_dict["source_dir"])))
-                    for f in os.listdir(os.path.join(self.input_path, edition_dict["source_dir"])):
-                        if edition_dict["source_name"] in f:
-                            source = os.path.join(self.input_path, edition_dict["source_dir"], f)
+                    try:
+                        for f in os.listdir(os.path.join(self.input_path, edition_dict["source_dir"])):
+                            if edition_dict["source_name"] in f:
+                                source = os.path.join(self.input_path, edition_dict["source_dir"], f)
+                    except:
+                        print(os.path.join(self.input_path, edition_dict["source_dir"]))
                     self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
                 if "Bonus" in self.conversion_dict['Movies'][movie].keys():
