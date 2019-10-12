@@ -146,6 +146,10 @@ class Plex_Lib_Manager(object):
                     edition_dict = self.conversion_dict['Movies'][movie]["Feature"][edition]
                     dest_name = "{} - {}.mkv".format(movie, edition_dict["edition"])
                     source = os.path.join(self.input_path, edition_dict["source_dir"], edition_dict["source_name"])
+                    # look up filename based on if supplied title in the name of a file in the supplied directory
+                    for f in os.listdir(os.path.join(self.input_path, edition_dict["source_dir"])):
+                        if edition_dict["source_name"] in f:
+                            source = os.path.join(self.input_path, edition_dict["source_dir"], f)
                     self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
                 if "Bonus" in self.conversion_dict['Movies'][movie].keys():
