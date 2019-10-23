@@ -1235,6 +1235,12 @@ Movies:
         edition: "DVD"
         source_dir: "KILLBILL_VOL1"
         source_name: "00.mkv"
+  "Kindergarten Cop (1990)":
+    "Feature":
+      "DVD":
+        edition: "DVD"
+        source_dir: "KCOP"
+        source_name: "00.mkv"
   "Kiss the Girls (1997)":
     "Feature":
       "DVD":
@@ -1957,6 +1963,18 @@ Movies:
         edition: "DVD"
         source_dir: "SINGIN'_IN_THE_RAIN"
         source_name: "00.mkv"
+  "Sister Act (1992)":
+    "Feature":
+      "20th_BD":
+        edition: "20th_BD"
+        source_dir: "Sister Act 20th Anniversary Double Feature"
+        source_name: "01.mkv"
+  "Sister Act 2- Back in the Habit (1993)":
+    "Feature":
+      "20th_BD":
+        edition: "20th_BD"
+        source_dir: "Sister Act 20th Anniversary Double Feature"
+        source_name: "02.mkv"
   "Sky High (2005)":
     "Feature":
       "DVD":
