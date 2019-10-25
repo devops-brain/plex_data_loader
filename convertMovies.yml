@@ -370,6 +370,12 @@ Movies:
         edition: "DVD"
         source_dir: "CAPTAIN_AMERICA"
         source_name: "00.mkv"
+  "TODO":
+    "Feature":
+      "BLU-RAY":
+        edition: "BLU-RAY"
+        source_dir: "CAPTAIN MARVEL - BLU-RAY"
+        source_name: "00.mkv"
   "Captain Underpants_ The First Epic Movie (2017)":
     "Feature":
       "BD":
