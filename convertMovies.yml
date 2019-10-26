@@ -2250,6 +2250,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Avengers_ Infinity War.mp4"
+  "Avengers- Endgame (2019)":
+    "Feature":
+      "BLU-RAY":
+        edition: "BLU-RAY"
+        source_dir: "MARVEL'S AVENGERS- ENDGAME - BLU-RAY"
+        source_name: "00.mkv"
   "Beast Stalker (2008)":
     "Feature":
       "PlayOn":
