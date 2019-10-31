@@ -952,19 +952,19 @@ Movies:
     "Feature":
       "BD_set":
         edition: "BD_set"
-        source_dir: "Harry_Potter_and_the_Half-Blood_Prince"
+        source_dir: "Harry Potter and the Half-Blood Prince"
         source_name: "01.mkv"
   "Harry Potter and the Deathly Hallows- Part 1 (2010)":
     "Feature":
       "BD_set":
         edition: "BD_set"
-        source_dir: "Harry_Potter_and_the_Deathly_Hallows_Part_1"
+        source_dir: "Harry Potter and the Deathly Hallows Part 1"
         source_name: "01.mkv"
   "Harry Potter and the Deathly Hallows- Part 2 (2011)":
     "Feature":
       "BD_set":
         edition: "BD_set"
-        source_dir: "Harry_Potter_and_the_Deathly_Hallows_Part_2"
+        source_dir: "Harry Potter and the Deathly Hallows Part 2"
         source_name: "00.mkv"
   "He-s Out There (2018)":
     "Feature":
