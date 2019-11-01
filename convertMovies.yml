@@ -17,6 +17,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "9 to 5.mp4"
+  "A Knight-s Tale (2001)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "A Knight's Tale.mp4"
   "A Little Chaos (2014)":
     "Feature":
       "PlayOn":
@@ -358,6 +364,12 @@ Movies:
         edition: "DVD"
         source_dir: "CAMELOT_1967"
         source_name: "00.mkv"
+  "Can-t Hardly Wait (1998)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Can't Hardly Wait.mp4"
   "Capote (2005)":
     "Feature":
       "PlayOn":
@@ -584,6 +596,12 @@ Movies:
         edition: "DVD"
         source_dir: "DOUBJEOP"
         source_name: "00.mkv"
+  "Dragonslayer (1981)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Dragonslayer.mp4"
   "Driven to Dance (2018)":
     "Feature":
       "PlayOn":
@@ -839,7 +857,7 @@ Movies:
       "PlayOn":
         edition: "PlayOn"
         source_dir: "Netflix"
-        source_name: "Get Smart.mp4"
+        source_name: "Get Smart.mp4"f
   "Ghostbusters (1984)":
     "Feature":
       "PlayOn":
@@ -876,6 +894,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Goldfinger.mp4"
+  "Good Luck Chuck (2007)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Good Luck Chuck.mp4"
   "Good Morning- Vietnam (1987)":
     "Feature":
       "BD":
@@ -1055,6 +1079,12 @@ Movies:
         edition: "DVD"
         source_dir: "Hollywood_Homicide"
         source_name: "00.mkv"
+  "House Arrest (1996)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "House Arrest.mp4"
   "How to Deal (2003)":
     "Feature":
       "PlayOn":
@@ -1175,6 +1205,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "IO.mp4"
+  "Iron Eagle (1986)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Iron Eagle.mp4"
   "Iron Eagle II (1988)":
     "Feature":
       "PlayOn":
@@ -1444,6 +1480,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Mary Poppins Returns.mp4"
+  "Iron Eagle (1986)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Masters of the Universe.mp4"
   "Meet the Robinsons (2007)":
     "Feature":
       "PlayOn":
@@ -1873,6 +1915,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Samson.mp4"
+  "Scary Movie (2000)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "Scary Movie.mp4"
   "Schindler-s List (1993)":
     "Feature":
       "DVD":
@@ -2390,6 +2438,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "The Fifth Element.mp4"
+  "The Final Countdown (1980)":
+    "Feature":
+      "PlayOn":
+        edition: "PlayOn"
+        source_dir: "Amazon Prime Video"
+        source_name: "The Final Countdown.mp4"
   "The Final Destination (2009)":
     "Feature":
       "PlayOn":
