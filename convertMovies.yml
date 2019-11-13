@@ -626,12 +626,6 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Dr. Seuss' The Grinch.mp4"
-  "Driven to Dance (2018)":
-    "Feature":
-      "PlayOn":
-        edition: "PlayOn"
-        source_dir: "Netflix"
-        source_name: "Driven to Dance.mp4"
   "Elvira- Mistress of the Dark (1988)":
     "Feature":
       "PlayOn":
@@ -1555,12 +1549,12 @@ Movies:
     "Feature":
       "DVD":
         edition: "DVD"
-        source_dir: "Monty_Python_and_the_Holy_Grail_(Special_Edition)"
+        source_dir: "Monty Python and the Holy Grail (Special Edition)"
         source_name: "00.mkv"
     "Bonus":
       "b00":
         type: "deleted"
-        source_dir: "Monty_Python_and_the_Holy_Grail_(Special_Edition)_(Bonus)"
+        source_dir: "Monty Python and the Holy Grail (Special Edition) (Bonus)"
         source_name: "00.mkv"
   "Life of Brian (1979)":
     "Feature":
