@@ -310,6 +310,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Hulu"
         source_name: "Born on the Fourth of July.mp4"
+  "Bounty Killer (2013)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Bounty Killer"
+        source_name: "01.mkv"
   "Brave (2012)":
     "Feature":
       "DVD":
