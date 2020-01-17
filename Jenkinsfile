@@ -4,15 +4,6 @@ pipeline {
   stages {
     stage('Upload content'){
       parallel {
-        stage('PlayOn Movies') {
-          agent {
-            label "plex-shares"
-          }
-          steps {
-            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-            sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_Movies/ -c ./convertMovies.yml'
-          }
-        }
         stage('PlayOn Reformatted TV') {
           agent {
             label "plex-shares"

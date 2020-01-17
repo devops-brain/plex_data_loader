@@ -130,7 +130,11 @@ class Plex_Lib_Manager(object):
             for e in sorted(self.conversion_dict['DVR_Movies']['feeds'].keys()):
                 #print( self.conversion_dict['DVR_Movies']['feeds'][e])
                 for movie_name in sorted(os.listdir(os.path.join( self.input_path, self.conversion_dict['DVR_Movies']['feeds'][e]))):
+                    source = os.pat.join( os.path.join( self.input_path, self.conversion_dict['DVR_Movies']['feeds'][e]), movie_name)
                     print( movie_name)
+                    movie_dest = os.path.join( self.output_path, movie_name.split('.')[0])
+                    ## TODO:  filter the files against the yaml list
+                    self.copy_file(source_fullpath=source, dest_dir=movie_dest, dest_name=movie_name)
 
     def safe_load(self):
         """
