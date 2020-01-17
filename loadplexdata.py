@@ -126,9 +126,9 @@ class Plex_Lib_Manager(object):
         :return:
         """
         if "DVR_Movies" in self.conversion_dict.keys():
-            #print( self.conversion_dict['DVR_Movies'])
+            print( self.conversion_dict['DVR_Movies'])
             for e in sorted(self.conversion_dict['DVR_Movies']['feeds'].keys()):
-                #print( self.conversion_dict['DVR_Movies']['feeds'][e])
+                print( self.conversion_dict['DVR_Movies']['feeds'][e])
                 for movie_name in sorted(os.listdir(os.path.join( self.input_path, self.conversion_dict['DVR_Movies']['feeds'][e]))):
                     source = os.pat.join( os.path.join( self.input_path, self.conversion_dict['DVR_Movies']['feeds'][e]), movie_name)
                     print( movie_name)
