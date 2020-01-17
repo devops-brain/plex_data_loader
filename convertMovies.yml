@@ -3212,6 +3212,11 @@ Movies:
         source_name: "Zombieland.mp4"
 
 
+DVR_Movies:
+  "feeds":
+    "01": "Netflix"
+    "02": "Hulu"
+    "03": "Amazon Prime Video"
 
 
 Template:

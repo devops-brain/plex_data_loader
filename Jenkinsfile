@@ -22,6 +22,15 @@ pipeline {
             sh 'python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
           }
         }
+        stage('PlayOn Format-Filtered Movies') {
+          agent {
+            label "plex-shares"
+          }
+          steps {
+            echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
+            sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_Movies/ -c ./convertMovies.yml'
+          }
+        }
         stage('PlayOn Format-Filtered TV') {
           agent {
             label "plex-shares"

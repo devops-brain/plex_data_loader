@@ -120,6 +120,18 @@ class Plex_Lib_Manager(object):
                 except NameError as e:
                     print( '{} is being skipped'.format(e))
 
+    def DVR_Movies_copy(self):
+        """
+        copies the directories with only listed exceptions.  not 100% safe...
+        :return:
+        """
+        if "DVR_Movies" in self.conversion_dict.keys():
+            #print( self.conversion_dict['DVR_Movies'])
+            for e in sorted(self.conversion_dict['DVR_Movies']['feeds'].keys()):
+                #print( self.conversion_dict['DVR_Movies']['feeds'][e])
+                for movie_name in sorted(os.listdir(os.path.join( self.input_path, self.conversion_dict['DVR_Movies']['feeds'][e]))):
+                    print( movie_name)
+
     def safe_load(self):
         """
         Safely Loads files, no overwriting.
@@ -373,7 +385,10 @@ def main():
 
     plexlib = Plex_Lib_Manager(args.inputpath, args.outputpath, args.conversionrules)
     if args.dvr:
-        plexlib.DVR_TV_copy()
+        if 'TV' in args.conversionrules:
+            plexlib.DVR_TV_copy()
+        else:
+            plexlib.DVR_Movies_copy()
     elif args.report:
         plexlib.detect_missing_dictionary_entries()
     else:
