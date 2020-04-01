@@ -150,6 +150,12 @@ class Plex_Lib_Manager(object):
                         episode_name = "{} - S{}E{} - {}.mkv".format(show, season, episode, episode_dict["title"])
                         source = os.path.join(self.input_path, episode_dict["source_dir"], episode_dict["source_name"])
                         dest_dir = os.path.join(self.output_path, show, "Season {}".format(season))
+                        try:
+                            for f in os.listdir(os.path.join(self.input_path, episode_dict["source_dir"])):
+                                if episode_dict["source_name"] in f:
+                                    source = os.path.join(self.input_path, episode_dict["source_dir"], f)
+                        except:
+                            print(os.path.join(self.input_path, episode_dict["source_dir"]))
                         #dest_fullpath = os.path.join(dest_dir, episode_name)
                         self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=episode_name)
 
