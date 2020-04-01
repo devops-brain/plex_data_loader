@@ -4,649 +4,649 @@ TV:
       "01-E03":
         title: "Unknown"
         source_dir: "DCJ_DISC1_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "04-E06":
         title: "Unknown"
         source_dir: "DJG_DISC2_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "07-E09":
         title: "Unknown"
         source_dir: "DJG_DISC3_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10-E12":
         title: "Unknown"
         source_dir: "DJG_DISC4_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "13-E15":
         title: "Unknown"
         source_dir: "DJG_DISC5_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "16-E18":
         title: "TODO"
         source_dir: "DJG_DISC6_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
     "02":
       "01-E03":
         title: "Unknown"
         source_dir: "DJG2_DISC1_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "04-E06":
         title: "Unknown"
         source_dir: "DJG2_DISC2_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "07-E09":
         title: "Unknown"
         source_dir: "DJG2_DISC3_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10-E12":
         title: "Unknown"
         source_dir: "DJG2_DISC4_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "13-E15":
         title: "Unknown"
         source_dir: "DJG2_DISC5_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "16-E18":
         title: "Unknown"
         source_dir: "DJG2_DISC6_SCN"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
   Firefly:
     "01":
       "01":
         title: "Serenity"
         source_dir: "FIREFLY_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "The Train Job"
         source_dir: "FIREFLY_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Bushwhacked"
         source_dir: "FIREFLY_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Shindig"
         source_dir: "FIREFLY_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "05":
         title: "Safe"
         source_dir: "FIREFLY_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "06":
         title: "Our Mrs. Reynolds"
         source_dir: "FIREFLY_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "07":
         title: "Jaynestown"
         source_dir: "FIREFLY_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "08":
         title: "Out of Gas"
         source_dir: "FIREFLY_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "09":
         title: "Ariel"
         source_dir: "FIREFLY_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "10":
         title: "War Stories"
         source_dir: "FIREFLY_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "11":
         title: "Trash"
         source_dir: "FIREFLY_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "12":
         title: "The Message"
         source_dir: "FIREFLY_D4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "13":
         title: "Heart of Gold"
         source_dir: "FIREFLY_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "14":
         title: "Objects in Space"
         source_dir: "FIREFLY_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
   Luke Cage:
     "01":
       "01":
         title: "Moment of Truth"
         source_dir: "Luke_Cage_Season_1_Disc_1"
-        source_name: "Luke_Cage_Season_1_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "02":
         title: "Code of the Streets"
         source_dir: "Luke_Cage_Season_1_Disc_1"
-        source_name: "Luke_Cage_Season_1_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "03":
         title: "Who-s Gonna Take the Weight-"
         source_dir: "Luke_Cage_Season_1_Disc_1"
-        source_name: "Luke_Cage_Season_1_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "04":
         title: "Step in the Arena"
         source_dir: "Luke_Cage_Season_1_Disc_2"
-        source_name: "Luke_Cage_Season_1_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "05":
         title: "Just to Get a Rep"
         source_dir: "Luke_Cage_Season_1_Disc_2"
-        source_name: "Luke_Cage_Season_1_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "06":
         title: "Suckas Need Bodyguards"
         source_dir: "Luke_Cage_Season_1_Disc_2"
-        source_name: "Luke_Cage_Season_1_Disc_2_t02.mkv"
+        source_name: "02.mkv"
       "07":
         title: "Manifest"
         source_dir: "Luke_Cage_Season_1_Disc_2"
-        source_name: "Luke_Cage_Season_1_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "08":
         title: "Blowin- Up the Spot"
         source_dir: "Luke_Cage_Season_1_Disc_3"
-        source_name: "Luke_Cage_Season_1_Disc_3_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "DWYCK"
         source_dir: "Luke_Cage_Season_1_Disc_3"
-        source_name: "Luke_Cage_Season_1_Disc_3_t02.mkv"
+        source_name: "02.mkv"
       "10":
         title: "Take It Personal"
         source_dir: "Luke_Cage_Season_1_Disc_3"
-        source_name: "Luke_Cage_Season_1_Disc_3_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Now You-re Mine"
         source_dir: "Luke_Cage_Season_1_Disc_4"
-        source_name: "Luke_Cage_Season_1_Disc_4_t04.mkv"
+        source_name: "04.mkv"
       "12":
         title: "Soliloquy of Chaos"
         source_dir: "Luke_Cage_Season_1_Disc_4"
-        source_name: "Luke_Cage_Season_1_Disc_4_t02.mkv"
+        source_name: "02.mkv"
       "13":
         title: "You Know My Steez"
         source_dir: "Luke_Cage_Season_1_Disc_4"
-        source_name: "Luke_Cage_Season_1_Disc_4_t01.mkv"
+        source_name: "01.mkv"
   Numb3rs:
     "01":
       "01":
         title: "Pilot"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Uncertainty Principle"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Vector"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Structural Corruption"
         source_dir: "NUMBERS_S1_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Prime Suspect"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Sabotage"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Counterfeit Reality"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Identity Crisis"
         source_dir: "NUMBERS_S1_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Sniper Zero"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Dirty Bomb"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Sacrifice"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Noisy Edge"
         source_dir: "NUMBERS_S1_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Man Hunt"
         source_dir: "NUMBERS_S1_D4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
     "02":
       "01":
         title: "Judgment Call"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Bettor or Worse"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Obsession"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "04":
         title: "Calculated Risk"
         source_dir: "NUMBERS_S2_D1"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "05":
         title: "Assassin"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Soft Target"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Convergence"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "In Plain Sight"
         source_dir: "NUMBERS_S2_D2"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "09":
         title: "Toxin"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Bones of Contention"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Scorched"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "12":
         title: "The OG"
         source_dir: "NUMBERS_S2_D3"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "13":
         title: "Double Down"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Harvest"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "The Running Man"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Protest"
         source_dir: "NUMBERS_S2_D4"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "17":
         title: "Mind Games"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "All-s Fair"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Dark Matter"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "20":
         title: "Guns and Roses"
         source_dir: "NUMBERS_S2_D5"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "21":
         title: "Rampage"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "22":
         title: "Backscatter"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "23":
         title: "Undercurrents"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "24":
         title: "Hot Shot"
         source_dir: "NUMBERS_S2_D6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "03":
       "01":
         title: "Spree"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Two Daughters"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Provenance"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "The Mole"
         source_dir: "NUMB3RS_S3_DISC1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Traffic"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Longshot"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Blackout"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Hardball"
         source_dir: "NUMB3RS_S3_DISC2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Waste Not"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Brutus"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Killer Chat"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Nine Wives"
         source_dir: "NUMB3RS_S3_DISC3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Finders Keepers"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Take Out"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "End of Watch"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Contenders"
         source_dir: "NUMB3RS_S3_DISC4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "One Hour"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "Democracy"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Pandora-s Box"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "Burn Rate"
         source_dir: "NUMB3RS_S3_DISC5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "21":
         title: "The Art of Reckoning"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "22":
         title: "Under Pressure"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "23":
         title: "Money for Nothing"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "24":
         title: "The Janus List"
         source_dir: "NUMB3RS_S3_DISC6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "04":
       "01":
         title: "Trust Metric"
         source_dir: "NUMB3RS_S4_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Hollywood Homicide"
         source_dir: "NUMB3RS_S4_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Velocity"
         source_dir: "NUMB3RS_S4_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Thirteen"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "05":
         title: "Robin Hood"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "06":
         title: "In Security"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "07":
         title: "Primacy"
         source_dir: "NUMB3RS_S4_D2"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "08":
         title: "Tabu"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "09":
         title: "Graphic"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "10":
         title: "Chinese Box"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "11":
         title: "Breaking Point"
         source_dir: "NUMB3RS_S4_D3"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "12":
         title: "Power"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "13":
         title: "Black Swan"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "14":
         title: "Checkmate"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "15":
         title: "End Game"
         source_dir: "NUMB3RS_S4_D4"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "16":
         title: "Atomic No. 33"
         source_dir: "NUMB3RS_S4_D5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "17":
         title: "Pay to Play"
         source_dir: "NUMB3RS_S4_D5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "18":
         title: "When Worlds Collide"
         source_dir: "NUMB3RS_S4_D5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "05":
       "01":
         title: "High Exposure"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "The Decoy Effect"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Blowback"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Jack of All Trades"
         source_dir: "NUMB3RS_S5_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Scan Man"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Magic Show"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Charlie Don't Surf"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Thirty-Six Hours"
         source_dir: "NUMB3RS_S5_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Conspiracy Theory"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "10":
         title: "Frienemies"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "11":
         title: "Arrow of Time"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "12":
         title: "Jacked"
         source_dir: "NUMB3RS_S5_D3"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "13":
         title: "Trouble in Chinatown"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "14":
         title: "Sneakerhead"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "15":
         title: "Guilt Trip"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "16":
         title: "Cover Me"
         source_dir: "NUMB3RS_S5_D4"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "17":
         title: "First Law"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "18":
         title: "12-01 AM"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "19":
         title: "Animal Rites"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "20":
         title: "The Fifth Man"
         source_dir: "NUMB3RS_S5_D5"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "21":
         title: "Disturbed"
         source_dir: "NUMB3RS_S5_D6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "22":
         title: "Greatest Hits"
         source_dir: "NUMB3RS_S5_D6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "23":
         title: "Angels and Devils"
         source_dir: "NUMB3RS_S5_D6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "06":
       "01":
         title: "Hangman"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "02":
         title: "Friendly Fire"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "03":
         title: "7 Men Out"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "04":
         title: "Where Credit's Due"
         source_dir: "NUMB3RS_S6_D1"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "05":
         title: "Hydra"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "06":
         title: "Dreamland"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "07":
         title: "Shadow Markets"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "08":
         title: "Ultimatum"
         source_dir: "NUMB3RS_S6_D2"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "09":
         title: "Con Job"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "10":
         title: "Old Soldiers"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "11":
         title: "Scratch"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "12":
         title: "Arm in Arms"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "13":
         title: "Devil Girl"
         source_dir: "NUMB3RS_S6_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "14":
         title: "And the Winner Is..."
         source_dir: "NUMB3RS_S6_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Growin- Up"
         source_dir: "NUMB3RS_S6_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Cause and Effect"
         source_dir: "NUMB3RS_S6_D4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
   Reba:
     "01":
       "01":
         title: "TODO"
         source_dir: "TODO"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
   Rocket City Rednecks:
     "02":
       "01":
@@ -658,416 +658,416 @@ TV:
       "01":
         title: "The Man Trap"
         source_dir: "Star_Trek_Season_1_Disc_1"
-        source_name: "Star_Trek_Season_1_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "02":
         title: "Charlie X"
         source_dir: "Star_Trek_Season_1_Disc_1"
-        source_name: "Star_Trek_Season_1_Disc_1_t06.mkv"
+        source_name: "06.mkv"
       "03":
         title: "Where No Man Has Gone Before"
         source_dir: "Star_Trek_Season_1_Disc_1"
-        source_name: "Star_Trek_Season_1_Disc_1_t00.mkv"
+        source_name: "00.mkv"
       "04":
         title: "The Naked Time"
         source_dir: "Star_Trek_Season_1_Disc_1"
-        source_name: "Star_Trek_Season_1_Disc_1_t04.mkv"
+        source_name: "04.mkv"
       "05":
         title: "The Enemy Within"
         source_dir: "Star_Trek_Season_1_Disc_2"
-        source_name: "Star_Trek_Season_1_Disc_2_t02.mkv"
+        source_name: "02.mkv"
       "06":
         title: "Mudd-s Women"
         source_dir: "Star_Trek_Season_1_Disc_2"
-        source_name: "Star_Trek_Season_1_Disc_2_t06.mkv"
+        source_name: "06.mkv"
       "07":
         title: "What Are Little Girls Made Of-"
         source_dir: "Star_Trek_Season_1_Disc_2"
-        source_name: "Star_Trek_Season_1_Disc_2_t00.mkv"
+        source_name: "00.mkv"
       "08":
         title: "Miri"
         source_dir: "Star_Trek_Season_1_Disc_2"
-        source_name: "Star_Trek_Season_1_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "09":
         title: "Dagger of the Mind"
         source_dir: "Star_Trek_Season_1_Disc_2"
-        source_name: "Star_Trek_Season_1_Disc_2_t09.mkv"
+        source_name: "09.mkv"
       "10":
         title: "The Corbomite Maneuver"
         source_dir: "Star_Trek_Season_1_Disc_3"
-        source_name: "Star_Trek_Season_1_Disc_3_t02.mkv"
+        source_name: "02.mkv"
       "11":
         title: "The Menagerie- Part I"
         source_dir: "Star_Trek_Season_1_Disc_3"
-        source_name: "Star_Trek_Season_1_Disc_3_t06.mkv"
+        source_name: "06.mkv"
       "12":
         title: "The Menagerie- Part II"
         source_dir: "Star_Trek_Season_1_Disc_3"
-        source_name: "Star_Trek_Season_1_Disc_3_t00.mkv"
+        source_name: "00.mkv"
       "13":
         title: "The Conscience of the King"
         source_dir: "Star_Trek_Season_1_Disc_3"
-        source_name: "Star_Trek_Season_1_Disc_3_t04.mkv"
+        source_name: "04.mkv"
       "14":
         title: "Balance of Terror"
         source_dir: "Star_Trek_Season_1_Disc_4"
-        source_name: "Star_Trek_Season_1_Disc_4_t02.mkv"
+        source_name: "02.mkv"
       "15":
         title: "Shore Leave"
         source_dir: "Star_Trek_Season_1_Disc_4"
-        source_name: "Star_Trek_Season_1_Disc_4_t06.mkv"
+        source_name: "06.mkv"
       "16":
         title: "The Galileo Seven"
         source_dir: "Star_Trek_Season_1_Disc_4"
-        source_name: "Star_Trek_Season_1_Disc_4_t00.mkv"
+        source_name: "00.mkv"
       "17":
         title: "The Squire of Gothos"
         source_dir: "Star_Trek_Season_1_Disc_4"
-        source_name: "Star_Trek_Season_1_Disc_4_t04.mkv"
+        source_name: "04.mkv"
       "18":
         title: "Arena"
         source_dir: "Star_Trek_Season_1_Disc_5"
-        source_name: "Star_Trek_Season_1_Disc_5_t02.mkv"
+        source_name: "02.mkv"
       "19":
         title: "Tomorrow Is Yesterday"
         source_dir: "Star_Trek_Season_1_Disc_5"
-        source_name: "Star_Trek_Season_1_Disc_5_t06.mkv"
+        source_name: "06.mkv"
       "20":
         title: "Court Martial"
         source_dir: "Star_Trek_Season_1_Disc_5"
-        source_name: "Star_Trek_Season_1_Disc_5_t00.mkv"
+        source_name: "00.mkv"
       "21":
         title: "The Return of the Archons"
         source_dir: "Star_Trek_Season_1_Disc_5"
-        source_name: "Star_Trek_Season_1_Disc_5_t04.mkv"
+        source_name: "04.mkv"
       "22":
         title: "Space Seed"
         source_dir: "Star_Trek_Season_1_Disc_6"
-        source_name: "Star_Trek_Season_1_Disc_6_t02.mkv"
+        source_name: "02.mkv"
       "23":
         title: "A Taste of Armageddon"
         source_dir: "Star_Trek_Season_1_Disc_6"
-        source_name: "Star_Trek_Season_1_Disc_6_t06.mkv"
+        source_name: "06.mkv"
       "24":
         title: "This Side of Paradise"
         source_dir: "Star_Trek_Season_1_Disc_6"
-        source_name: "Star_Trek_Season_1_Disc_6_t00.mkv"
+        source_name: "00.mkv"
       "25":
         title: "The Devil in the Dark"
         source_dir: "Star_Trek_Season_1_Disc_6"
-        source_name: "Star_Trek_Season_1_Disc_6_t04.mkv"
+        source_name: "04.mkv"
       "26":
         title: "Errand of Mercy"
         source_dir: "Star_Trek_Season_1_Disc_7"
-        source_name: "Star_Trek_Season_1_Disc_7_t02.mkv"
+        source_name: "02.mkv"
       "27":
         title: "The Alternative Factor"
         source_dir: "Star_Trek_Season_1_Disc_7"
-        source_name: "Star_Trek_Season_1_Disc_7_t06.mkv"
+        source_name: "06.mkv"
       "28":
         title: "The City on the Edge of Forever"
         source_dir: "Star_Trek_Season_1_Disc_7"
-        source_name: "Star_Trek_Season_1_Disc_7_t00.mkv"
+        source_name: "00.mkv"
       "29":
         title: "Operation - Annihilate-"
         source_dir: "Star_Trek_Season_1_Disc_7"
-        source_name: "Star_Trek_Season_1_Disc_7_t04.mkv"
+        source_name: "04.mkv"
     "02":
       "01":
         title: "Amok Time"
         source_dir: "Star_Trek_Season_2_Disc_1"
-        source_name: "Star_Trek_Season_2_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "02":
         title: "Who Mourns for Adonais-"
         source_dir: "Star_Trek_Season_2_Disc_1"
-        source_name: "Star_Trek_Season_2_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "The Changeling"
         source_dir: "Star_Trek_Season_2_Disc_1"
-        source_name: "Star_Trek_Season_2_Disc_1_t07.mkv"
+        source_name: "07.mkv"
       "04":
         title: "Mirror- Mirror"
         source_dir: "Star_Trek_Season_2_Disc_1"
-        source_name: "Star_Trek_Season_2_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "The Apple"
         source_dir: "Star_Trek_Season_2_Disc_2"
-        source_name: "Star_Trek_Season_2_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "06":
         title: "The Doomsday Machine"
         source_dir: "Star_Trek_Season_2_Disc_2"
-        source_name: "Star_Trek_Season_2_Disc_2_t09.mkv"
+        source_name: "09.mkv"
       "07":
         title: "Catspaw"
         source_dir: "Star_Trek_Season_2_Disc_2"
-        source_name: "Star_Trek_Season_2_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "08":
         title: "I- Mudd"
         source_dir: "Star_Trek_Season_2_Disc_2"
-        source_name: "Star_Trek_Season_2_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "09":
         title: "Metamorphosis"
         source_dir: "Star_Trek_Season_2_Disc_2"
-        source_name: "Star_Trek_Season_2_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "10":
         title: "Journey to Babel"
         source_dir: "Star_Trek_Season_2_Disc_3"
-        source_name: "Star_Trek_Season_2_Disc_3_t07.mkv"
+        source_name: "07.mkv"
       "11":
         title: "Friday-s Child"
         source_dir: "Star_Trek_Season_2_Disc_3"
-        source_name: "Star_Trek_Season_2_Disc_3_t01.mkv"
+        source_name: "01.mkv"
       "12":
         title: "The Deadly Years"
         source_dir: "Star_Trek_Season_2_Disc_3"
-        source_name: "Star_Trek_Season_2_Disc_3_t09.mkv"
+        source_name: "09.mkv"
       "13":
         title: "Obsession"
         source_dir: "Star_Trek_Season_2_Disc_3"
-        source_name: "Star_Trek_Season_2_Disc_3_t03.mkv"
+        source_name: "03.mkv"
       "14":
         title: "Wolf in the Fold"
         source_dir: "Star_Trek_Season_2_Disc_3"
-        source_name: "Star_Trek_Season_2_Disc_3_t05.mkv"
+        source_name: "05.mkv"
       "15":
         title: "The Trouble with Tribbles"
         source_dir: "Star_Trek_Season_2_Disc_4"
-        source_name: "Star_Trek_Season_2_Disc_4_t03.mkv"
+        source_name: "03.mkv"
       "16":
         title: "The Gamesters of Triskelion"
         source_dir: "Star_Trek_Season_2_Disc_5"
-        source_name: "Star_Trek_Season_2_Disc_5_t05.mkv"
+        source_name: "05.mkv"
       "17":
         title: "A Piece of the Action"
         source_dir: "Star_Trek_Season_2_Disc_5"
-        source_name: "Star_Trek_Season_2_Disc_5_t01.mkv"
+        source_name: "01.mkv"
       "18":
         title: "The Immunity Syndrome"
         source_dir: "Star_Trek_Season_2_Disc_5"
-        source_name: "Star_Trek_Season_2_Disc_5_t07.mkv"
+        source_name: "07.mkv"
       "19":
         title: "A Private Little War"
         source_dir: "Star_Trek_Season_2_Disc_5"
-        source_name: "Star_Trek_Season_2_Disc_5_t03.mkv"
+        source_name: "03.mkv"
       "20":
         title: "Return to Tomorrow"
         source_dir: "Star_Trek_Season_2_Disc_6"
-        source_name: "Star_Trek_Season_2_Disc_6_t05.mkv"
+        source_name: "05.mkv"
       "21":
         title: "Patterns of Force"
         source_dir: "Star_Trek_Season_2_Disc_6"
-        source_name: "Star_Trek_Season_2_Disc_6_t01.mkv"
+        source_name: "01.mkv"
       "22":
         title: "By Any Other Name"
         source_dir: "Star_Trek_Season_2_Disc_6"
-        source_name: "Star_Trek_Season_2_Disc_6_t07.mkv"
+        source_name: "07.mkv"
       "23":
         title: "The Omega Glory"
         source_dir: "Star_Trek_Season_2_Disc_6"
-        source_name: "Star_Trek_Season_2_Disc_6_t03.mkv"
+        source_name: "03.mkv"
       "24":
         title: "The Ultimate Computer"
         source_dir: "Star_Trek_Season_2_Disc_7"
-        source_name: "Star_Trek_Season_2_Disc_7_t03.mkv"
+        source_name: "03.mkv"
       "25":
         title: "Bread and Circuses"
         source_dir: "Star_Trek_Season_2_Disc_7"
-        source_name: "Star_Trek_Season_2_Disc_7_t01.mkv"
+        source_name: "01.mkv"
       "26":
         title: "Assignment- Earth"
         source_dir: "Star_Trek_Season_2_Disc_7"
-        source_name: "Star_Trek_Season_2_Disc_7_t05.mkv"
+        source_name: "05.mkv"
     "03":
       "01":
         title: "Spock-s Brain"
         source_dir: "Star_Trek_Season_3_Disc_1"
-        source_name: "Star_Trek_Season_3_Disc_1_t07.mkv"
+        source_name: "07.mkv"
       "02":
         title: "The Enterprise Incident"
         source_dir: "Star_Trek_Season_3_Disc_1"
-        source_name: "Star_Trek_Season_3_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "03":
         title: "The Paradise Syndrome"
         source_dir: "Star_Trek_Season_3_Disc_1"
-        source_name: "Star_Trek_Season_3_Disc_1_t09.mkv"
+        source_name: "09.mkv"
       "04":
         title: "And the Children Shall Lead"
         source_dir: "Star_Trek_Season_3_Disc_1"
-        source_name: "Star_Trek_Season_3_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "05":
         title: "Is There in Truth No Beauty-"
         source_dir: "Star_Trek_Season_3_Disc_1"
-        source_name: "Star_Trek_Season_3_Disc_1_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Spectre of the Gun"
         source_dir: "Star_Trek_Season_3_Disc_2"
-        source_name: "Star_Trek_Season_3_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "07":
         title: "Day of the Dove"
         source_dir: "Star_Trek_Season_3_Disc_2"
-        source_name: "Star_Trek_Season_3_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "08":
         title: "For the World Is Hollow and I Have Touched the Sky"
         source_dir: "Star_Trek_Season_3_Disc_2"
-        source_name: "Star_Trek_Season_3_Disc_2_t09.mkv"
+        source_name: "09.mkv"
       "09":
         title: "The Tholian Web"
         source_dir: "Star_Trek_Season_3_Disc_2"
-        source_name: "Star_Trek_Season_3_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "10":
         title: "Plato-s Stepchildren"
         source_dir: "Star_Trek_Season_3_Disc_2"
-        source_name: "Star_Trek_Season_3_Disc_2_t00.mkv"
+        source_name: "00.mkv"
       "11":
         title: "Wink of an Eye"
         source_dir: "Star_Trek_Season_3_Disc_3"
-        source_name: "Star_Trek_Season_3_Disc_3_t07.mkv"
+        source_name: "07.mkv"
       "12":
         title: "The Empath"
         source_dir: "Star_Trek_Season_3_Disc_3"
-        source_name: "Star_Trek_Season_3_Disc_3_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Elaan of Troyius"
         source_dir: "Star_Trek_Season_3_Disc_3"
-        source_name: "Star_Trek_Season_3_Disc_3_t09.mkv"
+        source_name: "09.mkv"
       "14":
         title: "Whom Gods Destroy"
         source_dir: "Star_Trek_Season_3_Disc_3"
-        source_name: "Star_Trek_Season_3_Disc_3_t05.mkv"
+        source_name: "05.mkv"
       "15":
         title: "Let That Be Your Last Battlefield"
         source_dir: "Star_Trek_Season_3_Disc_3"
-        source_name: "Star_Trek_Season_3_Disc_3_t00.mkv"
+        source_name: "00.mkv"
       "16":
         title: "The Mark of Gideon"
         source_dir: "Star_Trek_Season_3_Disc_4"
-        source_name: "Star_Trek_Season_3_Disc_4_t09.mkv"
+        source_name: "09.mkv"
       "17":
         title: "That Which Survives"
         source_dir: "Star_Trek_Season_3_Disc_4"
-        source_name: "Star_Trek_Season_3_Disc_4_t07.mkv"
+        source_name: "07.mkv"
       "18":
         title: "The Lights of Zetar"
         source_dir: "Star_Trek_Season_3_Disc_4"
-        source_name: "Star_Trek_Season_3_Disc_4_t00.mkv"
+        source_name: "00.mkv"
       "19":
         title: "Requiem for Methuselah"
         source_dir: "Star_Trek_Season_3_Disc_4"
-        source_name: "Star_Trek_Season_3_Disc_4_t03.mkv"
+        source_name: "03.mkv"
       "20":
         title: "The Way to Eden"
         source_dir: "Star_Trek_Season_3_Disc_4"
-        source_name: "Star_Trek_Season_3_Disc_4_t05.mkv"
+        source_name: "05.mkv"
       "21":
         title: "The Cloud Minders"
         source_dir: "Star_Trek_Season_3_Disc_5"
-        source_name: "Star_Trek_Season_3_Disc_5_t05.mkv"
+        source_name: "05.mkv"
       "22":
         title: "The Savage Curtain"
         source_dir: "Star_Trek_Season_3_Disc_5"
-        source_name: "Star_Trek_Season_3_Disc_5_t01.mkv"
+        source_name: "01.mkv"
       "23":
         title: "All Our Yesterdays"
         source_dir: "Star_Trek_Season_3_Disc_5"
-        source_name: "Star_Trek_Season_3_Disc_5_t07.mkv"
+        source_name: "07.mkv"
       "24":
         title: "Turnabout Intruder"
         source_dir: "Star_Trek_Season_3_Disc_5"
-        source_name: "Star_Trek_Season_3_Disc_5_t03.mkv"
+        source_name: "03.mkv"
       "25":
         title: "The Cage"
         source_dir: "Star_Trek_Season_3_Disc_6"
-        source_name: "Star_Trek_Season_3_Disc_6_t03.mkv"
+        source_name: "03.mkv"
   Star Trek- The Animated Series:
     "01":
       "01":
         title: "Beyond the Farthest Star"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t04.mkv"
+        source_name: "04.mkv"
       "02":
         title: "Yesteryear"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "03":
         title: "One of Our Planets Is Missing"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "The Lorelei Signal"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t06.mkv"
+        source_name: "06.mkv"
       "05":
         title: "More Tribbles- More Troubles"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "06":
         title: "The Survivor"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "The Infinite Vulcan"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t00.mkv"
+        source_name: "00.mkv"
       "08":
         title: "The Magicks of Megas-Tu"
         source_dir: "Star_Trek_The_Animated_Series_Disc_1"
-        source_name: "Star_Trek_The_Animated_Series_Disc_1_t07.mkv"
+        source_name: "07.mkv"
       "09":
         title: "Once Upon a Planet"
         source_dir: "Star_Trek_The_Animated_Series_Disc_2"
-        source_name: "Star_Trek_The_Animated_Series_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "10":
         title: "Mudd-s Passion"
         source_dir: "Star_Trek_The_Animated_Series_Disc_2"
-        source_name: "Star_Trek_The_Animated_Series_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "11":
         title: "The Terratin Incident"
         source_dir: "Star_Trek_The_Animated_Series_Disc_2"
-        source_name: "Star_Trek_The_Animated_Series_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "12":
         title: "The Time Trap"
         source_dir: "Star_Trek_The_Animated_Series_Disc_2"
-        source_name: "Star_Trek_The_Animated_Series_Disc_2_t02.mkv"
+        source_name: "02.mkv"
       "13":
         title: "The Ambergris Element"
         source_dir: "Star_Trek_The_Animated_Series_Disc_2"
-        source_name: "Star_Trek_The_Animated_Series_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "14":
         title: "The Slaver Weapon"
         source_dir: "Star_Trek_The_Animated_Series_Disc_2"
-        source_name: "Star_Trek_The_Animated_Series_Disc_2_t00.mkv"
+        source_name: "00.mkv"
       "15":
         title: "The Eye of the Beholder"
         source_dir: "Star_Trek_The_Animated_Series_Disc_2"
-        source_name: "Star_Trek_The_Animated_Series_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "16":
         title: "The Jihad"
         source_dir: "Star_Trek_The_Animated_Series_Disc_3"
-        source_name: "Star_Trek_The_Animated_Series_Disc_3_t00.mkv"
+        source_name: "00.mkv"
     "02":
       "01":
         title: "The Pirates of Orion"
         source_dir: "Star_Trek_The_Animated_Series_Disc_3"
-        source_name: "Star_Trek_The_Animated_Series_Disc_3_t02.mkv"
+        source_name: "02.mkv"
       "02":
         title: "Bem"
         source_dir: "Star_Trek_The_Animated_Series_Disc_3"
-        source_name: "Star_Trek_The_Animated_Series_Disc_3_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "The Practical Joker"
         source_dir: "Star_Trek_The_Animated_Series_Disc_3"
-        source_name: "Star_Trek_The_Animated_Series_Disc_3_t09.mkv"
+        source_name: "09.mkv"
       "04":
         title: "Albatross"
         source_dir: "Star_Trek_The_Animated_Series_Disc_3"
-        source_name: "Star_Trek_The_Animated_Series_Disc_3_t08.mkv"
+        source_name: "08.mkv"
       "05":
         title: "How Sharper Than a Serpent-s Tooth"
         source_dir: "Star_Trek_The_Animated_Series_Disc_3"
-        source_name: "Star_Trek_The_Animated_Series_Disc_3_t07.mkv"
+        source_name: "07.mkv"
       "06":
         title: "The Counter-Clock Incident"
         source_dir: "Star_Trek_The_Animated_Series_Disc_3"
-        source_name: "Star_Trek_The_Animated_Series_Disc_3_t04.mkv"
+        source_name: "04.mkv"
   Stargate SG-1:
     "01":
       "01":
@@ -1085,848 +1085,848 @@ TV:
       "04":
         title: "The Broca Divide"
         source_dir: "SG1_V2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "05":
         title: "The First Commandment"
         source_dir: "SG1_V2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "06":
         title: "Brief Candle"
         source_dir: "SG1_V2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "07":
         title: "Cold Lazarus"
         source_dir: "SG1_V2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "08":
         title: "Thors Hammer"
         source_dir: "SG1_V2"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "09":
         title: "The Torment Of Tantalus"
         source_dir: "SG1_V3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Bloodlines"
         source_dir: "SG1_V3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Fire And Water"
         source_dir: "SG1_V3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "The Nox"
         source_dir: "SG1_V3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Hathor"
         source_dir: "SG1_V3"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "14":
         title: "Cor-ai"
         source_dir: "SG1_V4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "15":
         title: "Singularity"
         source_dir: "SG1_V4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "16":
         title: "Enigma"
         source_dir: "SG1_V4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "17":
         title: "Tin Man"
         source_dir: "SG1_V4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "18":
         title: "Solitudes"
         source_dir: "SG1_V4"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "19":
         title: "There But For The Grace Of God"
         source_dir: "SG1_V5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "20":
         title: "Politics"
         source_dir: "SG1_V5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "21":
         title: "Within The Serpents Grasp Part 1"
         source_dir: "SG1_V5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
     "02":
       "01":
         title: "The Serpents Lair Part 2"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "In The Line Of Duty"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Prisoners"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "The Game Keeper"
         source_dir: "SG1_V1_R1_YR2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Need"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Thors Chariot"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Message In A Bottle"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Family"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Secrets"
         source_dir: "SG1_V2_R1_YR2"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "10":
         title: "Bane"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "11":
         title: "The Tokra Part 1"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "12":
         title: "The Tokra Part 2"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "13":
         title: "Spirits"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "14":
         title: "Touchstone"
         source_dir: "SG1_V3_R1_YR2"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "15":
         title: "A Matter Of Time"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "16":
         title: "The Fifth Race"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "17":
         title: "Serpents Song"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "18":
         title: "Holiday"
         source_dir: "SG1_V4_R1_YR2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "19":
         title: "One False Step"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "20":
         title: "Show And Tell"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "21":
         title: "1969"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "22":
         title: "Out Of Mind Part 1"
         source_dir: "SG1_V5_R1_YR2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "03":
       "01":
         title: "Into The Fire Part 2"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Seth"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Fair Game"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Legacy"
         source_dir: "SG1_V1_R1_YR3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Learning Curve"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Point Of View"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Deadman Switch"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Demons"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Rules Of Engagement"
         source_dir: "SG1_V2_R1_YR3"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "10":
         title: "Forever In A Day"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "11":
         title: "Past And Present"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "12":
         title: "Jolinars Memories Part 1"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "13":
         title: "The Devil You Know Part 2"
         source_dir: "SG1_V3_R1_YR3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "14":
         title: "Foothold"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "15":
         title: "Pretense"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "16":
         title: "Urgo"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "17":
         title: "A Hundred Days"
         source_dir: "SG1_V4_R1_YR3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "18":
         title: "Shades Of Grey"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "19":
         title: "New Ground"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "20":
         title: "Maternal Instinct"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "21":
         title: "Crystal Skull"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "22":
         title: "Nemesis Part 1"
         source_dir: "SG1_V5_R1_YR3"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
     "04":
       "01":
         title: "Small Victories Part 2"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "The Other Side"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Upgrades"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Crossroads"
         source_dir: "SG1_V1_R1_YR4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Divide And Conquer"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Window Of Opportunity"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Watergate"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "The First Ones"
         source_dir: "SG1_V2_R1_YR4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Scorched Earth"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Beneath The Surface"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Point Of No Return"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Tangent"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "The Curse"
         source_dir: "SG1_V3_R1_YR4"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "14":
         title: "Serpents Venom"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "15":
         title: "Chain Reaction"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "16":
         title: "2010"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "17":
         title: "Absolute Power"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "18":
         title: "The Light"
         source_dir: "SG1_V4_R1_YR4"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "19":
         title: "Prodigy"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "20":
         title: "Entity"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "21":
         title: "Double Jeopardy"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "22":
         title: "Exodus Part 1"
         source_dir: "SG1_V5_R1_YR4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "05":
       "01":
         title: "Enemies Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Threshold"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Ascension"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "The Fifth Man"
         source_dir: "STARGATE_SG1_V1_R1_YR5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Red Sky"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Rite Of Passage"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Beast Of Burden"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "The Tomb"
         source_dir: "STARGATE_SG1_V2_R1_YR5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Between Two Fires"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "2001"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Desperate Measures"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Wormhole X-Treme"
         source_dir: "STARGATE_SG1_V3_R1_YR5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Proving Ground"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "48 Hours"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Summit Part 1"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Last Stand Part 2"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Failsafe"
         source_dir: "STARGATE_SG1_V4_R1_YR5"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "18":
         title: "The Warrior"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "19":
         title: "Menace"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "20":
         title: "The Sentinel"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "21":
         title: "Meridian"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "22":
         title: "Revelations"
         source_dir: "STARGATE_SG1_V5_R1_YR5"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
     "06":
       "01":
         title: "Redemption Part 1"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Redemption Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Descent"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Frozen"
         source_dir: "STARGATE_SG1_V1_R1_YR6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Nightwalkers"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Abyss"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Shadow Play"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "The Other Guys"
         source_dir: "STARGATE_SG1_V2_R1_YR6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Allegiance"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Cure"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Prometheus"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Unnatural Selection"
         source_dir: "STARGATE_SG1_V3_R1_YR6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Sight Unseen"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Smoke And Mirrors"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Paradise Lost"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Metamorphosis"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Disclosure"
         source_dir: "STARGATE_SG1_V4_R1_YR6"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "18":
         title: "Forsaken"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "19":
         title: "Changeling"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "20":
         title: "Memento"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "21":
         title: "Prophecy"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "22":
         title: "Full Circle"
         source_dir: "STARGATE_SG1_V5_R1_YR6"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
     "07":
       "01":
         title: "Fallen Part 1"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Homecoming Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Fragile Balance"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Orpheus"
         source_dir: "STARGATE_SG1_V1_R1_YR7"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Revisions"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Lifeboat"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Enemy Mine"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Space Race"
         source_dir: "STARGATE_SG1_V2_R1_YR7"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Avenger 2_0"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Birthright"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Evolution Part 1"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Evolution Part 2"
         source_dir: "STARGATE_SG1_V3_R1_YR7"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Grace"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Fallout"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Chimera"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Death Knell"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Heroes Part 1"
         source_dir: "STARGATE_SG1_V4_R1_YR7"
-        source_name: "title_t04.mkv"
+        source_name: "04.mkv"
       "18":
         title: "Heroes Part 2"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "19":
         title: "Resurrection"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "20":
         title: "Inauguration"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "21":
         title: "Lost City Parts 1 and 2"
         source_dir: "STARGATE_SG1_V5_R1_YR7"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "08":
       "01":
         title: "New Order Part 1"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "New Order Part 2"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Lockdown"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Zero Hour"
         source_dir: "STARGATE_SG1_V1_R1_YR8"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Icon"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Avatar"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Affinity"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Covenant"
         source_dir: "STARGATE_SG1_V2_R1_YR8"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Sacrifices"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "Endgame"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Gemini"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Prometheus Unbound"
         source_dir: "STARGATE_SG1_V3_R1_YR8"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Its Good To Be King"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Full Alert"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Citizen Joe"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Reckoning Part 1"
         source_dir: "STARGATE_SG1_V4_R1_YR8"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Reckoning Part 2"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "Threads"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Moebius Part 1"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "Moebius Part 2"
         source_dir: "SG1_V5_R1_YR8"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "09":
       "01":
         title: "Avalon Part 1"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Avalon Part 2"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Origin Part 3"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "The Ties That Bind"
         source_dir: "STARGATE_S9_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "The Powers That Be"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Beachhead"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Ex Deus Machina"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Babylon"
         source_dir: "STARGATE_S9_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Prototype"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "The Fourth Horseman Part 1"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "The Fourth Horseman Part 2"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Collateral Damage"
         source_dir: "STARGATE_S9_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Ripple Effect"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Stronghold"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Ethon"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Off The Grid"
         source_dir: "STARGATE_S9_D4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "The Scourge"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "Arthurs Mantle"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Crusade Part 1"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "Camelot Part 2"
         source_dir: "STARGATE_S9_D5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "10":
       "01":
         title: "Flesh and Blood"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Morpheus"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "The Pegasus Project"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Insiders"
         source_dir: "STARGATE_SG1_SEASON_10_D1_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Uninvited"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "200"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Counterstrike"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Memento Mori"
         source_dir: "STARGATE_SG1_SEASON_10_D2_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Company of Thieves"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "The Quest, Part I"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "The Quest, Part II"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Line in the Sand"
         source_dir: "STARGATE_SG1_SEASON_10_D3_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "The Road Not Taken"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "The Shroud"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Bounty"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Bad Guys"
         source_dir: "STARGATE_SG1_SEASON_10_D4_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Talion"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "Family Ties"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Dominino"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "Unending"
         source_dir: "STARGATE_SG1_SEASON_10_D5_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
   Stargate- Atlantis:
     "01":
       "01":
@@ -2009,693 +2009,693 @@ TV:
       "01":
         title: "The Siege, Part 3"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "The Intruder"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Runner"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Duet"
         source_dir: "STARGATE_ATLANTIS_S2_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Condemned"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Trinity"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Instinct"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "Conversion"
         source_dir: "STARGATE_ATLANTIS_S2_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Aurora"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "The Lost Boys"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "The Hive"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Epiphany"
         source_dir: "STARGATE_ATLANTIS_S2_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Critical Mass"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Grace Under Pressure"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "The Tower"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "The Long Goodbye"
         source_dir: "STARGATE_ATLANTIS_S2_D4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Coup D-etat"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "Michael"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Inferno"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "Allies"
         source_dir: "STARGATE_ATLANTIS_S2_D5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "03":
       "01":
         title: "No Man-s Land"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Misbegotten"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Irresistible"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Sateda"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D1_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Progeny"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "The Real World"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Common Ground"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "McKay and Mrs. Miller"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D2_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Phantoms"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "The Return, Part 1"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "The Return, Part 2"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Echoes"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D3_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Irresponsible"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Tao of Rodney"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "The Game"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "The Ark"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D4_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Sunday"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "Submersion"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Vengeance"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "First Strike"
         source_dir: "STARGATE_ATLANTIS_SEASON_3_D5_US"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "04":
       "01":
         title: "Adrift"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Lifeline"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Reunion"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "Doppelganger"
         source_dir: "STARGATE_ATLANTIS_S4_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Travelers"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "Tabula Rasa"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Missing"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "The Seer"
         source_dir: "STARGATE_ATLANTIS_S4_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Miller-s Crossing"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "This Mortal Coil"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "Be All My Sins Remember-d"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Spoils of War"
         source_dir: "STARGATE_ATLANTIS_S4_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Quarantine"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "Harmony"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Outcast"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Trio"
         source_dir: "STARGATE_ATLANTIS_S4_D4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Midway"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "The Kindred, Part 1"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "The Kindred, Part 2"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "The Last Man"
         source_dir: "STARGATE_ATLANTIS_S4D5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
     "05":
       "01":
         title: "Search and Rescue"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "The Seed"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Broken Ties"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "04":
         title: "The Daedalus Variations"
         source_dir: "STARGATE_ATLANTIS_S5_D1"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "05":
         title: "Ghost in the Machine"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "06":
         title: "The Shrine"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "07":
         title: "Whispers"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "The Queen"
         source_dir: "STARGATE_ATLANTIS_S5_D2"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "09":
         title: "Tracker"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "First Contact"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "11":
         title: "The Lost Tribe"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "Outsiders"
         source_dir: "STARGATE_ATLANTIS_S5_D3"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "13":
         title: "Inquisition"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "14":
         title: "The Prodigal"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "Remnants"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "Brain Storm"
         source_dir: "STARGATE_ATLANTIS_S5_D4"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
       "17":
         title: "Infection"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "18":
         title: "Identity"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "19":
         title: "Vegas"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title_t02.mkv"
+        source_name: "02.mkv"
       "20":
         title: "Enemy at the Gate"
         source_dir: "STARGATE_ATLANTIS_S5_D5"
-        source_name: "title_t03.mkv"
+        source_name: "03.mkv"
   Tin Man:
     "01":
       "01":
         title: "Into the Storm"
         source_dir: "TIN_MAN_DISC_1"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
       "02":
         title: "Search for the Emerald"
         source_dir: "TIN_MAN_DISC_1"
-        source_name: "title_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "Tin Man"
         source_dir: "TIN_MAN_DISC_2"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
   The Big Bang Theory:
     "01":
       "01":
         title: "Pilot"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t08.mkv"
+        source_name: "08.mkv"
       "02":
         title: "The Big Bran Hypothesis"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t07.mkv"
+        source_name: "07.mkv"
       "03":
         title: "The Fuzzy Boots Corollary"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t06.mkv"
+        source_name: "06.mkv"
       "04":
         title: "The Luminous Fish Effect"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t05.mkv"
+        source_name: "05.mkv"
       "05":
         title: "The Hamburger Postulate"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t04.mkv"
+        source_name: "04.mkv"
       "06":
         title: "The Middle Earth Paradigm"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t03.mkv"
+        source_name: "03.mkv"
       "07":
         title: "The Dumpling Paradox"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t02.mkv"
+        source_name: "02.mkv"
       "08":
         title: "The Grasshopper Experiment"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t01.mkv"
+        source_name: "01.mkv"
       "09":
         title: "The Cooper-Hofstadter Polarization"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 1_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "The Loobenfeld Decay"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t07.mkv"
+        source_name: "07.mkv"
       "11":
         title: "The Pancake Batter Anomaly"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t06.mkv"
+        source_name: "06.mkv"
       "12":
         title: "The Jerusalem Duality"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t05.mkv"
+        source_name: "05.mkv"
       "13":
         title: "The Bat Jar Conjecture"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t04.mkv"
+        source_name: "04.mkv"
       "14":
         title: "The Nerdvana Annihilation"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t03.mkv"
+        source_name: "03.mkv"
       "15":
         title: "The Pork Chop Indeterminacy"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t02.mkv"
+        source_name: "02.mkv"
       "16":
         title: "The Peanut Reaction"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t01.mkv"
+        source_name: "01.mkv"
       "17":
         title: "The Tangerine Factor"
         source_dir: "THE BIG BANG THEORY SEASON 1 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 1 DISC 2_t00.mkv"
+        source_name: "00.mkv"
     "02":
       "01":
         title: "The Bad Fish Paradigm"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t02.mkv"
+        source_name: "02.mkv"
       "02":
         title: "The Codpiece Topology"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t01.mkv"
+        source_name: "01.mkv"
       "03":
         title: "The Barbarian Sublimation"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t00.mkv"
+        source_name: "00.mkv"
       "04":
         title: "The Griffin Equivalency"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t12.mkv"
+        source_name: "12.mkv"
       "05":
         title: "The Euclid Alternative"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t11.mkv"
+        source_name: "11.mkv"
       "06":
         title: "The Cooper-Nowitzki Theorem"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t10.mkv"
+        source_name: "10.mkv"
       "07":
         title: "The Panty Piñata Polarization"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t09.mkv"
+        source_name: "09.mkv"
       "08":
         title: "The Lizard-Spock Expansion"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t08.mkv"
+        source_name: "08.mkv"
       "09":
         title: "The White Asparagus Triangulation"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t07.mkv"
+        source_name: "07.mkv"
       "10":
         title: "The Vartabedian Conundrum"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t06.mkv"
+        source_name: "06.mkv"
       "11":
         title: "The Bath Item Gift Hypothesis"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t03.mkv"
+        source_name: "03.mkv"
       "12":
         title: "The Killer Robot Instability"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 1"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 1_t05.mkv"
+        source_name: "05.mkv"
       "13":
         title: "The Friendship Algorithm"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t06.mkv"
+        source_name: "06.mkv"
       "14":
         title: "The Financial Permeability"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t10.mkv"
+        source_name: "10.mkv"
       "15":
         title: "The Maternal Capacitance"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t09.mkv"
+        source_name: "09.mkv"
       "16":
         title: "The Cushion Saturation"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t08.mkv"
+        source_name: "08.mkv"
       "17":
         title: "The Terminator Decoupling"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t07.mkv"
+        source_name: "07.mkv"
       "18":
         title: "The Work Song Nanocluster"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t05.mkv"
+        source_name: "05.mkv"
       "19":
         title: "The Dead Hooker Juxtaposition"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t04.mkv"
+        source_name: "04.mkv"
       "20":
         title: "The Hofstadter Isotope"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t03.mkv"
+        source_name: "03.mkv"
       "21":
         title: "The Vegas Renormalization"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t02.mkv"
+        source_name: "02.mkv"
       "22":
         title: "The Classified Materials Turbulence"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t00.mkv"
+        source_name: "00.mkv"
       "23":
         title: "The Monopolar Expedition"
         source_dir: "THE BIG BANG THEORY SEASON 2 DISC 2"
-        source_name: "THE BIG BANG THEORY SEASON 2 DISC 2_t01.mkv"
+        source_name: "01.mkv"
     "03":
       "01":
         title: "The Electric Can Opener Fluctuation"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t12.mkv"
+        source_name: "12.mkv"
       "02":
         title: "The Jiminy Conjecture"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t11.mkv"
+        source_name: "11.mkv"
       "03":
         title: "The Gothowitz Deviation"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t10.mkv"
+        source_name: "10.mkv"
       "04":
         title: "The Pirate Solution"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t09.mkv"
+        source_name: "09.mkv"
       "05":
         title: "The Creepy Candy Coating Corollary"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t08.mkv"
+        source_name: "08.mkv"
       "06":
         title: "The Cornhusker Vortex"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t07.mkv"
+        source_name: "07.mkv"
       "07":
         title: "The Guitarist Amplification"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t06.mkv"
+        source_name: "06.mkv"
       "08":
         title: "The Adhesive Duck Deficiency"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t05.mkv"
+        source_name: "05.mkv"
       "09":
         title: "The Vengeance Formulation"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t04.mkv"
+        source_name: "04.mkv"
       "10":
         title: "The Gorilla Experiment"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t03.mkv"
+        source_name: "03.mkv"
       "11":
         title: "The Maternal Congruence"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t02.mkv"
+        source_name: "02.mkv"
       "12":
         title: "The Psychic Vortex"
         source_dir: "The Big Bang Theory Season 3 Disc 1"
-        source_name: "The Big Bang Theory Season 3 Disc 1_t01.mkv"
+        source_name: "01.mkv"
       "13":
         title: "The Bozeman Reaction"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t07.mkv"
+        source_name: "07.mkv"
       "14":
         title: "The Einstein Approximation"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t06.mkv"
+        source_name: "06.mkv"
       "15":
         title: "The Large Hadron Collision"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t05.mkv"
+        source_name: "05.mkv"
       "16":
         title: "The Excelsior Acquisition"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t04.mkv"
+        source_name: "04.mkv"
       "17":
         title: "The Precious Fragmentation"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t03.mkv"
+        source_name: "03.mkv"
       "18":
         title: "The Pants Alternative"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t02.mkv"
+        source_name: "02.mkv"
       "19":
         title: "The Wheaton Recurrence"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t01.mkv"
+        source_name: "01.mkv"
       "20":
         title: "The Spaghetti Catalyst"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t00.mkv"
+        source_name: "00.mkv"
       "21":
         title: "The Plimpton Stimulation"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t12.mkv"
+        source_name: "12.mkv"
       "22":
         title: "The Staircase Implementation"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t11.mkv"
+        source_name: "11.mkv"
       "23":
         title: "The Lunar Excitation"
         source_dir: "The Big Bang Theory Season 3 Disc 2"
-        source_name: "The Big Bang Theory Season 3 Disc 2_t10.mkv"
+        source_name: "10.mkv"
     "04":
       "01":
         title: "The Robotic Manipulation"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t11.mkv"
+        source_name: "11.mkv"
       "02":
         title: "The Cruciferous Vegetable Amplification"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t10.mkv"
+        source_name: "10.mkv"
       "03":
         title: "The Zazzy Substitution"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t09.mkv"
+        source_name: "09.mkv"
       "04":
         title: "The Hot Troll Deviation"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t08.mkv"
+        source_name: "08.mkv"
       "05":
         title: "The Desperation Emanation"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t07.mkv"
+        source_name: "07.mkv"
       "06":
         title: "The Irish Pub Formulation"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t06.mkv"
+        source_name: "06.mkv"
       "07":
         title: "The Apology Insufficiency"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t05.mkv"
+        source_name: "05.mkv"
       "08":
         title: "The 21-Second Excitation"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t04.mkv"
+        source_name: "04.mkv"
       "09":
         title: "The Boyfriend Complexity"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t03.mkv"
+        source_name: "03.mkv"
       "10":
         title: "The Alien Parasite Hypothesis"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t02.mkv"
+        source_name: "02.mkv"
       "11":
         title: "The Justice League Recombination"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t01.mkv"
+        source_name: "01.mkv"
       "12":
         title: "The Bus Pants Utilization"
         source_dir: "The Big Bang Theory S4 D1"
-        source_name: "The Big Bang Theory S4 D1_t00.mkv"
+        source_name: "00.mkv"
       "13":
         title: "The Love Car Displacement"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t07.mkv"
+        source_name: "07.mkv"
       "14":
         title: "The Thespian Catalyst"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t06.mkv"
+        source_name: "06.mkv"
       "15":
         title: "The Benefactor Factor"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t05.mkv"
+        source_name: "05.mkv"
       "16":
         title: "The Cohabitation Formulation"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t04.mkv"
+        source_name: "04.mkv"
       "17":
         title: "The Toast Derivation"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t03.mkv"
+        source_name: "03.mkv"
       "18":
         title: "The Prestidigitation Approximation"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t02.mkv"
+        source_name: "02.mkv"
       "19":
         title: "The Zarnecki Incursion"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t01.mkv"
+        source_name: "01.mkv"
       "20":
         title: "The Herb Garden Germination"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t00.mkv"
+        source_name: "00.mkv"
       "21":
         title: "The Agreement Dissection"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t13.mkv"
+        source_name: "13.mkv"
       "22":
         title: "The Wildebeest Implementation"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t12.mkv"
+        source_name: "12.mkv"
       "23":
         title: "The Engagement Reaction"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t11.mkv"
+        source_name: "11.mkv"
       "24":
         title: "The Roommate Transmogrification"
         source_dir: "The Big Bang Theory S4 D2"
-        source_name: "The Big Bang Theory S4 D2_t14.mkv"
+        source_name: "14.mkv"
     "05":
       "01":
         title: "The Skank Reflex Analysis"
@@ -2797,487 +2797,487 @@ TV:
       "01":
         title: "The Date Night Variable"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t11.mkv"
+        source_name: "11.mkv"
       "02":
         title: "The Decoupling Fluctuation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t10.mkv"
+        source_name: "10.mkv"
       "03":
         title: "The Higgs Boson Observation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t09.mkv"
+        source_name: "09.mkv"
       "04":
         title: "The Re-Entry Minimization"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "05":
         title: "The Holographic Excitation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t08.mkv"
+        source_name: "08.mkv"
       "06":
         title: "The Extract Obliteration"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t07.mkv"
+        source_name: "07.mkv"
       "07":
         title: "The Habitation Configuration"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t06.mkv"
+        source_name: "06.mkv"
       "08":
         title: "The 43 Peculiarity"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t00.mkv"
+        source_name: "00.mkv"
       "09":
         title: "The Parking Spot Escalation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "10":
         title: "The Fish Guts Displacement"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "11":
         title: "The Santa Simulation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "12":
         title: "The Egg Salad Equivalency"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_1_t12.mkv"
+        source_name: "12.mkv"
       "13":
         title: "The Bakersfield Expedition"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t13.mkv"
+        source_name: "13.mkv"
       "14":
         title: "The Cooper-Kripke Inversion"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "15":
         title: "The Spoiler Alert Segmentation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t12.mkv"
+        source_name: "12.mkv"
       "16":
         title: "The Tangible Affection Proof"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t11.mkv"
+        source_name: "11.mkv"
       "17":
         title: "The Monster Isolation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t10.mkv"
+        source_name: "10.mkv"
       "18":
         title: "The Contractual Obligation Implementation"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t09.mkv"
+        source_name: "09.mkv"
       "19":
         title: "The Closet Reconfiguration"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t08.mkv"
+        source_name: "08.mkv"
       "20":
         title: "The Tenure Turbulence"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "21":
         title: "The Closure Alternative"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t06.mkv"
+        source_name: "06.mkv"
       "22":
         title: "The Proton Resurgence"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "23":
         title: "The Love Spell Potential"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "24":
         title: "The Bon Voyage Reaction"
         source_dir: "The_Big_Bang_Theory_Season_6_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_6_Disc_2_t02.mkv"
+        source_name: "02.mkv"
     "07":
       "01":
         title: "The Hofstadter Insufficiency"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t11.mkv"
+        source_name: "11.mkv"
       "02":
         title: "The Deception Verification"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t10.mkv"
+        source_name: "10.mkv"
       "03":
         title: "The Scavenger Vortex"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t09.mkv"
+        source_name: "09.mkv"
       "04":
         title: "The Raiders Minimization"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t08.mkv"
+        source_name: "08.mkv"
       "05":
         title: "The Workplace Proximity"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t07.mkv"
+        source_name: "07.mkv"
       "06":
         title: "The Romance Resonance"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t06.mkv"
+        source_name: "06.mkv"
       "07":
         title: "The Proton Displacement"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "08":
         title: "The Itchy Brain Simulation"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t04.mkv"
+        source_name: "04.mkv"
       "09":
         title: "The Thanksgiving Decoupling"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "10":
         title: "The Discovery Dissipation"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "11":
         title: "The Cooper Extraction"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "12":
         title: "The Hesitation Ramification"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_1_t00.mkv"
+        source_name: "00.mkv"
       "13":
         title: "The Occupation Recalibration"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t11.mkv"
+        source_name: "11.mkv"
       "14":
         title: "The Convention Conundrum"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t09.mkv"
+        source_name: "09.mkv"
       "15":
         title: "The Locomotive Manipulation"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t10.mkv"
+        source_name: "10.mkv"
       "16":
         title: "The Table Polarization"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t08.mkv"
+        source_name: "08.mkv"
       "17":
         title: "The Friendship Turbulence"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t06.mkv"
+        source_name: "06.mkv"
       "18":
         title: "The Mommy Observation"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "19":
         title: "The Indecision Amalgamation"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "20":
         title: "The Relationship Diremption"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "21":
         title: "The Anything Can Happen Recurrence"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t02.mkv"
+        source_name: "02.mkv"
       "22":
         title: "The Proton Transmogrification"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "23":
         title: "The Gorilla Dissolution"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "24":
         title: "The Status Quo Combustion"
         source_dir: "The_Big_Bang_Theory_Season_7_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_7_Disc_2_t00.mkv"
+        source_name: "00.mkv"
     "08":
       "01":
         title: "The Locomotion Interruption"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t07.mkv"
+        source_name: "07.mkv"
       "02":
         title: "The Junior Professor Solution"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t09.mkv"
+        source_name: "09.mkv"
       "03":
         title: "The First Pitch Insufficiency"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t06.mkv"
+        source_name: "06.mkv"
       "04":
         title: "The Hook-up Reverberation"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "05":
         title: "The Focus Attenuation"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t04.mkv"
+        source_name: "04.mkv"
       "06":
         title: "The Expedition Approximation"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "07":
         title: "The Misinterpretation Agitation"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "08":
         title: "The Prom Equivalency"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "09":
         title: "The Septum Deviation"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t00.mkv"
+        source_name: "00.mkv"
       "10":
         title: "The Champagne Reflection"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t08.mkv"
+        source_name: "08.mkv"
       "11":
         title: "The Clean Room Infiltration"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t10.mkv"
+        source_name: "10.mkv"
       "12":
         title: "The Space Probe Disintegration"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_1_t11.mkv"
+        source_name: "11.mkv"
       "13":
         title: "The Anxiety Optimization"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "14":
         title: "The Troll Manifestation"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t06.mkv"
+        source_name: "06.mkv"
       "15":
         title: "The Comic Book Store Regeneration"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "16":
         title: "The Intimacy Acceleration"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "17":
         title: "The Colonization Application"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "18":
         title: "The Leftover Thermalization"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t02.mkv"
+        source_name: "02.mkv"
       "19":
         title: "The Skywalker Incursion"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "20":
         title: "The Fortification Implementation"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t00.mkv"
+        source_name: "00.mkv"
       "21":
         title: "The Communication Deterioration"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t12.mkv"
+        source_name: "12.mkv"
       "22":
         title: "The Graduation Transmission"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t08.mkv"
+        source_name: "08.mkv"
       "23":
         title: "The Maternal Combustion"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t10.mkv"
+        source_name: "10.mkv"
       "24":
         title: "The Commitment Determination"
         source_dir: "The_Big_Bang_Theory_Season_8_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_8_Disc_2_t09.mkv"
+        source_name: "09.mkv"
     "09":
       "01":
         title: "The Matrimonial Momentum"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "02":
         title: "The Separation Oscillation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t04.mkv"
+        source_name: "04.mkv"
       "03":
         title: "The Bachelor Party Corrosion"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "04":
         title: "The 2003 Approximation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "05":
         title: "The Perspiration Implementation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "06":
         title: "The Helium Insufficiency"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t06.mkv"
+        source_name: "06.mkv"
       "07":
         title: "The Spock Resonance"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t07.mkv"
+        source_name: "07.mkv"
       "08":
         title: "The Mystery Date Observation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t08.mkv"
+        source_name: "08.mkv"
       "09":
         title: "The Platonic Permutation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t09.mkv"
+        source_name: "09.mkv"
       "10":
         title: "The Earworm Reverberation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t10.mkv"
+        source_name: "10.mkv"
       "11":
         title: "The Opening Night Excitation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t11.mkv"
+        source_name: "11.mkv"
       "12":
         title: "The Sales Call Sublimation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_1_t12.mkv"
+        source_name: "12.mkv"
       "13":
         title: "The Empathy Optimization"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "14":
         title: "The Meemaw Materialization"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t02.mkv"
+        source_name: "02.mkv"
       "15":
         title: "The Valentino Submergence"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "16":
         title: "The Positive Negative Reaction"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "17":
         title: "The Celebration Experimentation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "18":
         title: "The Application Deterioration"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t06.mkv"
+        source_name: "06.mkv"
       "19":
         title: "The Solder Excursion Diversion"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "20":
         title: "The Big Bear Precipitation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t08.mkv"
+        source_name: "08.mkv"
       "21":
         title: "The Viewing Party Combustion"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t09.mkv"
+        source_name: "09.mkv"
       "22":
         title: "The Fermentation Bifurcation"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t10.mkv"
+        source_name: "10.mkv"
       "23":
         title: "The Line Substitution Solution"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t11.mkv"
+        source_name: "11.mkv"
       "24":
         title: "The Convergence Convergence"
         source_dir: "The_Big_Bang_Theory_Season_9_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_9_Disc_2_t12.mkv"
+        source_name: "12.mkv"
     "10":
       "01":
         title: "The Conjugal Conjecture"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t01.mkv"
+        source_name: "01.mkv"
       "02":
         title: "The Military Miniaturization"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t02.mkv"
+        source_name: "02.mkv"
       "03":
         title: "The Dependence Transcendence"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t03.mkv"
+        source_name: "03.mkv"
       "04":
         title: "The Cohabitation Experimentation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t04.mkv"
+        source_name: "04.mkv"
       "05":
         title: "The Hot Tub Contamination"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t05.mkv"
+        source_name: "05.mkv"
       "06":
         title: "The Fetal Kick Catalyst"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t06.mkv"
+        source_name: "06.mkv"
       "07":
         title: "The Veracity Elasticity"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t08.mkv"
+        source_name: "08.mkv"
       "08":
         title: "The Brain Bowl Incubation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t09.mkv"
+        source_name: "09.mkv"
       "09":
         title: "The Geology Elevation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t10.mkv"
+        source_name: "10.mkv"
       "10":
         title: "The Property Division Collision"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t11.mkv"
+        source_name: "11.mkv"
       "11":
         title: "The Birthday Synchronicity"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t12.mkv"
+        source_name: "12.mkv"
       "12":
         title: "The Holiday Summation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_1"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_1_t13.mkv"
+        source_name: "13.mkv"
       "13":
         title: "The Romance Recalibration"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t01.mkv"
+        source_name: "01.mkv"
       "14":
         title: "The Emotion Detection Automation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t02.mkv"
+        source_name: "02.mkv"
       "15":
         title: "The Locomotion Reverberation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t03.mkv"
+        source_name: "03.mkv"
       "16":
         title: "The Allowance Evaporation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t04.mkv"
+        source_name: "04.mkv"
       "17":
         title: "The Comic-Con Conundrum"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t05.mkv"
+        source_name: "05.mkv"
       "18":
         title: "The Escape Hatch Identification"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t06.mkv"
+        source_name: "06.mkv"
       "19":
         title: "The Collaboration Fluctuation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t07.mkv"
+        source_name: "07.mkv"
       "20":
         title: "The Recollection Dissipation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t08.mkv"
+        source_name: "08.mkv"
       "21":
         title: "The Separation Agitation"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t09.mkv"
+        source_name: "09.mkv"
       "22":
         title: "The Cognition Regeneration"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t10.mkv"
+        source_name: "10.mkv"
       "23":
         title: "The Gyroscopic Collapse"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t11.mkv"
+        source_name: "11.mkv"
       "24":
         title: "The Long Distance Dissonance"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
-        source_name: "The_Big_Bang_Theory_Season_10_Disc_2_t12.mkv"
+        source_name: "12.mkv"
 
 DVR_Shows:
   "exceptions":
@@ -3292,4 +3292,4 @@ Templates:
       "01":
         title: "TODO"
         source_dir: "TODO"
-        source_name: "title_t00.mkv"
+        source_name: "00.mkv"
