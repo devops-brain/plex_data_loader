@@ -167,14 +167,23 @@ class Plex_Lib_Manager(object):
                 for edition in self.conversion_dict['Movies'][movie]["Feature"].keys():
                     edition_dict = self.conversion_dict['Movies'][movie]["Feature"][edition]
                     dest_name = "{} - {}.mkv".format(movie, edition_dict["edition"])
-                    source = os.path.join(self.input_path, edition_dict["source_dir"], edition_dict["source_name"])
-                    # look up filename based on if supplied title in the name of a file in the supplied directory
+                    source_dir = edition_dict["source_dir"]
+                    source_name = edition_dict["source_name"]
+                    # look up source_dir and use a close enough match
                     try:
-                        for f in os.listdir(os.path.join(self.input_path, edition_dict["source_dir"])):
-                            if edition_dict["source_name"] in f:
-                                source = os.path.join(self.input_path, edition_dict["source_dir"], f)
+                        for d in os.listdir(self.input_path):
+                            if source_dir.replace(' ', '_') in d.replace(' ', '_'):
+                                source_dir = d
                     except:
                         print(os.path.join(self.input_path, edition_dict["source_dir"]))
+                    # look up filename based on if supplied title in the name of a file in the supplied directory
+                    try:
+                        for f in os.listdir(os.path.join(self.input_path, source_dir)):
+                            if source_name.replace(' ', '_') in f.replace(' ', '_'):
+                                source_name = f
+                    except:
+                        print(os.path.join(self.input_path, source_dir))
+                    source = os.path.join(self.input_path, source_dir, source_name)
                     self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
                 if "Bonus" in self.conversion_dict['Movies'][movie].keys():
@@ -272,7 +281,7 @@ def rm_rf(path):
     """
     This function is used because shutil.rmtree fails to remove read-only files.
     """
-    '''if os.path.isdir(path):
+    if os.path.isdir(path):
         try:
             for root, dirs, files in os.walk(path, topdown=False):
                 for f in files:
@@ -288,7 +297,7 @@ def rm_rf(path):
             os.chmod(path, 0o666)
             os.remove(path)
         except:
-            logging.error(("Was there ever a file in " + path + "?"))'''
+            logging.error(("Was there ever a file in " + path + "?"))
     output = "couldn't run rm -rf " + path
     try:
         output = subprocess.check_output(("rm -rf " + path), shell=True)
