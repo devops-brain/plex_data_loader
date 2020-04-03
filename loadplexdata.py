@@ -148,14 +148,22 @@ class Plex_Lib_Manager(object):
                     for episode in sorted(self.conversion_dict['TV'][show][season].keys()):
                         episode_dict = self.conversion_dict['TV'][show][season][episode]
                         episode_name = "{} - S{}E{} - {}.mkv".format(show, season, episode, episode_dict["title"])
-                        source = os.path.join(self.input_path, episode_dict["source_dir"], episode_dict["source_name"])
+                        source_dir = episode_dict["source_dir"]
+                        source_name = episode_dict["source_name"]
                         dest_dir = os.path.join(self.output_path, show, "Season {}".format(season))
                         try:
-                            for f in os.listdir(os.path.join(self.input_path, episode_dict["source_dir"])):
-                                if episode_dict["source_name"] in f:
-                                    source = os.path.join(self.input_path, episode_dict["source_dir"], f)
+                            for d in os.listdir(self.input_path):
+                                if source_name.replace(' ', '_') in d.replace(' ', '_'):
+                                    source_name = d
                         except:
-                            print(os.path.join(self.input_path, episode_dict["source_dir"]))
+                            print(os.path.join(self.input_path, source_dir))
+                        try:
+                            for f in os.listdir(os.path.join(self.input_path, source_dir)):
+                                if source_name.replace(' ', '_') in f.replace(' ', '_'):
+                                    source_dir = f
+                        except:
+                            print(os.path.join(self.input_path, source_dir))
+                        source = os.path.join(self.input_path, source_dir, source_name)
                         #dest_fullpath = os.path.join(dest_dir, episode_name)
                         self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=episode_name)
 
