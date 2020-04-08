@@ -182,19 +182,19 @@ TV:
         source_name: "03.mkv"
       "05":
         title: "Prime Suspect"
-        source_dir: "NUMBERS_S1_D2"
+        source_dir: "NUMBER_S1_D2"
         source_name: "00.mkv"
       "06":
         title: "Sabotage"
-        source_dir: "NUMBERS_S1_D2"
+        source_dir: "NUMBER_S1_D2"
         source_name: "01.mkv"
       "07":
         title: "Counterfeit Reality"
-        source_dir: "NUMBERS_S1_D2"
+        source_dir: "NUMBER_S1_D2"
         source_name: "02.mkv"
       "08":
         title: "Identity Crisis"
-        source_dir: "NUMBERS_S1_D2"
+        source_dir: "NUMBER_S1_D2"
         source_name: "03.mkv"
       "09":
         title: "Sniper Zero"
