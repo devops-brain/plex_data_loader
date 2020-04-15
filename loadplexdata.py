@@ -153,13 +153,13 @@ class Plex_Lib_Manager(object):
                         dest_dir = os.path.join(self.output_path, show, "Season {}".format(season))
                         try:
                             for d in os.listdir(self.input_path):
-                                if source_dir.replace(' ', '_') in d.replace(' ', '_'):
+                                if source_dir.replace('-', '').replace(' ', '_') in d.replace('-', '').replace(' ', '_'):
                                     source_dir = d
                         except:
                             print(os.path.join(self.input_path, source_dir))
                         try:
                             for f in os.listdir(os.path.join(self.input_path, source_dir)):
-                                if source_name.replace(' ', '_') in f.replace(' ', '_'):
+                                if source_name.replace('-', '').replace(' ', '_') in f.replace('-', '').replace(' ', '_'):
                                     source_name = f
                         except:
                             print(os.path.join(self.input_path, source_dir))
@@ -180,14 +180,14 @@ class Plex_Lib_Manager(object):
                     # look up source_dir and use a close enough match
                     try:
                         for d in os.listdir(self.input_path):
-                            if source_dir.replace(' ', '_') in d.replace(' ', '_'):
+                            if source_dir.replace('-', '').replace(' ', '_') in d.replace('-', '').replace(' ', '_'):
                                 source_dir = d
                     except:
                         print(os.path.join(self.input_path, edition_dict["source_dir"]))
                     # look up filename based on if supplied title in the name of a file in the supplied directory
                     try:
                         for f in os.listdir(os.path.join(self.input_path, source_dir)):
-                            if source_name.replace(' ', '_') in f.replace(' ', '_'):
+                            if source_name.replace('-', '').replace(' ', '_') in f.replace('-', '').replace(' ', '_'):
                                 source_name = f
                     except:
                         print(os.path.join(self.input_path, source_dir))
