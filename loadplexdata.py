@@ -180,7 +180,7 @@ class Plex_Lib_Manager(object):
                     # look up source_dir and use a close enough match
                     try:
                         for d in os.listdir(self.input_path):
-                            if source_dir.replace('-', '').replace(' ', '_') in d.replace('-', '').replace(' ', '_'):
+                            if source_dir.replace('-', '').replace(' ', '_') == d.replace('-', '').replace(' ', '_'):
                                 source_dir = d
                     except:
                         print(os.path.join(self.input_path, edition_dict["source_dir"]))
