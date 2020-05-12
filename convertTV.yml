@@ -3278,6 +3278,103 @@ TV:
         title: "The Long Distance Dissonance"
         source_dir: "The_Big_Bang_Theory_Season_10_Disc_2"
         source_name: "12.mkv"
+    "11":
+      "01":
+        title: "The Proposal Proposal"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "01.mkv"
+      "02":
+        title: "The Retraction Reaction"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "02.mkv"
+      "03":
+        title: "The Relaxation Integration"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "03.mkv"
+      "04":
+        title: "The Explosion Implosion"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "04.mkv"
+      "05":
+        title: "The Collaboration Contamination"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "05.mkv"
+      "06":
+        title: "The Proton Regeneration"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "06.mkv"
+      "07":
+        title: "The Geology Methodology"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "08.mkv"
+      "08":
+        title: "The Tesla Recoil"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "09.mkv"
+      "09":
+        title: "The Bitcoin Entanglement"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "10.mkv"
+      "10":
+        title: "The Confidence Erosion"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "11.mkv"
+      "11":
+        title: "The Celebration Reverberation"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "12.mkv"
+      "12":
+        title: "The Matrimonial Metric"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_1"
+        source_name: "13.mkv"
+      "13":
+        title: "The Solo Oscillation"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "01.mkv"
+      "14":
+        title: "The Separation Triangulation"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "02.mkv"
+      "15":
+        title: "The Novelization Correlation"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "03.mkv"
+      "16":
+        title: "The Neonatal Nomenclature"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "04.mkv"
+      "17":
+        title: "The Athenaeum Allocation"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "05.mkv"
+      "18":
+        title: "The Gates Excitation"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "06.mkv"
+      "19":
+        title: "The Tenant Disassociation"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "07.mkv"
+      "20":
+        title: "The Reclusive Potential"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "08.mkv"
+      "21":
+        title: "The Comet Polarization"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "09.mkv"
+      "22":
+        title: "The Monetary Insufficiency"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "10.mkv"
+      "23":
+        title: "The Sibling Realignment"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "11.mkv"
+      "24":
+        title: "The Bow Tie Asymmetry"
+        source_dir: "Big_Bang_Theory_Season_11_Disc_2"
+        source_name: "12.mkv"
 
 DVR_Shows:
   "exceptions":
