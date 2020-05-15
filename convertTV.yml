@@ -3375,6 +3375,103 @@ TV:
         title: "The Bow Tie Asymmetry"
         source_dir: "Big_Bang_Theory_Season_11_Disc_2"
         source_name: "12.mkv"
+    "12":
+      "01":
+        title: "The Conjugal Configuration"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "01.mkv"
+      "02":
+        title: "The Wedding Gift Wormhole"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "02.mkv"
+      "03":
+        title: "The Procreation Calculation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "03.mkv"
+      "04":
+        title: "The Tam Turbulence"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "04.mkv"
+      "05":
+        title: "The Planetarium Collision"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "05.mkv"
+      "06":
+        title: "The Imitation Perturbation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "06.mkv"
+      "07":
+        title: "The Grant Allocation Derivation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "08.mkv"
+      "08":
+        title: "The Consummation Deviation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "09.mkv"
+      "09":
+        title: "The Citation Negation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "10.mkv"
+      "10":
+        title: "The VCR Illumination"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "11.mkv"
+      "11":
+        title: "The Paintball Scattering"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "12.mkv"
+      "12":
+        title: "The Propagation Proposition"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_1"
+        source_name: "13.mkv"
+      "13":
+        title: "The Confirmation Polarization"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "01.mkv"
+      "14":
+        title: "The Meteorite Manifestation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "02.mkv"
+      "15":
+        title: "The Donation Oscillation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "03.mkv"
+      "16":
+        title: "The D & D Vortex"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "04.mkv"
+      "17":
+        title: "The Conference Valuation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "05.mkv"
+      "18":
+        title: "The Laureate Accumulation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "06.mkv"
+      "19":
+        title: "The Inspiration Deprivation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "07.mkv"
+      "20":
+        title: "The Decision Reverberation"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "08.mkv"
+      "21":
+        title: "The Plagiarism Schism"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "09.mkv"
+      "22":
+        title: "The Maternal Conclusion"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "10.mkv"
+      "23":
+        title: "The Change Constant"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "11.mkv"
+      "24":
+        title: "The Stockholm Syndrome"
+        source_dir: "The_Big_Bang_Theory_Season_12_Disc_2"
+        source_name: "12.mkv"
 
 DVR_Shows:
   "exceptions":

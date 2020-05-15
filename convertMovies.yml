@@ -124,7 +124,7 @@ Movies:
       "30th_Anniversary_BD":
         edition: "30th_Anniversary_BD"
         source_dir: "Annie"
-        source_name: "01.mkv"
+        source_name: "06.mkv"
   "Ant-Man and the Wasp (2018)":
     "Feature":
       "PlayOn":
@@ -2868,7 +2868,7 @@ Movies:
       "50th_Anniversary_BD":
         edition: "50th_Anniversary_BD"
         source_dir: "The_Sound_of_Music"
-        source_name: "00.mkv"
+        source_name: "01.mkv"
     "Bonus":
       "Puppet Wedding":
         type: "short"
