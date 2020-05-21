@@ -65,6 +65,12 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "Æon Flux.mp4"
+  "Aladdin (2019)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Aladdin (Live Action)"
+        source_name: "00.mkv"
   "All of You (2017)":
     "Feature":
       "PlayOn":
