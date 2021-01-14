@@ -13,11 +13,11 @@ pipeline {
         sh '#python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
         sh '''for collection in koi-pond rose-garden dragons-den donna-collection roger-roger
         do
-        python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml
+        python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /media/${collection}_Movies/ -c ./convertMovies.yml
         done'''
         sh '''for collection in koi-pond dragons-den
         do
-        python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_TV/ -c ./convertTV.yml
+        python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /media/${collection}_TV/ -c ./convertTV.yml
         done'''
      }
     }
