@@ -15,7 +15,7 @@ pipeline {
         do
         python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /media/${collection}_Movies/ -c ./convertMovies.yml
         done'''
-        sh '''for collection in koi-pond dragons-den
+        sh '''for collection in koi-pond dragons-den donna-collection
         do
         python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /media/${collection}_TV/ -c ./convertTV.yml
         done'''
@@ -34,7 +34,7 @@ pipeline {
         do
         python3 ./loadplexdata.py -i /srv/nfs/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml
         done'''
-        sh '''for collection in Koi-Pond Dragons-Den
+        sh '''for collection in Koi-Pond Dragons-Den Donna-Collection
         do
         python3 ./loadplexdata.py -i /srv/nfs/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_TV/ -c ./convertTV.yml
         done'''
