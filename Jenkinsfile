@@ -8,10 +8,6 @@ pipeline {
       }
       steps {
         echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-        sh '''ls /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
-              ls /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
-              ls /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
-              ls /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
         sh '''rsync -Havu /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
               rsync -Havu /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
               rsync -Havu /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
