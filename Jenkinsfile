@@ -8,10 +8,10 @@ pipeline {
       }
       steps {
         echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-        sh '''rsync -Havu /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
-              rsync -Havu /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
-              rsync -Havu /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
-              rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
+        sh '''rsync -Havu --bwlimit=30000 --time-limit=180 /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
+              rsync -Havu --bwlimit=30000 --time-limit=180 /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
+              rsync -Havu --bwlimit=30000 --time-limit=180 /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
+              rsync -Havu --bwlimit=30000 --time-limit=180 /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
      }
     }
     stage('Generate or update symlink catalog of video masters in k8s') {
