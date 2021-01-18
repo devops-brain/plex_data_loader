@@ -191,7 +191,8 @@ class Plex_Lib_Manager(object):
                             if source_name.replace('-', '').replace(' ', '_') in f.replace('-', '').replace(' ', '_'):
                                 source_name = f
                     except:
-                        print(os.path.join(self.input_path, source_dir))
+                        #print(os.path.join(self.input_path, source_dir))
+                        source_dir = source_dir
                     source = os.path.join(self.input_path, source_dir, source_name)
                     self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
@@ -207,6 +208,7 @@ class Plex_Lib_Manager(object):
                                 source = os.path.join(self.input_path, bonus_dict["source_dir"], f)
                     except:
                         print(os.path.join(self.input_path, bonus_dict["source_dir"]))
+                        source = source
                     self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
                 ## TODO:  upload any .mkv files in listed directories as bonus content, to avoid needing to generate per file entries
