@@ -156,13 +156,15 @@ class Plex_Lib_Manager(object):
                                 if source_dir.replace('-', '').replace(' ', '_') in d.replace('-', '').replace(' ', '_'):
                                     source_dir = d
                         except:
-                            print(os.path.join(self.input_path, source_dir))
+                            #print(os.path.join(self.input_path, source_dir))
+                            source_dir = source_dir
                         try:
                             for f in os.listdir(os.path.join(self.input_path, source_dir)):
                                 if source_name.replace('-', '').replace(' ', '_') in f.replace('-', '').replace(' ', '_'):
                                     source_name = f
                         except:
-                            print(os.path.join(self.input_path, source_dir))
+                            #print(os.path.join(self.input_path, source_dir))
+                            source_name = source_name
                         source = os.path.join(self.input_path, source_dir, source_name)
                         #dest_fullpath = os.path.join(dest_dir, episode_name)
                         self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=episode_name)
@@ -207,7 +209,7 @@ class Plex_Lib_Manager(object):
                             if bonus_dict["source_name"] in f:
                                 source = os.path.join(self.input_path, bonus_dict["source_dir"], f)
                     except:
-                        print(os.path.join(self.input_path, bonus_dict["source_dir"]))
+                        #print(os.path.join(self.input_path, bonus_dict["source_dir"]))
                         source = source
                     self.copy_file(source_fullpath=source, dest_dir=dest_dir, dest_name=dest_name)
 
