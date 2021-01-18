@@ -183,7 +183,8 @@ class Plex_Lib_Manager(object):
                             if source_dir.replace('-', '').replace(' ', '_') == d.replace('-', '').replace(' ', '_'):
                                 source_dir = d
                     except:
-                        print(os.path.join(self.input_path, edition_dict["source_dir"]))
+                        #print(os.path.join(self.input_path, edition_dict["source_dir"]))
+                        source_dir = source_dir
                     # look up filename based on if supplied title in the name of a file in the supplied directory
                     try:
                         for f in os.listdir(os.path.join(self.input_path, source_dir)):
