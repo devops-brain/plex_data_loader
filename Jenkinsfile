@@ -11,6 +11,7 @@ pipeline {
         sh '#python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
         sh '#python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_Movies/ -c ./convertMovies.yml'
         sh '#python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
+        sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/legacy -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
         sh '''for collection in koi-pond rose-garden dragons-den donna-collection roger-roger
         do
         python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /media/${collection}_Movies/ -c ./convertMovies.yml
@@ -59,6 +60,7 @@ pipeline {
               rsync -Havu /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
               rsync -Havu /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
               rsync -Havu /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/temp/* /srv/masters_DVR/legacy/
               rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
       }
     }
