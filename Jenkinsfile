@@ -25,7 +25,7 @@ pipeline {
         sh '#python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
         sh '#python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_Movies/ -c ./convertMovies.yml'
         sh '#python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
-        sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/temp -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
+        sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/temp -o /media/DVR_TV/ -c ./convertTV.yml'
         sh '''for collection in koi-pond rose-garden dragons-den donna-collection roger-roger
         do
         python3 ./loadplexdata.py -i /srv/masters_${collection}/MakeMKV -o /media/${collection}_Movies/ -c ./convertMovies.yml
