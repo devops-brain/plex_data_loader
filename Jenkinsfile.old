@@ -13,6 +13,23 @@ pipeline {
               rsync -Havu /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
               rsync -Havu /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
               rsync -Havu /srv/nfs/masters_Koi-Pond/temp /srv/masters_DVR/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/HomeMade /srv/masters_koi-pond/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/Pictures /srv/masters_koi-pond/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/A* /srv/masters_koi-pond/MakeMKV/
+              #rsync -Hav --checksum /srv/nfs/masters_Koi-Pond/MakeMKV/A* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/B* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/C* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/D* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/F* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/H* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/L* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/M* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/N* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/R* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/S* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/T* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/t* /srv/masters_koi-pond/MakeMKV/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
       }
     }
