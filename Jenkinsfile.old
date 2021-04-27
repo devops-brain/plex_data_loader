@@ -28,7 +28,6 @@ pipeline {
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/R* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/S* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/T* /srv/masters_koi-pond/MakeMKV/
-              rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/t* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
       }
