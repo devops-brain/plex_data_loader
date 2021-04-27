@@ -2,20 +2,6 @@ pipeline {
   agent none
 
   stages {
-    stage('sync masters from legacy') {
-      agent {
-        label "plex-volumes"
-      }
-      steps {
-        echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-        sh '''rsync -Havu /srv/nfs/masters_Roger-Roger/* /srv/masters_roger-roger/
-              rsync -Havu /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
-              rsync -Havu /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
-              rsync -Havu /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
-              rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/
-              rsync -Hav --checksum /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
-      }
-    }
     stage('Generate or update symlink catalog of video masters in k8s') {
       agent {
         label "plex-volumes"
@@ -43,6 +29,21 @@ pipeline {
       steps {
         echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
         sh '#python3 ./loadplexdata.py --report -i /srv/masters_DVR/PlayOn -o /media/DVR_TV/ -c ./convertTV.yml'
+      }
+    }
+    stage('sync masters from legacy') {
+      agent {
+        label "plex-volumes"
+      }
+      steps {
+        echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
+        sh '''rsync -Havu /srv/nfs/masters_Roger-Roger/* /srv/masters_roger-roger/
+              rsync -Hav --checksum /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
+              rsync -Havu /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
+              rsync -Havu /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
+              rsync -Havu /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
+              rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/
+              rsync -Hav --checksum /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
       }
     }
   }

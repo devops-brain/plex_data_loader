@@ -16,7 +16,6 @@ pipeline {
               rsync -Havu /srv/nfs/masters_Koi-Pond/HomeMade /srv/masters_koi-pond/
               rsync -Havu /srv/nfs/masters_Koi-Pond/Pictures /srv/masters_koi-pond/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/A* /srv/masters_koi-pond/MakeMKV/
-              #rsync -Hav --checksum /srv/nfs/masters_Koi-Pond/MakeMKV/A* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/B* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/C* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/D* /srv/masters_koi-pond/MakeMKV/
@@ -29,7 +28,12 @@ pipeline {
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/S* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/T* /srv/masters_koi-pond/MakeMKV/
               rsync -Havu /srv/nfs/masters_Koi-Pond/MakeMKV/* /srv/masters_koi-pond/MakeMKV/
-              rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
+              rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/
+              rsync -Hav --checksum /srv/nfs/masters_Roger-Roger/* /srv/masters_roger-roger/
+              rsync -Hav --checksum /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
+              rsync -Hav --checksum /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
+              rsync -Hav --checksum /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
+              rsync -Hav --checksum /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
       }
     }
     stage('generate symlink index on all platforms in parallel'){
