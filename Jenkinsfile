@@ -41,8 +41,7 @@ pipeline {
               rsync -Havu /srv/nfs/masters_Rose-Garden/* /srv/masters_rose-garden/
               rsync -Havu /srv/nfs/masters_Donna-Collection/* /srv/masters_donna-collection/
               rsync -Havu /srv/nfs/masters_Dragons-Den/* /srv/masters_dragons-den/
-              rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/
-              rsync -Hav --checksum /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
+              rsync -Havu /srv/nfs/masters_Koi-Pond/* /srv/masters_koi-pond/'''
       }
     }
   }
