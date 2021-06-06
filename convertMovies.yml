@@ -2815,6 +2815,24 @@ Movies:
         edition: "PlayOn"
         source_dir: "Netflix"
         source_name: "The Pink Panther.mp4"
+  "Pitch Perfect (2012)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Pitch Perfect"
+        source_name: "00.mkv"
+  "Pitch Perfect 2 (2015)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Pitch Perfect 2"
+        source_name: "00.mkv"
+  "Pitch Perfect 3 (2017)":
+    "Feature":
+      "BD":
+        edition: "BD"
+        source_dir: "Pitch Perfect 3"
+        source_name: "00.mkv"
   "The Portrait of a Lady (1996)":
     "Feature":
       "PlayOn":
