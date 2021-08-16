@@ -1145,6 +1145,12 @@ Movies:
         edition: "DVD"
         source_dir: "IDIOCRACY_SIDEA"
         source_name: "00.mkv"
+  "In Harm-s Way (1965)":
+    "Feature":
+      "bd":
+        edition: "bd"
+        source_dir: "In Harm's Way"
+        source_name: "00.mkv"
   "Independence Day (1996)":
     "Feature":
       "DVD":

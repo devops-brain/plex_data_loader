@@ -162,6 +162,70 @@ TV:
         title: "You Know My Steez"
         source_dir: "Luke_Cage_Season_1_Disc_4"
         source_name: "01.mkv"
+  North & South:
+    "01":
+      "01":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 1 DISC 1 SIDE A"
+        source_name: "01.mkv"
+      "02":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 1 DISC 1 SIDE A"
+        source_name: "02.mkv"
+      "03":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 1 DISC 1 SIDE B"
+        source_name: "01.mkv"
+      "04":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 1 DISC 1 SIDE B"
+        source_name: "02.mkv"
+      "05":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 1 DISC 2"
+        source_name: "01.mkv"
+      "06":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 1 DISC 2"
+        source_name: "02.mkv"
+    "02":
+      "01":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 2 DISC 1 SIDE A"
+        source_name: "01.mkv"
+      "02":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 2 DISC 1 SIDE A"
+        source_name: "02.mkv"
+      "03":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 2 DISC 1 SIDE B"
+        source_name: "01.mkv"
+      "04":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 2 DISC 1 SIDE B"
+        source_name: "02.mkv"
+      "05":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 2 DISC 2"
+        source_name: "01.mkv"
+      "06":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 2 DISC 2"
+        source_name: "02.mkv"
+    "03":
+      "01":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 3 DISC 1 SIDE A"
+        source_name: "01.mkv"
+      "02":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 3 DISC 1 SIDE A"
+        source_name: "02.mkv"
+      "03":
+        title: "-"
+        source_dir: "NORTH AND SOUTH BOOK 3 DISC 1 SIDE B"
+        source_name: "00.mkv"
   Numb3rs:
     "01":
       "01":
