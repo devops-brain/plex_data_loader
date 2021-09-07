@@ -42,9 +42,9 @@ pipeline {
       }
       steps {
         echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
-        sh '#python3 ./loadplexdata.py -i /srv/nfs/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
-        sh 'python3 ./loadplexdata.py --dvr -i /srv/nfs/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_Movies/ -c ./convertMovies.yml'
-        sh 'python3 ./loadplexdata.py --dvr -i /srv/nfs/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
+        sh '#python3 ./loadplexdata.py -i /srv/nfs/masters_DVR/PlayOn -o /media/DVR_TV/ -c ./convertTV.yml'
+        sh 'python3 ./loadplexdata.py --dvr -i /srv/nfs/masters_DVR/PlayOn -o /media/DVR_Movies/ -c ./convertMovies.yml'
+        sh 'python3 ./loadplexdata.py --dvr -i /srv/nfs/masters_DVR/PlayOn -o /media/DVR_TV/ -c ./convertTV.yml'
         sh '''for collection in Koi-Pond Rose-Garden Dragons-Den Donna-Collection Roger-Roger
         do
         python3 ./loadplexdata.py -i /srv/nfs/masters_${collection}/MakeMKV -o /media/${collection}_Movies/ -c ./convertMovies.yml
