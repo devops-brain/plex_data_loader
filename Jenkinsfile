@@ -47,11 +47,11 @@ pipeline {
         sh 'python3 ./loadplexdata.py --dvr -i /srv/nfs/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
         sh '''for collection in Koi-Pond Rose-Garden Dragons-Den Donna-Collection Roger-Roger
         do
-        python3 ./loadplexdata.py -i /srv/nfs/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_Movies/ -c ./convertMovies.yml
+        python3 ./loadplexdata.py -i /srv/nfs/masters_${collection}/MakeMKV -o /media/${collection}_Movies/ -c ./convertMovies.yml
         done'''
         sh '''for collection in Koi-Pond Dragons-Den Donna-Collection
         do
-        python3 ./loadplexdata.py -i /srv/nfs/masters_${collection}/MakeMKV -o /srv/plexmedia_symlinks/${collection}_TV/ -c ./convertTV.yml
+        python3 ./loadplexdata.py -i /srv/nfs/masters_${collection}/MakeMKV -o /media/${collection}_TV/ -c ./convertTV.yml
         done'''
       }
     }
