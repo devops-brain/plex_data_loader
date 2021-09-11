@@ -55,7 +55,7 @@ pipeline {
               rsync -Havu /srv/nfs/masters_DVR/* /srv/masters_DVR/'''
       }
     }
-    stage('Generate or update symlink catalog of video masters on legacy infra') {
+    stage('Generate or update symlink catalog of video masters on legacy infra after sync') {
       agent {
         label "plex-shares"
       }
