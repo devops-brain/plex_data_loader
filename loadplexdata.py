@@ -43,7 +43,7 @@ class Plex_Lib_Manager(object):
 
         with open(convert_list_path, 'r') as s:
             try:
-                self.conversion_dict = yaml.load(s)
+                self.conversion_dict = yaml.safe_load(s)
             except yaml.YAMLError as e:
                 raise e
         # print( self.conversion_dict)
