@@ -8,6 +8,7 @@ pipeline {
       }
       steps {
         echo "Running ${env.BUILD_ID} on ${env.JENKINS_URL}"
+        sh 'ls -hal /srv/masters*'
         sh '#python3 ./loadplexdata.py -i /srv/masters_DVR/PlayOn -o /srv/plexmedia_symlinks/DVR_TV/ -c ./convertTV.yml'
         sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /media/DVR_Movies/ -c ./convertMovies.yml'
         sh 'python3 ./loadplexdata.py --dvr -i /srv/masters_DVR/PlayOn -o /media/DVR_TV/ -c ./convertTV.yml'
